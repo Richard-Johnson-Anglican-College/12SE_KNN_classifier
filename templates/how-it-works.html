@@ -54,7 +54,7 @@
                             <div class="step-number">1</div>
                             <div>
                                 <h3>Your answers become 8 numbers</h3>
-                                <p>Each answer is converted into a numerical feature — for example, "Yes, I rent" becomes <code>pct_renting = 62</code>. Your suburb is looked up and converted to <code>longitude</code> and <code>latitude</code> coordinates.</p>
+                                <p>Each answer is converted into a numerical feature — for example, "Yes, I rent" becomes <code>pct_renting = 72</code>. Your suburb is looked up and converted to <code>longitude</code> and <code>latitude</code> coordinates.</p>
                             </div>
                         </div>
 
@@ -109,11 +109,11 @@
                         <tbody>
                             <tr><td>Born overseas?</td><td><code>pct_born_overseas</code></td><td>72</td><td>18</td></tr>
                             <tr><td>Other language at home?</td><td><code>pct_english_only</code></td><td>22 (low)</td><td>80 (high)</td></tr>
-                            <tr><td>Do you rent?</td><td><code>pct_renting</code></td><td>62</td><td>28</td></tr>
+                            <tr><td>Do you rent?</td><td><code>pct_renting</code></td><td>72</td><td>18</td></tr>
                             <tr><td>University degree?</td><td><code>pct_university</code></td><td>55</td><td>20</td></tr>
                             <tr><td>Age</td><td><code>median_age</code></td><td colspan="2" style="color:var(--pico-muted-color);">Direct value — passed straight through</td></tr>
                             <tr><td>Weekly income</td><td><code>weekly_income</code></td><td colspan="2" style="color:var(--pico-muted-color);">Direct value ($AUD per week)</td></tr>
-                            <tr><td>Suburb name</td><td><code>longitude</code> + <code>latitude</code></td><td colspan="2" style="color:var(--pico-muted-color);">Matched to 49 anchor suburbs; defaults to Sydney CBD</td></tr>
+                            <tr><td>Suburb name</td><td><code>longitude</code> + <code>latitude</code></td><td colspan="2" style="color:var(--pico-muted-color);">Matched to 49 anchor suburbs; defaults to the geographic centroid of all suburbs (~Parramatta area) if blank or unrecognised</td></tr>
                         </tbody>
                     </table>
                 </article>
