@@ -149,7 +149,8 @@
                     <p class="section-title">Limitations</p>
                     <p style="font-size:.84rem; color:var(--pico-muted-color); line-height:1.7;">
                         This model uses <strong style="color:var(--pico-color)">synthetic data</strong> generated from estimated statistical profiles — not real ABS Census records. The high 100.0% accuracy reflects how cleanly the synthetic data was generated, not real-world performance.<br><br>
-                        Your personal answers are individual-level data being used as proxies for suburb-level aggregates, which introduces approximation. The results are for educational demonstration only.
+                        Your personal answers are individual-level data being used as proxies for suburb-level aggregates, which introduces approximation. The results are for educational demonstration only.<br><br>
+                        <strong style="color:var(--pico-color)">Training on startup:</strong> The model is not saved to disk. Every time the server starts, it regenerates the 1,470 synthetic residents and retrains from scratch. A fixed random seed (<code>np.random.seed(42)</code>) ensures results are always identical across restarts.
                     </p>
                 </article>
 
