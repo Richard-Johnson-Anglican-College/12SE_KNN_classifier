@@ -5,10 +5,23 @@
 <main>
     <div class="container">
 
+        {% set img_map = {
+            'creative':  'sub_inner_city.jpg',
+            'westie':    'sub_aspirational_westie.jpg',
+            'enclave':   'sub_cultural_enclave.jpg',
+            'surf':      'sub_surf_urbanite.jpg',
+            'diaspora':  'sub_diasporal_professional.jpg',
+            'harbor':    'sub_harbor_elite.jpg',
+            'vertical':  'sub_vertical_cosmopolitan.jpg',
+            'semirural': 'sub_semi_rural.jpg'
+        } %}
         <div class="result-banner {{ pred_class }}">
-            <div class="result-label">KNN Prediction</div>
-            <h1>{{ pred_name }}</h1>
-            <p>{{ pred_description }}</p>
+            <div class="result-banner-text">
+                <div class="result-label">KNN Prediction</div>
+                <h1>{{ pred_name }}</h1>
+                <p>{{ pred_description }}</p>
+            </div>
+            <img class="result-banner-img" src="{{ url_for('static', filename='images/' + img_map[pred_class]) }}" alt="{{ pred_name }}">
         </div>
 
         <div class="profile-summary">

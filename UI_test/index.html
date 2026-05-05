@@ -32,7 +32,7 @@
 
 <div class="hero">
     <h1>Which Sydney subculture are you?</h1>
-    <p>Answer 7 questions about yourself. Our KNN model will match you to one of four distinct Sydney demographic groups — and explain exactly why.</p>
+    <p>Answer 7 questions about yourself. Our KNN model will match you to one of eight distinct Sydney demographic groups — and explain exactly why.</p>
     <a href="quiz.html" role="button" class="lg">Start the Quiz &rarr;</a>
 </div>
 
@@ -40,32 +40,80 @@
     <div class="container">
 
         <div style="margin-top: 48px;">
-            <p class="section-title">The Four Subcultures</p>
-            <p style="font-size:.9rem; color:var(--text-muted); margin-bottom:4px;">The model classifies residents into one of these four groups based on 8 socio-economic features derived from synthetic ABS census data.</p>
+            <p class="section-title">The Eight Subcultures</p>
+            <p style="font-size:.9rem; color:var(--text-muted); margin-bottom:4px;">The model classifies residents into one of these eight groups based on 8 socio-economic features derived from synthetic ABS census data.</p>
             <div class="subculture-grid">
 
                 <div class="subculture-card creative">
-                    <h3>Inner-City Creative</h3>
-                    <p>Young renters in creative, academic and hospitality industries. High university education, diverse but predominantly English-speaking. High rental density.</p>
-                    <div class="suburbs-tag"><strong>Suburbs:</strong> Newtown, Surry Hills, Marrickville</div>
+                    <img class="card-img" src="../static/images/sub_inner_city.jpg" alt="Inner-City Creative">
+                    <div class="card-body">
+                        <h3>Inner-City Creative</h3>
+                        <p>Young renters in creative, academic and hospitality industries. High university education, diverse but predominantly English-speaking. High rental density.</p>
+                        <div class="suburbs-tag"><strong>Suburbs:</strong> Newtown, Surry Hills, Marrickville</div>
+                    </div>
                 </div>
 
                 <div class="subculture-card westie">
-                    <h3>Aspirational Westie</h3>
-                    <p>Working and middle-class families in the outer west. Multicultural, moderate income, mix of renters and owner-occupiers, striving for home ownership.</p>
-                    <div class="suburbs-tag"><strong>Suburbs:</strong> Blacktown, Penrith, Liverpool, Parramatta</div>
+                    <img class="card-img" src="../static/images/sub_aspirational_westie.jpg" alt="Aspirational Westie">
+                    <div class="card-body">
+                        <h3>Aspirational Westie</h3>
+                        <p>Working and middle-class families in the outer west. Multicultural, moderate income, mix of renters and owner-occupiers, striving for home ownership.</p>
+                        <div class="suburbs-tag"><strong>Suburbs:</strong> Blacktown, Penrith, Liverpool, Parramatta</div>
+                    </div>
                 </div>
 
                 <div class="subculture-card enclave">
-                    <h3>Cultural Enclave</h3>
-                    <p>Communities with high overseas-born populations and non-English home language. Strong ethnic identity, lower income, moderate renting rates.</p>
-                    <div class="suburbs-tag"><strong>Suburbs:</strong> Cabramatta, Auburn, Lakemba, Eastwood</div>
+                    <img class="card-img" src="../static/images/sub_cultural_enclave.jpg" alt="Cultural Enclave">
+                    <div class="card-body">
+                        <h3>Cultural Enclave</h3>
+                        <p>Communities with high overseas-born populations and non-English home language. Strong ethnic identity, lower income, moderate renting rates.</p>
+                        <div class="suburbs-tag"><strong>Suburbs:</strong> Cabramatta, Auburn, Lakemba, Eastwood</div>
+                    </div>
                 </div>
 
                 <div class="subculture-card surf">
-                    <h3>Surf-Urbanite</h3>
-                    <p>Older, high-income owner-occupiers in coastal and upper-northern suburbs. Predominantly Anglo-Australian, high English-only, strong property wealth.</p>
-                    <div class="suburbs-tag"><strong>Suburbs:</strong> Manly, Cronulla, Hornsby, Mona Vale</div>
+                    <img class="card-img" src="../static/images/sub_surf_urbanite.jpg" alt="Surf-Urbanite">
+                    <div class="card-body">
+                        <h3>Surf-Urbanite</h3>
+                        <p>Older, high-income owner-occupiers in coastal and upper-northern suburbs. Predominantly Anglo-Australian, high English-only, strong property wealth.</p>
+                        <div class="suburbs-tag"><strong>Suburbs:</strong> Manly, Cronulla, Hornsby, Mona Vale</div>
+                    </div>
+                </div>
+
+                <div class="subculture-card diaspora">
+                    <img class="card-img" src="../static/images/sub_diasporal_professional.jpg" alt="Diaspora Professional">
+                    <div class="card-body">
+                        <h3>Diaspora Professional</h3>
+                        <p>High-income, university-educated overseas-born homeowners in the Hills District. Non-English background, professionally established, strong property ownership.</p>
+                        <div class="suburbs-tag"><strong>Suburbs:</strong> Castle Hill, Chatswood, Epping, Ryde</div>
+                    </div>
+                </div>
+
+                <div class="subculture-card harbor">
+                    <img class="card-img" src="../static/images/sub_harbor_elite.jpg" alt="Harbor Elite">
+                    <div class="card-body">
+                        <h3>Harbor Elite</h3>
+                        <p>Ultra-high-income professionals in the Eastern Suburbs harbourside. Law, finance and medicine. Prestige real estate, predominantly Anglo-Australian and European heritage.</p>
+                        <div class="suburbs-tag"><strong>Suburbs:</strong> Vaucluse, Mosman, Double Bay, Bellevue Hill</div>
+                    </div>
+                </div>
+
+                <div class="subculture-card vertical">
+                    <img class="card-img" src="../static/images/sub_vertical_cosmopolitan.jpg" alt="Vertical Cosmopolitan">
+                    <div class="card-body">
+                        <h3>Vertical Cosmopolitan</h3>
+                        <p>Young professionals in high-density rail-corridor apartments. First-generation East Asian and Indian migrants. Extremely high rental rates and non-English home language.</p>
+                        <div class="suburbs-tag"><strong>Suburbs:</strong> Rhodes, Zetland, Wolli Creek, Wentworth Point</div>
+                    </div>
+                </div>
+
+                <div class="subculture-card semirural">
+                    <img class="card-img" src="../static/images/sub_semi_rural.jpg" alt="Semi-Rural Lifestyle Dweller">
+                    <div class="card-body">
+                        <h3>Semi-Rural Lifestyle Dweller</h3>
+                        <p>Successful tradespeople and business owners on the urban fringe. Large land holdings, high household income, low university rates, predominantly Anglo-Australian.</p>
+                        <div class="suburbs-tag"><strong>Suburbs:</strong> Dural, Galston, Cobbitty, Kemps Creek</div>
+                    </div>
                 </div>
 
             </div>

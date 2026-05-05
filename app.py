@@ -33,14 +33,14 @@ PRED_CLASS = {
 }
 
 PRED_DESCRIPTION = {
-    "Inner-City Creative": "Young renters in creative, academic and hospitality industries. High university education, diverse but predominantly English-speaking.",
-    "Aspirational Westie": "Working and middle-class families in the outer west. Multicultural, moderate income, mix of renters and owner-occupiers.",
-    "Cultural Enclave":    "Communities with high overseas-born populations and non-English home language. Strong ethnic identity, lower income.",
-    "Surf-Urbanite":       "Older, high-income owner-occupiers in coastal and upper-northern suburbs. Predominantly Anglo-Australian, high English-only.",
-    "Diaspora Professional": "High-income, university-educated overseas-born homeowners in the Hills District and north-western suburbs. Non-English background, professionally established, strong property ownership.",
-    "Harbor Elite": "Ultra-high-income professionals and executives in the Eastern Suburbs harbourside. Law, finance and medicine. Prestige real estate, high ownership, predominantly Anglo-Australian and European heritage.",
-    "Vertical Cosmopolitan": "Young professionals in high-density rail-corridor apartments. First-generation East Asian and Indian migrants. Extremely high rental rates and predominantly non-English home language.",
-    "Semi-Rural Lifestyle Dweller": "Successful tradespeople and business owners on the urban fringe. Large land holdings, high vehicle ownership, predominantly Anglo-Australian or European-heritage. Low university rates but high household income.",
+    "Inner-City Creative": "Renters in inner-city areas drawn to creative, academic and hospitality work. Typically young, university-educated, and diverse — with English as the dominant but not exclusive home language.",
+    "Aspirational Westie": "Multicultural families and individuals in the outer-western suburbs. A mix of renters and owner-occupiers across a broad income range, united more by location and aspiration than by wealth.",
+    "Cultural Enclave":    "Overseas-born residents living in close-knit communities where a language other than English is spoken at home. Household incomes vary widely; the defining trait is cultural and linguistic identity.",
+    "Surf-Urbanite":       "Established owner-occupiers in coastal and upper-northern suburbs. Predominantly Anglo-Australian with English spoken exclusively at home — typically middle-aged or older, with above-average but variable household incomes.",
+    "Diaspora Professional": "Overseas-born homeowners, largely university-educated, concentrated in the Hills District and north-western corridor. Non-English home language is common; incomes tend toward the higher end, reflecting strong professional employment.",
+    "Harbor Elite": "Owner-occupiers in prestige harbourside suburbs of the Eastern Suburbs and Lower North Shore. Predominantly Anglo-Australian or European heritage, high English-only rates, and among the highest household incomes in Sydney.",
+    "Vertical Cosmopolitan": "Renters in high-density apartments along rail corridors. Predominantly first-generation migrants from East Asia and South Asia, with non-English home language the norm. Typically young and university-educated.",
+    "Semi-Rural Lifestyle Dweller": "Owner-occupiers on large blocks at the urban fringe, drawn by space and lifestyle. Predominantly Anglo-Australian or European heritage, English-only at home, with lower university rates. Household incomes are typically above average.",
 }
 
 # ── Census profiles (mean, std) per subculture ───────────────────
@@ -50,7 +50,7 @@ profiles = {
     2: dict(age=(35, 5),  income=(580,   90), overseas=(72, 10), rent=(50, 10), english=(25, 12), uni=(22, 7)),
     3: dict(age=(42, 7),  income=(1150, 180), overseas=(18,  8), rent=(32,  8), english=(82,  8), uni=(52, 9)),
     4: dict(age=(48, 6),  income=(1350, 200), overseas=(78,  8), rent=(28,  8), english=(20,  8), uni=(58, 8)),   # Diaspora Professional
-    5: dict(age=(50, 6),  income=(3500, 500), overseas=(25,  8), rent=(18,  6), english=(72,  8), uni=(68, 8)),   # Harbor Elite
+    5: dict(age=(50, 6),  income=(1800, 200), overseas=(25,  8), rent=(18,  6), english=(72,  8), uni=(68, 8)),   # Harbor Elite
     6: dict(age=(31, 4),  income=(950,  130), overseas=(60, 10), rent=(65,  8), english=(18,  8), uni=(65, 8)),   # Vertical Cosmopolitan
     7: dict(age=(45, 7),  income=(1400, 250), overseas=(18,  8), rent=(15,  6), english=(78,  8), uni=(22, 7)),   # Semi-Rural Lifestyle Dweller
 }
@@ -205,17 +205,20 @@ knn_full.fit(X_scaled, y)
 print(f"Model ready — test accuracy: {accuracy_score(y_test, knn.predict(X_test))*100:.1f}%")
 
 # ── Helpers ───────────────────────────────────────────────────────
+_centroid_lon = sum(lon for lon, lat, _, _ in suburb_anchors) / len(suburb_anchors)
+_centroid_lat = sum(lat for lon, lat, _, _ in suburb_anchors) / len(suburb_anchors)
+
 def lookup_suburb(name):
     name_l = name.strip().lower()
     if not name_l:
-        return 151.21, -33.87, "Sydney CBD (default)"
+        return _centroid_lon, _centroid_lat, "no suburb entered (centroid used)"
     for lon, lat, _, suburb in suburb_anchors:
         if suburb.lower() == name_l:
             return lon, lat, suburb
     for lon, lat, _, suburb in suburb_anchors:
         if name_l in suburb.lower() or suburb.lower() in name_l:
             return lon, lat, suburb
-    return 151.21, -33.87, "Sydney CBD (default)"
+    return _centroid_lon, _centroid_lat, "unrecognised suburb (centroid used)"
 
 
 def run_prediction(form):
@@ -235,7 +238,7 @@ def run_prediction(form):
         age,
         income,
         72.0  if born == "yes" else 18.0,
-        62.0  if rent == "yes" else 28.0,
+        72.0  if rent == "yes" else 18.0,
         22.0  if lang == "yes" else 80.0,
         55.0  if uni  == "yes" else 20.0,
     ]

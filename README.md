@@ -22,24 +22,25 @@ It then shows you *exactly why* by revealing your 5 closest demographic neighbou
 | # | Subculture | Typical Suburbs | Profile |
 |---|-----------|-----------------|---------|
 | 1 | **Inner-City Creative** | Newtown, Surry Hills, Marrickville | Young renters in creative, academic & hospitality industries |
-| 2 | **Aspirational Westie** | Blacktown, Liverpool, Parramatta, Penrith | Working/middle-class families in the outer west |
-| 3 | **Cultural Enclave** | Cabramatta, Lakemba, Auburn, Hurstville | High overseas-born communities, strong ethnic identity |
-| 4 | **Surf-Urbanite** | Manly, Cronulla, Mona Vale, Hornsby | Older, high-income coastal owner-occupiers |
-| 5 | **Diaspora Professional** | Castle Hill, Chatswood, Epping, Ryde | High-income university-educated overseas-born homeowners |
-| 6 | **Harbor Elite** | Vaucluse, Mosman, Double Bay, Bellevue Hill | Ultra-high-income professionals in Eastern Suburbs |
-| 7 | **Vertical Cosmopolitan** | Rhodes, Zetland, Wolli Creek | Young apartment-dwellers in high-density rail corridors |
-| 8 | **Semi-Rural Lifestyle Dweller** | Dural, Galston, Cobbitty | Tradespeople & business owners on the urban fringe |
+| 2 | **Aspirational Westie** | Blacktown, Liverpool, Parramatta, Penrith | Multicultural families across a broad income range in the outer west |
+| 3 | **Cultural Enclave** | Cabramatta, Lakemba, Auburn, Hurstville | Overseas-born communities with strong cultural and linguistic identity |
+| 4 | **Surf-Urbanite** | Manly, Cronulla, Mona Vale, Hornsby | Anglo-Australian owner-occupiers in coastal/northern suburbs, typically middle-aged+ |
+| 5 | **Diaspora Professional** | Castle Hill, Chatswood, Epping, Ryde | University-educated overseas-born homeowners, non-English home language |
+| 6 | **Harbor Elite** | Vaucluse, Mosman, Double Bay, Bellevue Hill | Highest-income owner-occupiers in prestige harbourside suburbs |
+| 7 | **Vertical Cosmopolitan** | Rhodes, Zetland, Wolli Creek | Young renters in high-density rail-corridor apartments, East/South Asian background |
+| 8 | **Semi-Rural Lifestyle Dweller** | Dural, Galston, Cobbitty | Anglo-Australian owner-occupiers on large urban-fringe blocks |
 
 ---
 
 ## ✨ Features
 
 - **7-question web quiz** — suburb, age, income, birthplace, home language, renting status, and university education
-- **8-class KNN classifier** trained on 1,530+ synthetic census-style data points across 52 Greater Sydney suburbs
-- **Diagnostic results page** — prediction, confidence class, 5 nearest neighbours with suburb + community + Euclidean distance
+- **8-class KNN classifier** trained on 1,470+ synthetic census-style data points across 49 Greater Sydney suburbs
+- **Diagnostic results page** — prediction, 5 nearest neighbours with suburb + community + Euclidean distance, and feature contribution chart
 - **Feature contribution chart** — per-feature squared distance breakdown showing what drove the prediction
-- **Fuzzy suburb matching** — partial name matching with Sydney CBD fallback
-- **99%+ model accuracy** on held-out test data
+- **Responsive image card grid** — 4-column desktop / 2-column tablet / 1-column mobile with subculture photos
+- **Fuzzy suburb matching** — partial name matching with geographic centroid fallback (not Sydney CBD) when no suburb is entered
+- **100% model accuracy** on held-out synthetic test data
 
 ---
 
@@ -146,8 +147,10 @@ Because the quiz asks personal yes/no questions but the model expects suburb-lev
 |--------------|-------|------|
 | Born overseas? | `pct_born_overseas` = 72 | 18 |
 | Other language at home? | `pct_english_only` = 22 | 80 |
-| Renting? | `pct_renting` = 62 | 28 |
+| Renting? | `pct_renting` = 72 | 18 |
 | University degree? | `pct_university` = 55 | 20 |
+
+> **Note:** Renting proxy values (72/18) are anchored to the Inner-City Creative and Surf-Urbanite suburb profiles respectively, maximising tenure's discriminating power across classes.
 
 ### Feature Standardisation
 
