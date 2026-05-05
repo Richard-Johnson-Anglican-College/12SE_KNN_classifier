@@ -157,6 +157,12 @@ nav.main-nav .container { display: flex; padding: 0 24px; }
 /* Proxy table header */
 .proxy-table th { background: var(--navy); color: white; }
 
+/* How It Works two-column layout */
+.hiw-grid { display: grid; grid-template-columns: 2fr 1fr; gap: 24px; align-items: start; }
+
+/* Proxy table scroll on small screens */
+.proxy-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
 /* Spec cards */
 .specs-row { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 18px; }
 .spec-card { flex: 1; min-width: 120px; background: white; border: 1px solid var(--border); border-radius: 3px; padding: 16px; text-align: center; }
@@ -171,6 +177,7 @@ nav.main-nav .container { display: flex; padding: 0 24px; }
 /* ── Responsive ─────────────────────────────────────────────────── */
 @media (max-width: 900px) {
     .subculture-grid { grid-template-columns: repeat(2, 1fr); }
+    .hiw-grid { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 700px) {
@@ -179,4 +186,10 @@ nav.main-nav .container { display: flex; padding: 0 24px; }
     .result-banner-img { display: none; }
     .hero h1 { font-size: 1.9rem; }
     .site-subtitle { display: none; }
+    .toggle-group { display: flex; flex-direction: column; border-radius: 3px; }
+    .toggle-option label { border-right: none; border-bottom: 1px solid var(--border); text-align: center; padding: 11px 16px; }
+    .toggle-option:last-child label { border-bottom: none; }
+    .form-card { padding: 20px 16px; }
+    .page-heading { padding: 28px 0 16px; }
+    .page-heading h1 { font-size: 1.6rem; }
 }

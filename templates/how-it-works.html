@@ -10,7 +10,7 @@
             <p>A beginner-friendly guide to machine learning, the KNN algorithm, and how this tool uses both to classify Sydney subcultures.</p>
         </div>
 
-        <div style="display:grid; grid-template-columns:2fr 1fr; gap:24px; align-items:start;">
+        <div class="hiw-grid">
 
             <!-- Left column -->
             <div>
@@ -97,7 +97,7 @@
                 <article>
                     <p class="section-title">How Your Answers Map to Census Features</p>
                     <p style="font-size:.84rem; color:var(--pico-muted-color); margin-bottom:16px;">The model expects suburb-level census aggregate statistics. Since you are an individual, your personal answers are used as proxies — an inherent approximation.</p>
-                    <table class="proxy-table">
+                    <div class="proxy-table-wrap"><table class="proxy-table">
                         <thead>
                             <tr>
                                 <th>Question</th>
@@ -115,7 +115,7 @@
                             <tr><td>Weekly income</td><td><code>weekly_income</code></td><td colspan="2" style="color:var(--pico-muted-color);">Direct value ($AUD per week)</td></tr>
                             <tr><td>Suburb name</td><td><code>longitude</code> + <code>latitude</code></td><td colspan="2" style="color:var(--pico-muted-color);">Matched to 49 anchor suburbs; defaults to the geographic centroid of all suburbs (~Parramatta area) if blank or unrecognised</td></tr>
                         </tbody>
-                    </table>
+                    </table></div>
                 </article>
 
             </div>
