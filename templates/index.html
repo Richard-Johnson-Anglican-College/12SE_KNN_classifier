@@ -2,7 +2,7 @@
 {% block title %}Sydney Subculture Classifier{% endblock %}
 
 {% block content %}
-<div class="hero">
+<div class="hero" style="background: linear-gradient(rgba(15,23,50,.80), rgba(15,23,50,.80)), url('{{ url_for('static', filename='sydney_dark.png') }}') center/cover no-repeat;">
     <h1>Which Sydney subculture are you?</h1>
     <p>Answer 7 questions about yourself. Our KNN model will match you to one of eight distinct Sydney demographic groups — and explain exactly why.</p>
     <a href="{{ url_for('quiz') }}" role="button" class="lg">Start the Quiz &rarr;</a>
