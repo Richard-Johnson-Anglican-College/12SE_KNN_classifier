@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Take the Quiz — Sydney Subculture Classifier</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="gov-bar"><div class="container">New South Wales Government &nbsp;·&nbsp; Year 12 Software Engineering — Digital Research Tool</div></div>
+
+<header class="site-header">
+    <div class="container">
+        <div>
+            <a href="index.html" class="site-title">Sydney Subculture Classifier</a>
+            <div class="site-subtitle">K-Nearest Neighbours Machine Learning Model &nbsp;·&nbsp; Synthetic Census Data</div>
+        </div>
+    </div>
+</header>
+
+<nav class="main-nav">
+    <div class="container">
+        <a href="index.html" class="nav-link">Home</a>
+        <a href="quiz.html" class="nav-link active">Take the Quiz</a>
+        <a href="how-it-works.html" class="nav-link">How It Works</a>
+    </div>
+</nav>
+
+
+<main>
+    <div class="container">
+
+        <div class="page-heading">
+            <h1>Tell us about yourself</h1>
+            <p>Answer 7 questions. Your responses are matched against 780 synthetic Sydney residents using K-Nearest Neighbours across 8 features.</p>
+        </div>
+
+        <article class="form-card">
+            <form action="results.html">
+
+                <!-- Q1 -->
+                <div class="question-group">
+                    <label class="question-label" for="suburb">
+                        <span class="question-number">1</span>
+                        What suburb do you live in or near?
+                    </label>
+                    <div class="question-hint">Start typing — suggestions will appear. If your suburb isn't listed, the model will use Sydney CBD coordinates.</div>
+                    <input type="text" id="suburb" name="suburb" placeholder="e.g. Newtown, Penrith, Manly…" list="suburb-list" autocomplete="off">
+                    <datalist id="suburb-list">
+                        <option value="Newtown"><option value="Surry Hills"><option value="Marrickville">
+                        <option value="Blacktown"><option value="Rooty Hill"><option value="Liverpool">
+                        <option value="Parramatta"><option value="Cabramatta"><option value="Fairfield">
+                        <option value="Harris Park"><option value="Lakemba"><option value="Auburn">
+                        <option value="Campsie"><option value="Strathfield"><option value="Hurstville">
+                        <option value="Eastwood"><option value="Wetherill Park"><option value="Manly">
+                        <option value="Cronulla"><option value="Hornsby"><option value="Mona Vale">
+                        <option value="Penrith"><option value="Springwood"><option value="Campbelltown">
+                        <option value="St Marys"><option value="Mount Druitt">
+                    </datalist>
+                </div>
+
+                <!-- Q2 -->
+                <div class="question-group">
+                    <label class="question-label" for="age">
+                        <span class="question-number">2</span>
+                        How old are you?
+                    </label>
+                    <div class="question-hint">Enter your age in years.</div>
+                    <input type="number" id="age" name="age" placeholder="e.g. 34" min="10" max="100" style="max-width:160px;">
+                </div>
+
+                <!-- Q3 -->
+                <div class="question-group">
+                    <label class="question-label" for="income">
+                        <span class="question-number">3</span>
+                        Roughly what is your weekly take-home income?
+                    </label>
+                    <div class="question-hint">Your approximate after-tax weekly pay in Australian dollars.</div>
+                    <div class="input-wrap" style="max-width:200px;">
+                        <span class="input-prefix">$</span>
+                        <input type="number" id="income" name="income" placeholder="850" min="0" max="10000">
+                    </div>
+                </div>
+
+                <!-- Q4 -->
+                <div class="question-group">
+                    <label class="question-label">
+                        <span class="question-number">4</span>
+                        Were you born overseas?
+                    </label>
+                    <div class="question-hint">Born outside of Australia.</div>
+                    <div class="toggle-group">
+                        <div class="toggle-option">
+                            <input type="radio" id="born_yes" name="born_overseas" value="yes">
+                            <label for="born_yes">Yes</label>
+                        </div>
+                        <div class="toggle-option">
+                            <input type="radio" id="born_no" name="born_overseas" value="no" checked>
+                            <label for="born_no">No</label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Q5 -->
+                <div class="question-group">
+                    <label class="question-label">
+                        <span class="question-number">5</span>
+                        Do you mainly speak a language other than English at home?
+                    </label>
+                    <div class="question-hint">Including if you speak both English and another language.</div>
+                    <div class="toggle-group">
+                        <div class="toggle-option">
+                            <input type="radio" id="lang_yes" name="other_language" value="yes">
+                            <label for="lang_yes">Yes — another language</label>
+                        </div>
+                        <div class="toggle-option">
+                            <input type="radio" id="lang_no" name="other_language" value="no" checked>
+                            <label for="lang_no">No — English only</label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Q6 -->
+                <div class="question-group">
+                    <label class="question-label">
+                        <span class="question-number">6</span>
+                        Do you currently rent your home?
+                    </label>
+                    <div class="question-hint">Whether you pay rent to a landlord or property manager.</div>
+                    <div class="toggle-group">
+                        <div class="toggle-option">
+                            <input type="radio" id="rent_yes" name="renting" value="yes">
+                            <label for="rent_yes">Yes — I rent</label>
+                        </div>
+                        <div class="toggle-option">
+                            <input type="radio" id="rent_no" name="renting" value="no" checked>
+                            <label for="rent_no">No — I own</label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Q7 -->
+                <div class="question-group">
+                    <label class="question-label">
+                        <span class="question-number">7</span>
+                        Do you have a university degree?
+                    </label>
+                    <div class="question-hint">Any completed bachelor's degree or higher.</div>
+                    <div class="toggle-group">
+                        <div class="toggle-option">
+                            <input type="radio" id="uni_yes" name="university" value="yes">
+                            <label for="uni_yes">Yes</label>
+                        </div>
+                        <div class="toggle-option">
+                            <input type="radio" id="uni_no" name="university" value="no" checked>
+                            <label for="uni_no">No</label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-disclaimer">
+                    <strong>Note:</strong> Your personal answers are used as approximate proxies for suburb-level census statistics.
+                    Results are illustrative only and based on synthetic data — not real ABS records.
+                </div>
+
+                <button type="submit" class="lg">Predict my subculture &rarr;</button>
+
+            </form>
+        </article>
+
+    </div>
+</main>
+
+<footer class="site-footer">
+    <div class="container">
+        <span>Sydney Subculture Classifier &nbsp;·&nbsp; Year 12 Software Engineering &nbsp;·&nbsp; Synthetic data — not real ABS records.</span>
+        <span><a href="how-it-works.html">About this model</a></span>
+    </div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,283 @@
+{% extends "base.html" %}
+{% block title %}How It Works — Sydney Subculture Classifier{% endblock %}
+
+{% block content %}
+<main>
+    <div class="container">
+
+        <div class="page-heading">
+            <h1>How It Works</h1>
+            <p>A beginner-friendly guide to machine learning, the KNN algorithm, and how this tool uses both to classify Sydney subcultures.</p>
+        </div>
+
+        <div style="display:grid; grid-template-columns:2fr 1fr; gap:24px; align-items:start;">
+
+            <!-- Left column -->
+            <div>
+
+                <article>
+                    <p class="section-title">What is Machine Learning?</p>
+                    <p style="font-size:.93rem; margin-bottom:14px;">Traditional computer programs follow rules a programmer writes explicitly — <em>"if income is high and suburb is coastal, label it Surf-Urbanite."</em> The problem is that real-world patterns are too complex and numerous to hand-code.</p>
+                    <p style="font-size:.93rem; margin-bottom:14px;"><strong>Machine learning</strong> flips this: instead of writing the rules, you give the program hundreds of labelled examples and let it discover the patterns itself. The program <em>learns</em> from data.</p>
+                    <p style="font-size:.93rem;">This tool uses a machine learning model trained on 1,470 synthetic Sydney residents — each one described by 8 demographic numbers and pre-labelled with one of eight subcultures. The model learned which combinations of numbers correspond to which group, so it can now classify people it has never seen before.</p>
+                </article>
+
+                <article>
+                    <p class="section-title">What is K-Nearest Neighbours (KNN)?</p>
+                    <p style="font-size:.93rem; margin-bottom:14px;">KNN is one of the most intuitive machine learning algorithms. Its logic mirrors how humans think: <strong>"you are most like the people closest to you."</strong></p>
+                    <p style="font-size:.93rem; margin-bottom:14px;">Imagine you have moved to a new suburb and want to know what kind of area it is. You look at your five nearest neighbours — what they earn, whether they rent, where they were born — and make a judgement based on what most of them have in common. KNN does exactly this, but with maths instead of intuition.</p>
+                    <p style="font-size:.93rem; margin-bottom:14px;">Each resident in the database is plotted as a point in an 8-dimensional space (one dimension per feature). When you submit your answers, your profile becomes a new point in that same space. The model measures the straight-line distance from your point to every other point, finds the 5 closest, and lets them vote. The subculture with the most votes wins.</p>
+                    <div style="background:#EEF6FA; border-left:3px solid var(--teal); padding:12px 16px; border-radius:0 3px 3px 0; font-size:.86rem; color:var(--pico-muted-color);">
+                        <strong style="color:var(--pico-color)">Why 100% accuracy?</strong> The synthetic training data was generated from tightly defined statistical profiles — each subculture has deliberately distinct income, language, and rental patterns. This makes the eight groups very well-separated in 8D space, so KNN can classify them almost perfectly. Real-world census data would be messier and accuracy would be lower.
+                    </div>
+                </article>
+
+                <!-- Map Visualisation -->
+                <article>
+                    <p class="section-title">The 1,470 Training Residents — Mapped</p>
+                    <p style="font-size:.84rem; color:var(--pico-muted-color); margin-bottom:14px;">Each dot is one of the 1,470 synthetic residents in the training database, plotted at their generated location and coloured by subculture. This is the data the KNN model searches through when classifying a new person. Hover over dots to identify the suburb.</p>
+                    <div style="position:relative;">
+                        <canvas id="knn-map" style="display:block; border-radius:3px; cursor:crosshair; max-width:100%;"></canvas>
+                        <div id="map-tip" style="position:absolute; background:rgba(0,0,0,.82); color:white; font-size:.75rem; padding:6px 10px; border-radius:3px; pointer-events:none; display:none; line-height:1.5; white-space:nowrap;"></div>
+                    </div>
+                    <div style="display:flex; justify-content:space-between; align-items:center; margin-top:10px; flex-wrap:wrap; gap:8px;">
+                        <p style="font-size:.73rem; color:var(--pico-muted-color); margin:0;">Dots animate on load — suburbs cluster visibly by subculture.</p>
+                        <button id="map-replay" class="outline" style="font-size:.8rem; padding:5px 14px; margin:0;">&#x21BA; Replay</button>
+                    </div>
+                </article>
+
+                <article>
+                    <p class="section-title">What Happens When You Hit "Predict"</p>
+                    <div class="steps">
+
+                        <div class="step">
+                            <div class="step-number">1</div>
+                            <div>
+                                <h3>Your answers become 8 numbers</h3>
+                                <p>Each answer is converted into a numerical feature — for example, "Yes, I rent" becomes <code>pct_renting = 62</code>. Your suburb is looked up and converted to <code>longitude</code> and <code>latitude</code> coordinates.</p>
+                            </div>
+                        </div>
+
+                        <div class="step">
+                            <div class="step-number">2</div>
+                            <div>
+                                <h3>Features are standardised</h3>
+                                <p>Income ($850/wk) and a percentage (62%) are on very different scales. If left raw, income would dominate every distance calculation just because it is a bigger number. <code>StandardScaler</code> rescales all 8 features to the same range first.</p>
+                            </div>
+                        </div>
+
+                        <div class="step">
+                            <div class="step-number">3</div>
+                            <div>
+                                <h3>Distance to all 1,470 residents is calculated</h3>
+                                <p>The model computes the straight-line (Euclidean) distance between your 8-number profile and every resident's 8-number profile. Think of it as measuring how far apart two points are — just in 8 dimensions instead of 2.</p>
+                            </div>
+                        </div>
+
+                        <div class="step">
+                            <div class="step-number">4</div>
+                            <div>
+                                <h3>The 5 nearest neighbours vote</h3>
+                                <p>The 5 residents with the smallest distance to you are identified. Each casts one vote for their subculture. The subculture with the most votes (majority) becomes your prediction. The value <em>k = 5</em> is the number of neighbours — using more neighbours makes the model smoother but less precise.</p>
+                            </div>
+                        </div>
+
+                        <div class="step">
+                            <div class="step-number">5</div>
+                            <div>
+                                <h3>Feature contributions are explained</h3>
+                                <p>For each feature, we measure how much of the mean squared distance between you and your neighbours it was responsible for. Features where you differed most from your neighbours had the biggest influence — shown as the longest bars in the results chart.</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </article>
+
+                <!-- Proxy table -->
+                <article>
+                    <p class="section-title">How Your Answers Map to Census Features</p>
+                    <p style="font-size:.84rem; color:var(--pico-muted-color); margin-bottom:16px;">The model expects suburb-level census aggregate statistics. Since you are an individual, your personal answers are used as proxies — an inherent approximation.</p>
+                    <table class="proxy-table">
+                        <thead>
+                            <tr>
+                                <th>Question</th>
+                                <th>Census feature</th>
+                                <th>Yes / rent / have</th>
+                                <th>No / own / don't</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr><td>Born overseas?</td><td><code>pct_born_overseas</code></td><td>72</td><td>18</td></tr>
+                            <tr><td>Other language at home?</td><td><code>pct_english_only</code></td><td>22 (low)</td><td>80 (high)</td></tr>
+                            <tr><td>Do you rent?</td><td><code>pct_renting</code></td><td>62</td><td>28</td></tr>
+                            <tr><td>University degree?</td><td><code>pct_university</code></td><td>55</td><td>20</td></tr>
+                            <tr><td>Age</td><td><code>median_age</code></td><td colspan="2" style="color:var(--pico-muted-color);">Direct value — passed straight through</td></tr>
+                            <tr><td>Weekly income</td><td><code>weekly_income</code></td><td colspan="2" style="color:var(--pico-muted-color);">Direct value ($AUD per week)</td></tr>
+                            <tr><td>Suburb name</td><td><code>longitude</code> + <code>latitude</code></td><td colspan="2" style="color:var(--pico-muted-color);">Matched to 49 anchor suburbs; defaults to Sydney CBD</td></tr>
+                        </tbody>
+                    </table>
+                </article>
+
+            </div>
+
+            <!-- Right column -->
+            <div>
+
+                <article style="margin-bottom:20px;">
+                    <p class="section-title">Model Specifications</p>
+                    <div class="specs-row" style="flex-direction:column; gap:12px;">
+                        <div class="spec-card">
+                            <div class="spec-value">1,470</div>
+                            <div class="spec-label">Synthetic residents in the training database</div>
+                        </div>
+                        <div class="spec-card">
+                            <div class="spec-value">8</div>
+                            <div class="spec-label">Socio-economic features per resident</div>
+                        </div>
+                        <div class="spec-card">
+                            <div class="spec-value">k = 5</div>
+                            <div class="spec-label">Nearest neighbours used for majority vote</div>
+                        </div>
+                        <div class="spec-card">
+                            <div class="spec-value">100.0%</div>
+                            <div class="spec-label">Accuracy on held-out test data (20% split)</div>
+                        </div>
+                    </div>
+                </article>
+
+                <article>
+                    <p class="section-title">Limitations</p>
+                    <p style="font-size:.84rem; color:var(--pico-muted-color); line-height:1.7;">
+                        This model uses <strong style="color:var(--pico-color)">synthetic data</strong> generated from estimated statistical profiles — not real ABS Census records. The high 100.0% accuracy reflects how cleanly the synthetic data was generated, not real-world performance.<br><br>
+                        Your personal answers are individual-level data being used as proxies for suburb-level aggregates, which introduces approximation. The results are for educational demonstration only.
+                    </p>
+                </article>
+
+            </div>
+
+        </div>
+
+        <div style="margin-top:32px;">
+            <a href="{{ url_for('quiz') }}" role="button">Take the Quiz &rarr;</a>
+        </div>
+
+    </div>
+</main>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='residents_data.js') }}"></script>
+<script>
+(function () {
+    var LON_MIN = 150.43, LON_MAX = 151.40;
+    var LAT_TOP = -33.40, LAT_BOT = -34.18;
+    var COLORS = ['#B03A2E', '#6C3483', '#0E6655', '#1A5276', '#C47A1E', '#2E4057', '#00838F', '#6D4C41'];
+    var LABELS = ['Inner-City Creative', 'Aspirational Westie', 'Cultural Enclave', 'Surf-Urbanite', 'Diaspora Professional', 'Harbor Elite', 'Vertical Cosmopolitan', 'Semi-Rural Lifestyle Dweller'];
+
+    var canvas  = document.getElementById('knn-map');
+    var tooltip = document.getElementById('map-tip');
+    var ctx     = canvas.getContext('2d');
+    var animTimer = null;
+
+    var mapImg = new Image();
+    mapImg.src = "{{ url_for('static', filename='sydney_dark.png') }}";
+    mapImg.onload = function () { resize(); animate(); };
+    mapImg.onerror = function () {
+        canvas.parentElement.innerHTML = '<p style="color:var(--pico-muted-color);font-size:.84rem;padding:20px 0;">Map image could not be loaded.</p>';
+    };
+
+    function resize() {
+        var w = canvas.parentElement.clientWidth;
+        canvas.width  = w;
+        canvas.height = Math.round(w * mapImg.naturalHeight / mapImg.naturalWidth);
+    }
+
+    function geo(lon, lat) {
+        return [
+            (lon - LON_MIN) / (LON_MAX - LON_MIN) * canvas.width,
+            (lat - LAT_TOP) / (LAT_BOT - LAT_TOP) * canvas.height
+        ];
+    }
+
+    function fillRoundRect(x, y, w, h, r) {
+        ctx.beginPath();
+        ctx.moveTo(x + r, y);
+        ctx.arcTo(x + w, y,     x + w, y + h, r);
+        ctx.arcTo(x + w, y + h, x,     y + h, r);
+        ctx.arcTo(x,     y + h, x,     y,     r);
+        ctx.arcTo(x,     y,     x + w, y,     r);
+        ctx.closePath();
+        ctx.fill();
+    }
+
+    function drawLegend() {
+        var pad = 10, lh = 21, bw = 192;
+        var bh  = pad * 2 + LABELS.length * lh;
+        var x0  = canvas.width - bw - pad;
+        var y0  = pad;
+        ctx.fillStyle = 'rgba(0,0,0,.72)';
+        fillRoundRect(x0, y0, bw, bh, 4);
+        LABELS.forEach(function (name, i) {
+            var cy = y0 + pad + i * lh + lh / 2;
+            ctx.beginPath();
+            ctx.arc(x0 + 14, cy, 5, 0, Math.PI * 2);
+            ctx.fillStyle = COLORS[i];
+            ctx.fill();
+            ctx.fillStyle = 'rgba(255,255,255,.88)';
+            ctx.font = '12px Inter, system-ui, sans-serif';
+            ctx.fillText(name, x0 + 26, cy + 4);
+        });
+    }
+
+    function animate() {
+        if (animTimer) clearTimeout(animTimer);
+        ctx.drawImage(mapImg, 0, 0, canvas.width, canvas.height);
+        var i = 0;
+        function step() {
+            var end = Math.min(i + 8, RESIDENTS.length);
+            for (; i < end; i++) {
+                var r = RESIDENTS[i];
+                var pos = geo(r.lon, r.lat);
+                ctx.beginPath();
+                ctx.arc(pos[0], pos[1], 3.5, 0, Math.PI * 2);
+                ctx.fillStyle = COLORS[r.s] + 'BB';
+                ctx.fill();
+            }
+            if (i < RESIDENTS.length) {
+                animTimer = setTimeout(function () { requestAnimationFrame(step); }, 0);
+            } else {
+                drawLegend();
+            }
+        }
+        requestAnimationFrame(step);
+    }
+
+    document.getElementById('map-replay').addEventListener('click', animate);
+
+    canvas.addEventListener('mousemove', function (e) {
+        var rect   = canvas.getBoundingClientRect();
+        var scaleX = canvas.width  / rect.width;
+        var scaleY = canvas.height / rect.height;
+        var mx = (e.clientX - rect.left) * scaleX;
+        var my = (e.clientY - rect.top)  * scaleY;
+        var best = null, bestD = Infinity;
+        RESIDENTS.forEach(function (r) {
+            var pos = geo(r.lon, r.lat);
+            var d   = Math.hypot(pos[0] - mx, pos[1] - my);
+            if (d < bestD) { bestD = d; best = r; }
+        });
+        if (best && bestD < 14 * scaleX) {
+            tooltip.style.display = 'block';
+            tooltip.style.left    = (e.clientX - rect.left + 14) + 'px';
+            tooltip.style.top     = (e.clientY - rect.top  - 10) + 'px';
+            tooltip.innerHTML     = '<strong>' + best.sub + '</strong><br>' + LABELS[best.s];
+        } else {
+            tooltip.style.display = 'none';
+        }
+    });
+
+    canvas.addEventListener('mouseleave', function () { tooltip.style.display = 'none'; });
+    window.addEventListener('resize', function () { resize(); animate(); });
+})();
+</script>
+{% endblock %}

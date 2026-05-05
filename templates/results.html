@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+{% block title %}Your Result — Sydney Subculture Classifier{% endblock %}
+
+{% block content %}
+<main>
+    <div class="container">
+
+        <div class="result-banner {{ pred_class }}">
+            <div class="result-label">KNN Prediction</div>
+            <h1>{{ pred_name }}</h1>
+            <p>{{ pred_description }}</p>
+        </div>
+
+        <div class="profile-summary">
+            <strong>Your answers:</strong>
+            age {{ profile.age }},
+            ${{ profile.income }}/wk,
+            {{ 'born overseas' if profile.born_overseas == 'yes' else 'born in Australia' }},
+            {{ 'another language at home' if profile.other_language == 'yes' else 'English at home' }},
+            {{ 'renting' if profile.renting == 'yes' else 'owner-occupier' }},
+            {{ 'university degree' if profile.university == 'yes' else 'no university degree' }}
+            &nbsp;&middot;&nbsp;
+            Suburb matched to: <strong>{{ profile.matched_suburb }}</strong>
+        </div>
+
+        <div class="results-grid">
+
+            <!-- Nearest Neighbours -->
+            <article>
+                <p class="section-title">5 Nearest Neighbours</p>
+                <table class="neighbour-table">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Suburb</th>
+                            <th>Community</th>
+                            <th>Distance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for n in neighbours %}
+                        <tr>
+                            <td>{{ loop.index }}</td>
+                            <td>{{ n.suburb }}</td>
+                            <td>{{ n.community }}</td>
+                            <td><span class="dist-badge">{{ n.distance }}</span></td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+                <div class="suburb-breakdown">
+                    <strong>Breakdown:</strong>
+                    {% for suburb, count in suburb_breakdown %}{{ suburb }} &times;{{ count }}{% if not loop.last %}, {% endif %}{% endfor %}
+                </div>
+            </article>
+
+            <!-- Feature Contributions -->
+            <article>
+                <p class="section-title">Why This Prediction?</p>
+                <p style="font-size:.81rem; color:var(--pico-muted-color); margin-bottom:18px;">
+                    Each feature's share of the mean squared distance to your 5 nearest neighbours. Longer bar = stronger influence on the result.
+                </p>
+
+                {% for feat in feature_contributions %}
+                <div class="feature-row">
+                    <div class="feature-name">{{ feat.name }}</div>
+                    <div class="feature-bar-wrap"><div class="feature-bar" style="width:{{ feat.bar_pct }}%"></div></div>
+                    <div class="feature-pct">{{ feat.pct }}%</div>
+                </div>
+                {% endfor %}
+
+                <p style="font-size:.73rem; color:var(--pico-muted-color); margin-top:14px;">Bars scaled to the largest contributor.</p>
+            </article>
+
+        </div>
+
+        <div class="form-disclaimer">
+            <strong>Approximation note:</strong> Personal answers are used as proxies for suburb-level census statistics.
+            This tool uses synthetic data modelled on real ABS patterns — not actual Census records.
+        </div>
+
+        <div style="display:flex; gap:12px; flex-wrap:wrap;">
+            <a href="{{ url_for('quiz') }}" role="button" class="outline">&larr; Try Again</a>
+            <a href="{{ url_for('how_it_works') }}" role="button" class="outline">How does this work?</a>
+        </div>
+
+    </div>
+</main>
+{% endblock %}

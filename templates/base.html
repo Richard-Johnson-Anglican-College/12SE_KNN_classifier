@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Sydney Subculture Classifier{% endblock %}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    {% block head %}{% endblock %}
+</head>
+<body>
+
+<div class="gov-bar"><div class="container">New South Wales Government &nbsp;·&nbsp; Year 12 Software Engineering — Digital Research Tool</div></div>
+
+<header class="site-header">
+    <div class="container">
+        <div>
+            <a href="{{ url_for('index') }}" class="site-title">Sydney Subculture Classifier</a>
+            <div class="site-subtitle">K-Nearest Neighbours Machine Learning Model &nbsp;·&nbsp; Synthetic Census Data</div>
+        </div>
+    </div>
+</header>
+
+<nav class="main-nav">
+    <div class="container">
+        <a href="{{ url_for('index') }}"        class="nav-link{% if active_page == 'home' %} active{% endif %}">Home</a>
+        <a href="{{ url_for('quiz') }}"         class="nav-link{% if active_page == 'quiz' %} active{% endif %}">Take the Quiz</a>
+        <a href="{{ url_for('how_it_works') }}" class="nav-link{% if active_page == 'how'  %} active{% endif %}">How It Works</a>
+    </div>
+</nav>
+
+{% block content %}{% endblock %}
+
+<footer class="site-footer">
+    <div class="container">
+        <span>Sydney Subculture Classifier &nbsp;·&nbsp; Year 12 Software Engineering &nbsp;·&nbsp; Synthetic data — not real ABS records.</span>
+        <span><a href="{{ url_for('how_it_works') }}">About this model</a></span>
+    </div>
+</footer>
+
+{% block scripts %}{% endblock %}
+</body>
+</html>

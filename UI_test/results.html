@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Result — Sydney Subculture Classifier</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="gov-bar"><div class="container">New South Wales Government &nbsp;·&nbsp; Year 12 Software Engineering — Digital Research Tool</div></div>
+
+<header class="site-header">
+    <div class="container">
+        <div>
+            <a href="index.html" class="site-title">Sydney Subculture Classifier</a>
+            <div class="site-subtitle">K-Nearest Neighbours Machine Learning Model &nbsp;·&nbsp; Synthetic Census Data</div>
+        </div>
+    </div>
+</header>
+
+<nav class="main-nav">
+    <div class="container">
+        <a href="index.html" class="nav-link">Home</a>
+        <a href="quiz.html" class="nav-link active">Take the Quiz</a>
+        <a href="how-it-works.html" class="nav-link">How It Works</a>
+    </div>
+</nav>
+
+
+<main>
+    <div class="container">
+
+        <!-- Result banner — hardcoded: Inner-City Creative (Newtown example) -->
+        <div class="result-banner creative">
+            <div class="result-label">KNN Prediction</div>
+            <h1>Inner-City Creative</h1>
+            <p>Young renters in creative, academic and hospitality industries. High university education, diverse but predominantly English-speaking.</p>
+        </div>
+
+        <!-- Profile summary -->
+        <div class="profile-summary">
+            <strong>Your answers:</strong> age 28, $850/wk, born in Australia, English at home, renting, university degree &nbsp;&middot;&nbsp;
+            Suburb matched to: <strong>Newtown</strong>
+        </div>
+
+        <div class="results-grid">
+
+            <!-- Nearest Neighbours -->
+            <article>
+                <p class="section-title">5 Nearest Neighbours</p>
+                <table class="neighbour-table">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Suburb</th>
+                            <th>Community</th>
+                            <th>Distance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td><td>Surry Hills</td><td>Anglo/Creative</td>
+                            <td><span class="dist-badge">1.249</span></td>
+                        </tr>
+                        <tr>
+                            <td>2</td><td>Marrickville</td><td>Greek/Vietnamese</td>
+                            <td><span class="dist-badge">1.341</span></td>
+                        </tr>
+                        <tr>
+                            <td>3</td><td>Marrickville</td><td>Greek/Vietnamese</td>
+                            <td><span class="dist-badge">1.348</span></td>
+                        </tr>
+                        <tr>
+                            <td>4</td><td>Newtown</td><td>Anglo/Creative</td>
+                            <td><span class="dist-badge">1.390</span></td>
+                        </tr>
+                        <tr>
+                            <td>5</td><td>Newtown</td><td>Anglo/Creative</td>
+                            <td><span class="dist-badge">1.399</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="suburb-breakdown">
+                    <strong>Breakdown:</strong> Marrickville &times;2, Newtown &times;2, Surry Hills &times;1
+                </div>
+            </article>
+
+            <!-- Feature Contributions -->
+            <article>
+                <p class="section-title">Why This Prediction?</p>
+                <p style="font-size:.81rem; color:var(--text-muted); margin-bottom:18px;">
+                    Each feature's share of the total distance to your 5 nearest neighbours. Longer bar = stronger influence on the result.
+                </p>
+
+                <div class="feature-row">
+                    <div class="feature-name">pct_english_only</div>
+                    <div class="feature-bar-wrap"><div class="feature-bar" style="width:100%"></div></div>
+                    <div class="feature-pct">36.5%</div>
+                </div>
+                <div class="feature-row">
+                    <div class="feature-name">pct_born_overseas</div>
+                    <div class="feature-bar-wrap"><div class="feature-bar" style="width:71%"></div></div>
+                    <div class="feature-pct">26.0%</div>
+                </div>
+                <div class="feature-row">
+                    <div class="feature-name">median_age</div>
+                    <div class="feature-bar-wrap"><div class="feature-bar" style="width:38%"></div></div>
+                    <div class="feature-pct">13.8%</div>
+                </div>
+                <div class="feature-row">
+                    <div class="feature-name">pct_university</div>
+                    <div class="feature-bar-wrap"><div class="feature-bar" style="width:20%"></div></div>
+                    <div class="feature-pct">7.4%</div>
+                </div>
+                <div class="feature-row">
+                    <div class="feature-name">latitude</div>
+                    <div class="feature-bar-wrap"><div class="feature-bar" style="width:15%"></div></div>
+                    <div class="feature-pct">5.4%</div>
+                </div>
+                <div class="feature-row">
+                    <div class="feature-name">pct_renting</div>
+                    <div class="feature-bar-wrap"><div class="feature-bar" style="width:15%"></div></div>
+                    <div class="feature-pct">5.3%</div>
+                </div>
+                <div class="feature-row">
+                    <div class="feature-name">weekly_income</div>
+                    <div class="feature-bar-wrap"><div class="feature-bar" style="width:8%"></div></div>
+                    <div class="feature-pct">3.0%</div>
+                </div>
+                <div class="feature-row">
+                    <div class="feature-name">longitude</div>
+                    <div class="feature-bar-wrap"><div class="feature-bar" style="width:7%"></div></div>
+                    <div class="feature-pct">2.7%</div>
+                </div>
+                <p style="font-size:.73rem; color:var(--text-muted); margin-top:14px;">Bars scaled to the largest contributor.</p>
+            </article>
+
+        </div>
+
+        <div class="form-disclaimer">
+            <strong>Approximation note:</strong> Personal answers are used as proxies for suburb-level census statistics.
+            This tool uses synthetic data modelled on real ABS patterns — not actual Census records.
+        </div>
+
+        <div style="display:flex; gap:12px; flex-wrap:wrap;">
+            <a href="quiz.html" role="button" class="outline">&larr; Try Again</a>
+            <a href="how-it-works.html" role="button" class="outline">How does this work?</a>
+        </div>
+
+    </div>
+</main>
+
+<footer class="site-footer">
+    <div class="container">
+        <span>Sydney Subculture Classifier &nbsp;·&nbsp; Year 12 Software Engineering &nbsp;·&nbsp; Synthetic data — not real ABS records.</span>
+        <span><a href="how-it-works.html">About this model</a></span>
+    </div>
+</footer>
+
+</body>
+</html>

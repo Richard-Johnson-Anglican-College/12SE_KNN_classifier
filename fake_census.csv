@@ -1,0 +1,1381 @@
+suburb,subculture_id,subculture_name,longitude,latitude,median_age,weekly_income,pct_born_overseas,pct_renting,pct_english_only,pct_university
+Newtown,0,Inner-City Creative,151.19242,-33.89346,33,1083,32.7,70.1,70.8,66.1
+Newtown,0,Inner-City Creative,151.16826,-33.87644,28,844,37.4,56.7,37.8,55.5
+Newtown,0,Inner-City Creative,151.15468,-33.88214,25,731,49.7,70.2,55.7,48.6
+Newtown,0,Inner-City Creative,151.16639,-33.88723,24,945,29.0,69.7,49.0,74.8
+Newtown,0,Inner-City Creative,151.17966,-33.91644,34,753,37.1,56.3,41.7,61.6
+Newtown,0,Inner-City Creative,151.19846,-33.88572,29,864,20.2,66.2,50.4,68.5
+Newtown,0,Inner-City Creative,151.18859,-33.93408,32,854,28.2,76.9,65.3,67.5
+Newtown,0,Inner-City Creative,151.15902,-33.89773,32,1017,30.2,70.5,43.9,50.4
+Newtown,0,Inner-City Creative,151.20031,-33.85609,30,1020,38.6,66.8,58.6,72.3
+Newtown,0,Inner-City Creative,151.1791,-33.85088,17,999,35.9,69.6,55.9,44.1
+Newtown,0,Inner-City Creative,151.17451,-33.88107,37,838,26.9,68.0,64.2,62.6
+Newtown,0,Inner-City Creative,151.16676,-33.87717,30,1016,28.0,69.4,51.1,48.3
+Newtown,0,Inner-City Creative,151.1874,-33.88347,30,872,20.8,68.6,51.6,53.6
+Newtown,0,Inner-City Creative,151.17597,-33.8799,39,921,37.6,71.4,35.8,59.8
+Newtown,0,Inner-City Creative,151.18151,-33.82842,29,936,34.7,62.7,66.4,66.0
+Newtown,0,Inner-City Creative,151.19978,-33.91273,37,732,40.9,89.5,45.1,55.5
+Newtown,0,Inner-City Creative,151.18249,-33.90259,22,908,24.4,75.8,45.8,72.4
+Newtown,0,Inner-City Creative,151.16042,-33.89805,34,752,37.3,82.5,38.9,61.5
+Newtown,0,Inner-City Creative,151.1865,-33.87045,24,742,40.2,74.4,57.5,62.8
+Newtown,0,Inner-City Creative,151.163,-33.88419,31,814,53.7,75.8,43.1,65.3
+Newtown,0,Inner-City Creative,151.15563,-33.87032,36,802,44.6,75.3,63.2,75.2
+Newtown,0,Inner-City Creative,151.17387,-33.90884,26,802,34.2,74.7,57.8,66.6
+Newtown,0,Inner-City Creative,151.18033,-33.85366,29,1226,41.3,65.1,44.3,63.9
+Newtown,0,Inner-City Creative,151.17441,-33.87215,32,891,26.5,59.9,50.5,66.9
+Newtown,0,Inner-City Creative,151.18535,-33.92114,31,946,26.2,73.2,55.6,50.9
+Newtown,0,Inner-City Creative,151.18894,-33.87598,35,1026,21.2,64.5,60.2,64.1
+Newtown,0,Inner-City Creative,151.19288,-33.79368,33,1036,44.5,77.2,51.8,66.1
+Newtown,0,Inner-City Creative,151.16068,-33.89592,28,910,58.1,57.1,61.9,47.1
+Newtown,0,Inner-City Creative,151.1682,-33.86278,30,771,27.8,77.4,47.7,61.7
+Newtown,0,Inner-City Creative,151.18114,-33.90629,41,976,14.7,73.5,48.4,66.8
+Surry Hills,0,Inner-City Creative,151.19019,-33.88287,33,1004,23.0,69.3,50.3,54.8
+Surry Hills,0,Inner-City Creative,151.25414,-33.86988,24,1010,56.2,80.3,39.8,56.1
+Surry Hills,0,Inner-City Creative,151.24167,-33.89769,32,993,25.7,71.5,22.6,51.8
+Surry Hills,0,Inner-City Creative,151.20369,-33.91119,38,728,30.6,73.0,69.4,48.5
+Surry Hills,0,Inner-City Creative,151.23908,-33.87974,25,955,37.0,67.2,55.7,56.9
+Surry Hills,0,Inner-City Creative,151.21284,-33.86345,38,751,56.3,56.4,53.5,64.7
+Surry Hills,0,Inner-City Creative,151.21702,-33.89557,29,841,29.1,78.8,58.6,54.5
+Surry Hills,0,Inner-City Creative,151.23249,-33.87232,34,976,26.7,67.5,62.5,64.9
+Surry Hills,0,Inner-City Creative,151.20948,-33.87707,36,829,40.5,70.4,52.8,68.8
+Surry Hills,0,Inner-City Creative,151.23064,-33.85966,37,903,41.8,69.5,58.2,59.0
+Surry Hills,0,Inner-City Creative,151.21242,-33.86512,26,1151,24.9,62.3,66.6,66.3
+Surry Hills,0,Inner-City Creative,151.2256,-33.86429,30,792,35.8,66.6,64.8,58.8
+Surry Hills,0,Inner-City Creative,151.18936,-33.88803,32,832,26.8,73.9,57.4,55.9
+Surry Hills,0,Inner-City Creative,151.19822,-33.8742,23,731,27.8,70.3,58.1,71.8
+Surry Hills,0,Inner-City Creative,151.23144,-33.884,30,780,34.8,69.7,58.2,53.4
+Surry Hills,0,Inner-City Creative,151.22298,-33.84168,29,948,41.9,68.8,57.2,60.1
+Surry Hills,0,Inner-City Creative,151.21244,-33.89933,30,960,49.5,79.7,76.5,53.9
+Surry Hills,0,Inner-City Creative,151.23181,-33.87542,41,803,26.6,67.2,33.8,55.8
+Surry Hills,0,Inner-City Creative,151.19102,-33.87624,32,1125,44.5,67.4,46.0,63.9
+Surry Hills,0,Inner-City Creative,151.17699,-33.83421,36,844,17.9,82.8,53.9,69.9
+Surry Hills,0,Inner-City Creative,151.17014,-33.89498,30,906,30.5,77.0,44.3,58.9
+Surry Hills,0,Inner-City Creative,151.21301,-33.86714,34,765,19.7,82.2,58.3,54.0
+Surry Hills,0,Inner-City Creative,151.24878,-33.87711,36,908,55.6,86.0,52.5,67.8
+Surry Hills,0,Inner-City Creative,151.22613,-33.84578,25,982,45.6,57.9,43.2,43.7
+Surry Hills,0,Inner-City Creative,151.20326,-33.86206,38,909,51.3,61.0,38.0,59.6
+Surry Hills,0,Inner-City Creative,151.2196,-33.88082,20,889,22.0,77.4,58.7,52.5
+Surry Hills,0,Inner-City Creative,151.19715,-33.90648,30,1015,25.1,76.0,49.7,53.7
+Surry Hills,0,Inner-City Creative,151.20732,-33.90588,27,756,54.6,72.3,48.0,61.7
+Surry Hills,0,Inner-City Creative,151.20719,-33.88552,33,991,29.7,67.4,52.2,41.6
+Surry Hills,0,Inner-City Creative,151.17212,-33.84583,38,870,40.8,74.5,85.8,69.0
+Marrickville,0,Inner-City Creative,151.1468,-33.93389,22,924,27.4,60.6,48.5,51.3
+Marrickville,0,Inner-City Creative,151.19218,-33.88796,30,1078,35.8,65.1,70.2,64.3
+Marrickville,0,Inner-City Creative,151.12407,-33.91476,26,734,44.3,87.3,41.0,64.5
+Marrickville,0,Inner-City Creative,151.13373,-33.92218,27,796,35.5,65.4,57.7,59.6
+Marrickville,0,Inner-City Creative,151.14403,-33.93269,27,991,40.0,64.2,56.0,66.0
+Marrickville,0,Inner-City Creative,151.10826,-33.89642,27,968,27.4,57.6,38.7,60.4
+Marrickville,0,Inner-City Creative,151.15649,-33.93261,33,701,34.3,62.3,48.5,60.4
+Marrickville,0,Inner-City Creative,151.12849,-33.91961,35,831,43.4,63.0,60.3,71.5
+Marrickville,0,Inner-City Creative,151.08821,-33.92992,33,876,38.7,67.2,55.9,58.8
+Marrickville,0,Inner-City Creative,151.17919,-33.90364,32,851,30.1,68.5,58.9,56.6
+Marrickville,0,Inner-City Creative,151.15724,-33.85811,34,861,47.0,68.7,34.6,51.9
+Marrickville,0,Inner-City Creative,151.10323,-33.91879,30,1101,38.3,70.2,63.3,42.3
+Marrickville,0,Inner-City Creative,151.15589,-33.89073,23,1037,38.4,68.7,61.3,78.2
+Marrickville,0,Inner-City Creative,151.15455,-33.90379,28,798,43.3,65.2,55.7,56.2
+Marrickville,0,Inner-City Creative,151.16197,-33.90166,35,839,32.3,64.2,50.6,63.0
+Marrickville,0,Inner-City Creative,151.16892,-33.93305,34,1063,39.1,87.0,47.3,50.0
+Marrickville,0,Inner-City Creative,151.10553,-33.8726,33,893,37.8,63.0,79.5,61.0
+Marrickville,0,Inner-City Creative,151.15273,-33.89186,32,927,27.1,75.8,73.8,70.8
+Marrickville,0,Inner-City Creative,151.18983,-33.92278,25,885,35.6,80.8,38.1,72.2
+Marrickville,0,Inner-City Creative,151.14605,-33.92067,25,701,43.2,72.6,42.1,49.6
+Marrickville,0,Inner-City Creative,151.14161,-33.86827,29,720,32.5,69.8,28.0,59.6
+Marrickville,0,Inner-City Creative,151.14423,-33.89259,39,1035,32.3,63.1,80.7,60.5
+Marrickville,0,Inner-City Creative,151.15035,-33.9106,31,883,29.3,67.6,54.7,55.7
+Marrickville,0,Inner-City Creative,151.13218,-33.90734,29,1080,8.5,80.7,67.5,43.4
+Marrickville,0,Inner-City Creative,151.14143,-33.91929,23,807,23.9,86.0,64.4,70.2
+Marrickville,0,Inner-City Creative,151.16804,-33.93823,27,959,22.8,77.7,52.6,57.0
+Marrickville,0,Inner-City Creative,151.16777,-33.89889,28,1039,24.2,76.9,60.9,57.5
+Marrickville,0,Inner-City Creative,151.15815,-33.94128,35,878,29.8,80.4,48.0,48.7
+Marrickville,0,Inner-City Creative,151.11108,-33.89485,24,1111,14.2,85.6,57.1,59.2
+Marrickville,0,Inner-City Creative,151.13638,-33.90002,30,1032,36.1,73.2,51.4,59.5
+Blacktown,1,Aspirational Westie,150.9177,-33.81275,29,754,47.1,36.2,52.2,30.8
+Blacktown,1,Aspirational Westie,150.89651,-33.78946,38,582,49.9,21.0,64.3,31.8
+Blacktown,1,Aspirational Westie,150.9164,-33.74543,47,781,22.9,25.2,44.5,28.2
+Blacktown,1,Aspirational Westie,150.92294,-33.78814,38,604,37.7,23.9,40.9,17.2
+Blacktown,1,Aspirational Westie,150.8856,-33.74366,31,943,50.9,39.8,41.7,33.6
+Blacktown,1,Aspirational Westie,150.89561,-33.76695,52,670,58.8,31.0,51.6,42.2
+Blacktown,1,Aspirational Westie,150.89433,-33.72469,41,624,52.6,47.7,59.5,15.4
+Blacktown,1,Aspirational Westie,150.89182,-33.77619,37,742,47.1,24.6,56.6,32.9
+Blacktown,1,Aspirational Westie,150.92399,-33.74298,42,726,44.2,21.4,57.2,29.7
+Blacktown,1,Aspirational Westie,150.91679,-33.80192,31,785,44.5,44.8,52.3,28.2
+Blacktown,1,Aspirational Westie,150.93346,-33.7829,38,634,39.8,34.9,54.7,24.2
+Blacktown,1,Aspirational Westie,150.94139,-33.79237,36,636,62.4,40.0,64.4,16.1
+Blacktown,1,Aspirational Westie,150.91668,-33.74776,37,787,38.8,52.1,79.6,25.1
+Blacktown,1,Aspirational Westie,150.89886,-33.73367,46,628,40.0,35.2,35.9,20.7
+Blacktown,1,Aspirational Westie,150.8849,-33.78919,37,703,63.6,28.0,63.8,26.3
+Blacktown,1,Aspirational Westie,150.90876,-33.75313,30,718,47.0,42.9,55.5,47.6
+Blacktown,1,Aspirational Westie,150.89406,-33.78327,33,624,37.4,49.9,69.0,23.4
+Blacktown,1,Aspirational Westie,150.88919,-33.75821,34,743,47.4,22.8,70.6,42.4
+Blacktown,1,Aspirational Westie,150.89468,-33.77969,39,713,52.9,58.1,49.9,21.6
+Blacktown,1,Aspirational Westie,150.87552,-33.78827,37,859,38.8,40.2,51.8,37.5
+Blacktown,1,Aspirational Westie,150.97317,-33.78327,34,784,53.2,56.5,59.0,25.1
+Blacktown,1,Aspirational Westie,150.92477,-33.74228,42,731,57.8,49.7,68.6,33.2
+Blacktown,1,Aspirational Westie,150.90582,-33.76633,44,598,49.4,34.1,52.3,38.2
+Blacktown,1,Aspirational Westie,150.91478,-33.76884,29,755,52.7,59.6,48.3,29.8
+Blacktown,1,Aspirational Westie,150.91623,-33.73056,36,708,52.3,39.9,46.6,29.6
+Blacktown,1,Aspirational Westie,150.93684,-33.79566,38,610,59.3,22.8,45.3,31.0
+Blacktown,1,Aspirational Westie,150.94914,-33.77164,34,868,27.6,16.0,57.3,24.0
+Blacktown,1,Aspirational Westie,150.88447,-33.75229,38,624,29.6,46.7,59.8,27.2
+Blacktown,1,Aspirational Westie,150.95617,-33.79675,28,611,44.5,40.4,49.1,30.8
+Blacktown,1,Aspirational Westie,150.87871,-33.73391,37,792,49.1,42.6,58.8,31.6
+Rooty Hill,1,Aspirational Westie,150.85607,-33.73677,38,751,43.9,52.4,43.9,42.4
+Rooty Hill,1,Aspirational Westie,150.839,-33.80577,38,612,55.1,31.5,46.6,12.9
+Rooty Hill,1,Aspirational Westie,150.82869,-33.8306,27,756,54.4,42.3,40.4,27.6
+Rooty Hill,1,Aspirational Westie,150.83991,-33.79896,46,768,42.3,38.3,54.5,11.7
+Rooty Hill,1,Aspirational Westie,150.83382,-33.78705,31,652,66.6,44.4,45.1,32.6
+Rooty Hill,1,Aspirational Westie,150.87498,-33.74688,37,615,53.4,41.9,62.7,33.1
+Rooty Hill,1,Aspirational Westie,150.86624,-33.78338,45,700,69.9,31.1,72.8,29.6
+Rooty Hill,1,Aspirational Westie,150.82371,-33.7821,35,722,51.3,32.3,51.7,45.1
+Rooty Hill,1,Aspirational Westie,150.88319,-33.75909,37,692,52.4,27.8,48.9,14.7
+Rooty Hill,1,Aspirational Westie,150.84998,-33.75382,34,837,30.3,23.4,54.7,36.4
+Rooty Hill,1,Aspirational Westie,150.8821,-33.78147,43,676,42.9,46.8,59.8,15.4
+Rooty Hill,1,Aspirational Westie,150.87691,-33.7355,33,720,50.9,40.6,45.4,22.6
+Rooty Hill,1,Aspirational Westie,150.83936,-33.74068,40,643,54.3,9.5,65.8,14.1
+Rooty Hill,1,Aspirational Westie,150.83094,-33.79799,29,796,39.4,41.5,51.4,31.8
+Rooty Hill,1,Aspirational Westie,150.84192,-33.80207,43,631,26.3,33.7,70.0,34.8
+Rooty Hill,1,Aspirational Westie,150.83128,-33.77873,35,888,49.6,42.3,64.4,29.9
+Rooty Hill,1,Aspirational Westie,150.83352,-33.77491,37,676,53.7,38.5,60.8,27.4
+Rooty Hill,1,Aspirational Westie,150.84197,-33.81996,42,715,57.0,9.0,77.1,26.9
+Rooty Hill,1,Aspirational Westie,150.8677,-33.796,41,575,37.5,57.1,49.7,29.7
+Rooty Hill,1,Aspirational Westie,150.86175,-33.75761,38,716,73.8,37.4,54.4,36.4
+Rooty Hill,1,Aspirational Westie,150.86764,-33.74032,41,566,64.6,26.5,55.6,22.0
+Rooty Hill,1,Aspirational Westie,150.8384,-33.76178,39,722,64.4,42.5,49.1,35.7
+Rooty Hill,1,Aspirational Westie,150.86974,-33.80069,41,750,41.4,51.8,50.2,29.0
+Rooty Hill,1,Aspirational Westie,150.83567,-33.76961,30,536,64.1,29.5,40.1,10.8
+Rooty Hill,1,Aspirational Westie,150.82403,-33.80308,47,781,36.7,60.5,63.8,25.4
+Rooty Hill,1,Aspirational Westie,150.77751,-33.71273,29,515,57.3,62.4,68.6,32.5
+Rooty Hill,1,Aspirational Westie,150.85487,-33.74866,42,708,46.3,37.4,43.0,25.8
+Rooty Hill,1,Aspirational Westie,150.79768,-33.77246,31,570,47.2,51.9,63.0,15.4
+Rooty Hill,1,Aspirational Westie,150.81526,-33.74648,31,658,51.6,28.3,53.3,17.3
+Rooty Hill,1,Aspirational Westie,150.82497,-33.76201,27,724,44.8,43.5,54.7,38.9
+Liverpool,1,Aspirational Westie,150.92313,-33.94074,38,734,45.6,38.4,43.6,22.7
+Liverpool,1,Aspirational Westie,150.88493,-33.88626,30,611,36.4,46.9,48.5,38.0
+Liverpool,1,Aspirational Westie,150.90316,-33.92303,32,895,30.7,41.1,59.6,31.3
+Liverpool,1,Aspirational Westie,150.91537,-33.93325,37,665,56.6,60.1,45.3,17.0
+Liverpool,1,Aspirational Westie,150.91779,-33.86551,32,844,65.1,32.5,58.8,41.0
+Liverpool,1,Aspirational Westie,150.91052,-33.93509,34,579,37.2,25.8,52.4,21.8
+Liverpool,1,Aspirational Westie,150.92584,-33.9689,39,763,21.1,41.7,66.7,18.3
+Liverpool,1,Aspirational Westie,150.96181,-33.91952,33,674,51.7,38.8,58.5,20.6
+Liverpool,1,Aspirational Westie,150.92423,-33.96534,36,590,36.2,50.4,65.1,32.9
+Liverpool,1,Aspirational Westie,150.89269,-33.93791,44,694,72.8,41.9,54.3,25.5
+Liverpool,1,Aspirational Westie,150.92334,-33.93381,41,776,35.6,24.7,30.0,32.1
+Liverpool,1,Aspirational Westie,150.89242,-33.98382,39,929,44.9,46.4,53.0,27.2
+Liverpool,1,Aspirational Westie,150.94298,-33.93726,39,712,37.0,47.9,49.9,22.0
+Liverpool,1,Aspirational Westie,150.93341,-33.95246,37,679,58.0,42.7,51.7,34.5
+Liverpool,1,Aspirational Westie,150.95476,-33.91605,37,549,32.2,34.9,44.7,26.5
+Liverpool,1,Aspirational Westie,150.92142,-33.91676,37,729,45.8,18.2,40.7,26.8
+Liverpool,1,Aspirational Westie,150.88976,-33.915,46,802,42.4,52.9,53.8,25.3
+Liverpool,1,Aspirational Westie,150.90466,-33.93756,35,697,46.9,38.0,57.2,37.5
+Liverpool,1,Aspirational Westie,150.94374,-33.96712,22,773,28.6,35.8,38.0,13.6
+Liverpool,1,Aspirational Westie,150.93354,-33.91102,34,421,38.4,41.9,34.3,29.5
+Liverpool,1,Aspirational Westie,150.91962,-33.91552,38,583,59.4,36.4,51.7,20.5
+Liverpool,1,Aspirational Westie,150.90892,-33.95212,36,851,28.5,21.9,69.7,26.3
+Liverpool,1,Aspirational Westie,150.90327,-33.904,33,863,53.1,33.1,77.9,23.2
+Liverpool,1,Aspirational Westie,150.93855,-33.92252,45,836,45.4,30.5,57.5,22.6
+Liverpool,1,Aspirational Westie,150.97033,-33.92659,35,698,28.8,28.3,66.4,22.7
+Liverpool,1,Aspirational Westie,150.89383,-33.91658,44,752,57.0,30.4,34.9,40.0
+Liverpool,1,Aspirational Westie,150.91193,-33.93627,45,736,50.5,59.7,44.3,35.4
+Liverpool,1,Aspirational Westie,150.92143,-33.92329,46,731,51.5,48.7,47.6,21.3
+Liverpool,1,Aspirational Westie,150.89388,-33.97916,49,570,42.3,35.2,55.7,34.5
+Liverpool,1,Aspirational Westie,150.94151,-33.94458,36,708,42.0,54.1,57.9,33.9
+Parramatta,1,Aspirational Westie,151.01657,-33.78066,38,550,49.8,31.5,45.7,32.7
+Parramatta,1,Aspirational Westie,151.03096,-33.80947,39,850,47.9,64.0,58.8,13.9
+Parramatta,1,Aspirational Westie,151.01883,-33.80047,45,747,43.3,25.8,49.5,21.2
+Parramatta,1,Aspirational Westie,150.98549,-33.79529,47,719,30.6,42.4,66.4,23.1
+Parramatta,1,Aspirational Westie,150.99665,-33.80963,32,745,43.5,42.2,41.4,24.5
+Parramatta,1,Aspirational Westie,151.01806,-33.81932,47,640,47.7,47.3,35.0,13.9
+Parramatta,1,Aspirational Westie,150.96186,-33.77844,34,936,38.2,39.8,70.5,44.0
+Parramatta,1,Aspirational Westie,151.05154,-33.77979,43,739,54.3,32.5,42.2,28.0
+Parramatta,1,Aspirational Westie,150.99575,-33.82133,41,776,46.1,52.8,38.3,26.5
+Parramatta,1,Aspirational Westie,150.98208,-33.85666,37,668,63.2,44.3,39.7,42.8
+Parramatta,1,Aspirational Westie,151.03053,-33.79545,36,584,40.5,48.9,74.6,40.3
+Parramatta,1,Aspirational Westie,150.98778,-33.83799,38,503,48.9,36.5,46.4,15.2
+Parramatta,1,Aspirational Westie,151.01284,-33.82332,30,393,44.7,55.7,71.9,24.3
+Parramatta,1,Aspirational Westie,150.98494,-33.79828,31,710,54.2,50.3,50.8,26.4
+Parramatta,1,Aspirational Westie,150.97805,-33.83067,36,717,56.0,30.0,69.9,25.8
+Parramatta,1,Aspirational Westie,150.99947,-33.82868,22,768,53.8,35.2,52.8,32.1
+Parramatta,1,Aspirational Westie,150.96094,-33.82323,42,555,48.5,24.4,57.6,27.7
+Parramatta,1,Aspirational Westie,150.95962,-33.78088,33,599,47.4,49.5,39.8,28.5
+Parramatta,1,Aspirational Westie,151.01072,-33.79267,38,643,35.1,38.9,39.1,4.6
+Parramatta,1,Aspirational Westie,151.01091,-33.7874,23,579,52.4,58.6,52.2,22.2
+Parramatta,1,Aspirational Westie,150.99543,-33.77563,33,600,39.2,28.5,53.5,41.0
+Parramatta,1,Aspirational Westie,151.00808,-33.81631,35,524,55.6,37.2,49.8,53.5
+Parramatta,1,Aspirational Westie,151.00747,-33.82879,34,795,46.4,23.6,63.0,22.7
+Parramatta,1,Aspirational Westie,151.04683,-33.783,34,808,45.8,46.5,57.8,21.2
+Parramatta,1,Aspirational Westie,150.98391,-33.78425,35,640,33.5,42.2,76.8,19.5
+Parramatta,1,Aspirational Westie,151.00061,-33.77469,37,725,32.3,42.3,49.8,35.9
+Parramatta,1,Aspirational Westie,151.02968,-33.74526,40,713,47.3,34.5,56.1,25.6
+Parramatta,1,Aspirational Westie,151.00421,-33.77706,31,794,60.8,36.8,26.5,23.1
+Parramatta,1,Aspirational Westie,151.03242,-33.81057,31,630,55.1,43.5,49.1,25.1
+Parramatta,1,Aspirational Westie,150.99021,-33.83306,47,648,59.6,53.2,64.0,24.5
+Penrith,1,Aspirational Westie,150.70009,-33.7506,32,712,30.9,49.9,46.4,29.6
+Penrith,1,Aspirational Westie,150.69708,-33.75647,41,633,55.5,24.5,53.5,43.5
+Penrith,1,Aspirational Westie,150.66499,-33.76694,40,698,49.2,42.9,59.6,36.9
+Penrith,1,Aspirational Westie,150.70025,-33.75603,41,870,43.4,28.3,65.3,27.0
+Penrith,1,Aspirational Westie,150.63568,-33.72881,34,671,49.0,39.9,60.5,24.5
+Penrith,1,Aspirational Westie,150.70283,-33.75649,41,742,33.8,48.9,45.6,34.5
+Penrith,1,Aspirational Westie,150.69918,-33.70405,36,645,44.8,35.0,61.6,15.1
+Penrith,1,Aspirational Westie,150.66366,-33.7767,43,851,43.7,36.3,52.8,37.3
+Penrith,1,Aspirational Westie,150.66682,-33.74404,43,730,47.3,48.0,19.6,33.4
+Penrith,1,Aspirational Westie,150.67365,-33.79577,40,817,43.4,47.5,71.3,38.5
+Penrith,1,Aspirational Westie,150.731,-33.73145,37,520,42.0,29.6,78.1,26.6
+Penrith,1,Aspirational Westie,150.69308,-33.73621,37,850,37.5,39.9,43.1,17.4
+Penrith,1,Aspirational Westie,150.67471,-33.75093,34,611,28.1,37.2,33.9,34.1
+Penrith,1,Aspirational Westie,150.69206,-33.78644,35,605,48.8,51.4,29.5,28.9
+Penrith,1,Aspirational Westie,150.686,-33.73322,38,605,41.2,30.0,64.9,28.2
+Penrith,1,Aspirational Westie,150.73753,-33.75152,33,529,23.4,22.2,55.2,32.1
+Penrith,1,Aspirational Westie,150.65047,-33.72762,34,695,64.3,47.0,48.8,20.9
+Penrith,1,Aspirational Westie,150.6362,-33.76798,36,581,43.4,38.8,49.3,22.8
+Penrith,1,Aspirational Westie,150.69422,-33.73895,30,821,43.8,38.2,60.5,29.9
+Penrith,1,Aspirational Westie,150.71383,-33.74282,33,716,31.3,39.1,51.6,26.3
+Penrith,1,Aspirational Westie,150.68679,-33.79705,34,689,46.9,27.7,67.2,21.1
+Penrith,1,Aspirational Westie,150.71424,-33.73932,33,858,30.7,47.2,64.0,22.6
+Penrith,1,Aspirational Westie,150.72481,-33.75625,39,706,43.4,46.1,61.5,14.0
+Penrith,1,Aspirational Westie,150.72261,-33.79156,43,793,31.9,33.9,38.7,26.3
+Penrith,1,Aspirational Westie,150.6823,-33.73051,45,820,38.3,35.9,31.8,21.6
+Penrith,1,Aspirational Westie,150.71412,-33.70961,30,621,44.7,40.8,42.3,31.4
+Penrith,1,Aspirational Westie,150.67815,-33.75036,40,681,39.8,36.9,50.9,25.0
+Penrith,1,Aspirational Westie,150.68353,-33.71003,40,650,53.4,34.7,66.1,31.0
+Penrith,1,Aspirational Westie,150.68732,-33.73881,28,567,30.7,39.4,72.8,45.9
+Penrith,1,Aspirational Westie,150.70595,-33.73748,26,626,35.5,31.8,50.0,24.2
+Springwood,1,Aspirational Westie,150.50052,-33.6813,31,704,69.9,28.8,21.6,25.7
+Springwood,1,Aspirational Westie,150.57752,-33.65104,30,730,39.4,36.9,83.7,16.0
+Springwood,1,Aspirational Westie,150.55634,-33.68831,44,690,48.7,34.1,55.2,25.3
+Springwood,1,Aspirational Westie,150.56554,-33.70924,39,677,58.5,37.5,30.7,38.1
+Springwood,1,Aspirational Westie,150.52736,-33.71634,33,817,19.4,69.4,64.7,29.8
+Springwood,1,Aspirational Westie,150.54863,-33.69286,40,745,51.7,38.9,49.6,26.8
+Springwood,1,Aspirational Westie,150.54513,-33.67166,41,386,52.9,39.9,51.8,24.9
+Springwood,1,Aspirational Westie,150.5781,-33.67631,32,721,33.3,24.2,44.5,34.9
+Springwood,1,Aspirational Westie,150.57383,-33.68717,41,732,37.3,42.3,61.6,34.0
+Springwood,1,Aspirational Westie,150.57972,-33.68229,39,787,44.7,29.2,50.0,22.0
+Springwood,1,Aspirational Westie,150.53312,-33.70361,32,649,22.3,40.1,52.0,21.5
+Springwood,1,Aspirational Westie,150.56648,-33.67656,27,604,35.8,28.6,62.0,26.4
+Springwood,1,Aspirational Westie,150.54339,-33.7501,41,556,45.7,40.8,68.3,17.5
+Springwood,1,Aspirational Westie,150.47451,-33.6954,48,804,47.5,33.1,61.7,20.2
+Springwood,1,Aspirational Westie,150.56191,-33.68736,43,956,49.7,32.9,51.7,13.8
+Springwood,1,Aspirational Westie,150.53263,-33.71023,34,695,35.1,49.2,52.0,27.9
+Springwood,1,Aspirational Westie,150.5418,-33.69612,42,593,37.1,35.0,35.8,21.4
+Springwood,1,Aspirational Westie,150.53809,-33.67814,39,699,55.2,36.6,56.7,27.2
+Springwood,1,Aspirational Westie,150.55663,-33.71457,22,667,62.1,47.3,63.6,37.9
+Springwood,1,Aspirational Westie,150.55222,-33.69507,33,648,52.4,50.0,50.3,24.4
+Springwood,1,Aspirational Westie,150.55001,-33.68497,28,450,38.4,25.8,45.9,26.8
+Springwood,1,Aspirational Westie,150.53867,-33.66369,39,710,52.5,26.6,64.5,27.4
+Springwood,1,Aspirational Westie,150.56676,-33.7268,28,762,49.5,29.0,41.6,37.0
+Springwood,1,Aspirational Westie,150.52026,-33.65893,32,744,41.1,44.0,45.5,26.7
+Springwood,1,Aspirational Westie,150.55102,-33.72505,41,629,42.3,28.1,21.3,26.5
+Springwood,1,Aspirational Westie,150.61032,-33.68038,37,654,45.3,43.5,37.8,36.9
+Springwood,1,Aspirational Westie,150.56788,-33.68205,40,682,53.1,43.9,47.8,23.4
+Springwood,1,Aspirational Westie,150.55255,-33.66127,30,533,47.0,38.5,54.1,30.0
+Springwood,1,Aspirational Westie,150.54442,-33.66275,27,597,43.8,21.6,49.9,41.3
+Springwood,1,Aspirational Westie,150.55052,-33.69423,29,618,40.5,34.8,67.4,32.5
+Campbelltown,1,Aspirational Westie,150.78221,-34.06384,40,794,64.0,27.8,42.3,17.9
+Campbelltown,1,Aspirational Westie,150.80415,-34.05834,43,672,41.2,39.5,42.0,44.7
+Campbelltown,1,Aspirational Westie,150.76981,-34.06538,49,681,42.7,34.4,49.8,39.0
+Campbelltown,1,Aspirational Westie,150.7547,-34.03166,28,653,39.8,43.9,32.8,31.7
+Campbelltown,1,Aspirational Westie,150.86061,-34.10408,38,614,50.1,38.2,44.3,31.9
+Campbelltown,1,Aspirational Westie,150.85511,-34.07477,41,551,33.5,42.7,69.8,30.8
+Campbelltown,1,Aspirational Westie,150.80217,-34.07002,29,740,55.6,33.5,46.4,30.1
+Campbelltown,1,Aspirational Westie,150.79908,-34.07165,50,655,40.7,31.5,60.9,26.6
+Campbelltown,1,Aspirational Westie,150.79377,-34.03697,46,620,22.6,48.1,43.8,34.3
+Campbelltown,1,Aspirational Westie,150.76075,-34.04769,30,753,45.2,28.5,47.1,33.5
+Campbelltown,1,Aspirational Westie,150.81265,-34.05539,49,524,64.4,39.0,41.2,17.4
+Campbelltown,1,Aspirational Westie,150.80527,-34.04696,36,831,27.6,37.9,37.0,30.9
+Campbelltown,1,Aspirational Westie,150.83217,-34.08052,21,700,50.2,42.0,66.8,19.4
+Campbelltown,1,Aspirational Westie,150.82701,-34.04019,26,712,38.9,37.2,56.2,24.1
+Campbelltown,1,Aspirational Westie,150.79311,-34.06915,30,571,53.2,26.5,60.0,31.7
+Campbelltown,1,Aspirational Westie,150.76685,-34.08694,44,582,39.4,42.6,61.4,26.0
+Campbelltown,1,Aspirational Westie,150.79506,-34.03444,47,778,46.0,29.9,42.0,32.2
+Campbelltown,1,Aspirational Westie,150.82046,-34.03496,41,530,57.6,28.0,47.4,30.0
+Campbelltown,1,Aspirational Westie,150.85989,-33.99225,41,662,51.4,46.9,48.2,42.4
+Campbelltown,1,Aspirational Westie,150.81575,-34.05756,41,722,55.1,31.8,45.3,19.2
+Campbelltown,1,Aspirational Westie,150.82099,-34.05053,40,847,44.9,44.7,38.9,24.9
+Campbelltown,1,Aspirational Westie,150.82739,-34.04877,35,673,26.8,34.4,62.7,32.6
+Campbelltown,1,Aspirational Westie,150.82252,-34.06876,37,614,53.4,42.2,57.9,23.8
+Campbelltown,1,Aspirational Westie,150.75617,-34.04257,34,594,53.3,34.1,64.7,32.9
+Campbelltown,1,Aspirational Westie,150.82709,-34.10415,44,706,40.6,39.4,30.7,31.3
+Campbelltown,1,Aspirational Westie,150.78427,-34.10382,28,791,37.4,53.3,45.6,14.3
+Campbelltown,1,Aspirational Westie,150.78209,-34.0391,36,625,46.9,43.0,65.4,39.6
+Campbelltown,1,Aspirational Westie,150.80101,-34.10315,35,706,33.4,28.4,56.1,27.6
+Campbelltown,1,Aspirational Westie,150.81082,-34.08896,36,588,55.7,48.4,29.8,20.6
+Campbelltown,1,Aspirational Westie,150.77259,-34.08625,36,535,33.9,28.0,54.5,28.6
+St Marys,1,Aspirational Westie,150.75196,-33.75558,34,653,65.1,51.4,36.4,34.6
+St Marys,1,Aspirational Westie,150.79028,-33.78871,42,834,31.5,28.8,64.2,30.2
+St Marys,1,Aspirational Westie,150.78379,-33.75149,39,547,57.6,49.7,49.2,27.7
+St Marys,1,Aspirational Westie,150.73172,-33.74714,40,674,58.5,34.7,58.8,19.8
+St Marys,1,Aspirational Westie,150.76941,-33.76436,38,643,43.4,46.3,46.8,15.1
+St Marys,1,Aspirational Westie,150.81374,-33.72546,29,749,39.0,40.6,55.5,26.1
+St Marys,1,Aspirational Westie,150.75041,-33.77726,32,597,44.2,30.8,60.2,39.9
+St Marys,1,Aspirational Westie,150.7555,-33.75401,40,727,45.9,45.4,57.8,18.1
+St Marys,1,Aspirational Westie,150.79173,-33.73782,32,684,53.2,35.9,64.9,46.9
+St Marys,1,Aspirational Westie,150.75035,-33.79453,39,752,42.2,52.5,35.9,33.5
+St Marys,1,Aspirational Westie,150.75485,-33.71702,49,603,38.4,46.6,47.4,27.6
+St Marys,1,Aspirational Westie,150.77063,-33.80799,37,611,39.1,52.4,36.9,34.5
+St Marys,1,Aspirational Westie,150.76303,-33.76699,42,714,51.8,47.7,48.0,23.1
+St Marys,1,Aspirational Westie,150.74287,-33.78064,55,804,28.8,24.8,57.8,32.4
+St Marys,1,Aspirational Westie,150.78372,-33.76637,36,713,46.0,15.8,49.2,21.2
+St Marys,1,Aspirational Westie,150.77438,-33.68537,39,649,56.1,42.8,57.0,32.9
+St Marys,1,Aspirational Westie,150.82141,-33.78827,40,587,51.7,28.8,47.0,25.6
+St Marys,1,Aspirational Westie,150.7944,-33.73704,30,685,36.5,25.4,49.4,25.5
+St Marys,1,Aspirational Westie,150.83067,-33.74918,29,624,57.3,58.9,33.0,13.0
+St Marys,1,Aspirational Westie,150.81677,-33.75026,32,733,13.4,38.0,55.9,35.4
+St Marys,1,Aspirational Westie,150.74465,-33.75786,31,706,34.3,33.9,40.1,33.2
+St Marys,1,Aspirational Westie,150.79146,-33.76587,37,535,41.4,37.5,83.4,19.1
+St Marys,1,Aspirational Westie,150.8066,-33.73508,39,856,49.5,41.9,51.4,37.8
+St Marys,1,Aspirational Westie,150.79741,-33.77564,29,660,35.4,37.4,66.8,24.3
+St Marys,1,Aspirational Westie,150.76893,-33.75855,42,455,37.7,40.1,66.4,24.1
+St Marys,1,Aspirational Westie,150.72309,-33.74451,33,561,37.5,36.2,44.7,10.4
+St Marys,1,Aspirational Westie,150.79243,-33.72813,41,566,42.6,37.9,59.2,33.3
+St Marys,1,Aspirational Westie,150.75165,-33.75795,40,826,53.5,45.9,53.0,39.3
+St Marys,1,Aspirational Westie,150.78024,-33.78153,45,750,39.7,33.2,55.6,31.7
+St Marys,1,Aspirational Westie,150.77493,-33.75222,47,787,47.3,47.4,39.6,31.2
+Mount Druitt,1,Aspirational Westie,150.86523,-33.77545,32,615,31.9,30.2,47.6,16.8
+Mount Druitt,1,Aspirational Westie,150.82039,-33.74744,32,832,51.1,48.3,44.1,34.8
+Mount Druitt,1,Aspirational Westie,150.7927,-33.74774,38,735,30.9,29.0,59.2,20.4
+Mount Druitt,1,Aspirational Westie,150.83158,-33.80418,42,557,51.6,44.3,43.6,32.7
+Mount Druitt,1,Aspirational Westie,150.82651,-33.78347,31,484,49.2,22.4,53.1,25.9
+Mount Druitt,1,Aspirational Westie,150.83698,-33.77755,35,753,49.0,41.2,57.6,15.7
+Mount Druitt,1,Aspirational Westie,150.83892,-33.75469,31,656,44.5,36.7,56.0,39.5
+Mount Druitt,1,Aspirational Westie,150.84704,-33.80281,41,813,49.6,48.9,76.1,36.2
+Mount Druitt,1,Aspirational Westie,150.82623,-33.74387,38,682,40.8,53.6,42.2,40.3
+Mount Druitt,1,Aspirational Westie,150.8325,-33.80498,39,470,52.5,46.9,44.9,29.0
+Mount Druitt,1,Aspirational Westie,150.86885,-33.78264,31,828,68.6,38.0,64.1,38.7
+Mount Druitt,1,Aspirational Westie,150.80144,-33.78213,44,849,51.8,29.2,75.8,23.8
+Mount Druitt,1,Aspirational Westie,150.81162,-33.76144,46,765,50.0,42.6,52.5,32.5
+Mount Druitt,1,Aspirational Westie,150.75676,-33.77742,38,565,49.6,36.0,73.1,40.6
+Mount Druitt,1,Aspirational Westie,150.80835,-33.77377,37,635,47.3,30.4,38.4,33.0
+Mount Druitt,1,Aspirational Westie,150.83574,-33.79011,42,617,48.0,46.2,51.6,31.6
+Mount Druitt,1,Aspirational Westie,150.80709,-33.77491,36,605,42.9,22.5,46.1,25.7
+Mount Druitt,1,Aspirational Westie,150.8136,-33.77604,37,728,55.5,31.5,37.6,19.7
+Mount Druitt,1,Aspirational Westie,150.80782,-33.7788,32,550,39.5,39.8,59.1,23.5
+Mount Druitt,1,Aspirational Westie,150.80968,-33.79317,37,595,51.9,20.1,47.7,30.4
+Mount Druitt,1,Aspirational Westie,150.8246,-33.70267,39,580,43.9,20.2,51.0,21.3
+Mount Druitt,1,Aspirational Westie,150.84288,-33.78374,36,616,65.9,34.8,74.0,34.5
+Mount Druitt,1,Aspirational Westie,150.83205,-33.76078,39,487,41.7,46.5,51.4,16.8
+Mount Druitt,1,Aspirational Westie,150.81869,-33.7274,44,674,56.4,34.3,31.6,20.6
+Mount Druitt,1,Aspirational Westie,150.85907,-33.77685,36,650,67.8,54.3,78.6,26.7
+Mount Druitt,1,Aspirational Westie,150.82739,-33.80792,46,563,47.6,27.0,44.9,21.3
+Mount Druitt,1,Aspirational Westie,150.8048,-33.78348,34,763,31.7,40.2,66.6,23.9
+Mount Druitt,1,Aspirational Westie,150.80205,-33.77576,44,699,38.6,42.8,38.8,33.5
+Mount Druitt,1,Aspirational Westie,150.83022,-33.7777,32,591,51.4,50.3,44.4,31.7
+Mount Druitt,1,Aspirational Westie,150.76782,-33.78462,37,589,33.8,31.3,55.5,26.5
+Cabramatta,2,Cultural Enclave,150.88404,-33.94302,32,621,44.5,45.0,18.7,31.7
+Cabramatta,2,Cultural Enclave,150.93037,-33.88043,36,388,79.7,52.2,31.1,49.5
+Cabramatta,2,Cultural Enclave,150.8879,-33.84688,34,606,71.5,45.8,18.2,24.3
+Cabramatta,2,Cultural Enclave,150.90207,-33.87124,33,478,67.5,62.6,18.6,24.5
+Cabramatta,2,Cultural Enclave,150.92173,-33.87105,38,746,70.2,56.7,26.2,31.1
+Cabramatta,2,Cultural Enclave,150.92203,-33.87137,34,574,72.9,52.5,23.6,23.5
+Cabramatta,2,Cultural Enclave,150.97945,-33.86536,39,539,63.1,59.6,35.5,32.3
+Cabramatta,2,Cultural Enclave,150.9249,-33.89574,27,545,82.0,45.3,32.7,20.7
+Cabramatta,2,Cultural Enclave,150.9481,-33.91869,35,311,70.1,33.7,39.5,27.4
+Cabramatta,2,Cultural Enclave,150.95167,-33.85197,30,737,81.3,47.6,38.6,14.3
+Cabramatta,2,Cultural Enclave,150.91939,-33.90521,32,485,84.2,47.4,29.2,18.0
+Cabramatta,2,Cultural Enclave,150.89448,-33.88325,25,574,58.3,69.9,35.9,22.7
+Cabramatta,2,Cultural Enclave,150.97159,-33.91116,38,598,74.6,62.7,33.8,24.0
+Cabramatta,2,Cultural Enclave,150.89863,-33.914,34,588,60.7,74.1,43.2,26.2
+Cabramatta,2,Cultural Enclave,150.9418,-33.89531,30,587,74.6,37.6,29.0,20.9
+Cabramatta,2,Cultural Enclave,150.8923,-33.91151,33,750,77.6,36.6,30.8,11.2
+Cabramatta,2,Cultural Enclave,150.96707,-33.90178,35,699,59.1,36.0,18.0,29.3
+Cabramatta,2,Cultural Enclave,150.90202,-33.9608,33,630,84.0,45.4,20.1,30.1
+Cabramatta,2,Cultural Enclave,150.89326,-33.89971,36,620,66.9,50.3,0.0,17.4
+Cabramatta,2,Cultural Enclave,150.95134,-33.91456,35,620,68.6,51.7,13.4,20.6
+Cabramatta,2,Cultural Enclave,150.95526,-33.88608,32,600,79.1,29.5,38.9,19.6
+Cabramatta,2,Cultural Enclave,150.95064,-33.86007,28,516,69.1,42.2,45.8,16.0
+Cabramatta,2,Cultural Enclave,150.92611,-33.88489,29,544,75.2,46.7,23.9,18.3
+Cabramatta,2,Cultural Enclave,150.90214,-33.88196,44,582,74.3,56.9,9.8,33.9
+Cabramatta,2,Cultural Enclave,150.94506,-33.8492,31,744,79.8,55.5,27.8,20.3
+Cabramatta,2,Cultural Enclave,150.97001,-33.88649,25,479,70.1,53.1,24.3,30.5
+Cabramatta,2,Cultural Enclave,150.89122,-33.88641,26,648,71.1,54.2,14.6,31.0
+Cabramatta,2,Cultural Enclave,150.96604,-33.87541,34,632,64.9,58.6,44.8,29.5
+Cabramatta,2,Cultural Enclave,150.92176,-33.88096,29,632,76.5,31.3,11.1,20.0
+Cabramatta,2,Cultural Enclave,150.93248,-33.92024,37,603,70.1,42.4,37.6,33.6
+Fairfield,2,Cultural Enclave,150.94791,-33.8853,37,548,70.6,57.4,2.1,31.2
+Fairfield,2,Cultural Enclave,150.96182,-33.88029,35,577,54.7,64.9,25.5,25.1
+Fairfield,2,Cultural Enclave,150.98379,-33.89553,37,556,80.5,28.7,23.8,17.8
+Fairfield,2,Cultural Enclave,150.97081,-33.85825,31,516,70.9,41.0,35.1,19.4
+Fairfield,2,Cultural Enclave,150.88733,-33.87937,30,433,59.6,51.1,40.9,24.2
+Fairfield,2,Cultural Enclave,150.94484,-33.8586,33,517,60.5,32.5,20.3,23.1
+Fairfield,2,Cultural Enclave,150.95758,-33.8804,30,635,58.8,57.8,13.0,16.7
+Fairfield,2,Cultural Enclave,150.92333,-33.88254,40,626,81.8,55.2,11.8,19.7
+Fairfield,2,Cultural Enclave,150.9405,-33.83674,29,660,80.9,68.3,20.1,27.0
+Fairfield,2,Cultural Enclave,151.01704,-33.88544,27,411,79.1,31.2,20.5,25.1
+Fairfield,2,Cultural Enclave,150.96463,-33.85936,36,695,62.5,43.2,15.7,27.8
+Fairfield,2,Cultural Enclave,150.98251,-33.85872,41,474,88.7,65.2,33.8,34.5
+Fairfield,2,Cultural Enclave,150.91858,-33.88311,31,645,61.5,57.6,41.4,26.9
+Fairfield,2,Cultural Enclave,150.96709,-33.8947,31,692,79.8,49.6,20.0,7.8
+Fairfield,2,Cultural Enclave,150.93323,-33.82221,29,597,82.1,37.5,27.2,28.6
+Fairfield,2,Cultural Enclave,150.96031,-33.79829,27,675,70.3,57.7,30.3,16.9
+Fairfield,2,Cultural Enclave,150.96572,-33.91645,38,607,78.4,60.6,29.4,23.0
+Fairfield,2,Cultural Enclave,150.93797,-33.88781,41,709,69.6,50.5,14.1,30.2
+Fairfield,2,Cultural Enclave,150.97664,-33.82147,31,546,74.3,56.5,22.4,15.9
+Fairfield,2,Cultural Enclave,150.98204,-33.85197,30,702,83.7,51.3,26.0,25.9
+Fairfield,2,Cultural Enclave,150.93846,-33.86925,24,659,56.4,65.0,21.0,20.5
+Fairfield,2,Cultural Enclave,150.94431,-33.8772,42,356,84.8,53.4,10.5,14.5
+Fairfield,2,Cultural Enclave,151.00191,-33.89364,29,682,75.4,40.6,27.6,14.8
+Fairfield,2,Cultural Enclave,150.98752,-33.84347,38,613,89.6,50.0,10.8,25.1
+Fairfield,2,Cultural Enclave,151.01215,-33.89537,33,617,71.5,40.2,38.5,38.2
+Fairfield,2,Cultural Enclave,150.9649,-33.8926,27,603,83.0,54.8,25.0,17.9
+Fairfield,2,Cultural Enclave,150.9327,-33.84913,40,441,87.9,55.7,41.8,12.6
+Fairfield,2,Cultural Enclave,150.92585,-33.87372,38,742,79.1,47.6,12.7,30.6
+Fairfield,2,Cultural Enclave,150.93588,-33.82929,34,723,78.8,48.6,18.8,19.6
+Fairfield,2,Cultural Enclave,150.97071,-33.86807,32,565,72.8,28.7,30.5,15.1
+Harris Park,2,Cultural Enclave,150.98117,-33.86218,26,458,64.9,69.5,18.7,23.2
+Harris Park,2,Cultural Enclave,151.02001,-33.81672,35,472,86.5,68.1,4.8,14.8
+Harris Park,2,Cultural Enclave,151.003,-33.84411,38,514,93.7,61.9,27.6,29.2
+Harris Park,2,Cultural Enclave,151.03765,-33.8341,31,587,80.6,51.4,6.1,16.4
+Harris Park,2,Cultural Enclave,151.00815,-33.82189,45,455,77.1,64.9,52.3,19.2
+Harris Park,2,Cultural Enclave,151.02229,-33.80576,36,571,76.4,24.7,33.2,22.9
+Harris Park,2,Cultural Enclave,151.00444,-33.76883,32,544,91.9,41.7,18.4,21.0
+Harris Park,2,Cultural Enclave,151.03102,-33.8148,29,532,65.9,49.2,30.1,24.9
+Harris Park,2,Cultural Enclave,150.9656,-33.7934,36,705,76.4,61.0,30.6,31.4
+Harris Park,2,Cultural Enclave,151.02306,-33.82245,46,660,77.7,37.2,9.5,24.0
+Harris Park,2,Cultural Enclave,151.01364,-33.83535,36,723,79.0,38.6,23.7,16.4
+Harris Park,2,Cultural Enclave,151.00031,-33.83034,33,467,70.7,44.4,0.0,36.4
+Harris Park,2,Cultural Enclave,151.03722,-33.82941,35,475,89.0,69.0,26.9,29.2
+Harris Park,2,Cultural Enclave,151.01438,-33.85342,33,592,67.5,47.8,23.9,21.4
+Harris Park,2,Cultural Enclave,151.01131,-33.84652,31,464,81.8,28.9,38.8,31.7
+Harris Park,2,Cultural Enclave,151.00245,-33.88508,33,574,61.9,44.8,43.4,26.7
+Harris Park,2,Cultural Enclave,150.98689,-33.85994,33,561,77.0,44.6,31.1,35.5
+Harris Park,2,Cultural Enclave,151.03039,-33.8212,34,548,83.8,43.7,25.5,22.4
+Harris Park,2,Cultural Enclave,150.99746,-33.85431,37,575,77.0,44.7,39.6,15.9
+Harris Park,2,Cultural Enclave,151.0528,-33.86369,37,623,64.0,54.2,40.4,6.5
+Harris Park,2,Cultural Enclave,151.02257,-33.88233,30,727,66.2,38.3,22.6,36.5
+Harris Park,2,Cultural Enclave,150.96421,-33.84628,42,747,71.0,37.6,50.2,33.2
+Harris Park,2,Cultural Enclave,151.02697,-33.84031,35,566,75.3,64.5,35.6,14.5
+Harris Park,2,Cultural Enclave,151.04441,-33.81217,38,712,60.9,49.6,18.6,11.0
+Harris Park,2,Cultural Enclave,151.01867,-33.75721,26,577,78.4,51.2,23.6,12.9
+Harris Park,2,Cultural Enclave,151.01582,-33.83892,24,688,81.6,50.5,27.7,29.5
+Harris Park,2,Cultural Enclave,151.01561,-33.7974,34,698,75.2,51.9,9.8,24.0
+Harris Park,2,Cultural Enclave,150.9892,-33.83596,31,484,93.2,63.3,48.0,13.4
+Harris Park,2,Cultural Enclave,151.01178,-33.85234,32,497,84.4,46.0,37.8,26.2
+Harris Park,2,Cultural Enclave,151.06759,-33.85699,41,683,62.3,60.1,29.0,20.4
+Lakemba,2,Cultural Enclave,151.0494,-33.93798,45,580,79.8,42.1,15.6,29.6
+Lakemba,2,Cultural Enclave,151.03626,-33.93038,35,590,70.2,54.0,33.3,27.1
+Lakemba,2,Cultural Enclave,151.04535,-33.9271,41,661,58.3,53.5,1.3,22.3
+Lakemba,2,Cultural Enclave,151.11744,-33.9437,31,649,56.6,43.7,32.2,17.6
+Lakemba,2,Cultural Enclave,151.0641,-33.9014,37,604,68.6,53.7,23.5,25.2
+Lakemba,2,Cultural Enclave,151.05758,-33.92456,30,577,63.9,38.9,28.1,23.5
+Lakemba,2,Cultural Enclave,151.08957,-33.93078,37,630,76.4,41.7,26.8,24.5
+Lakemba,2,Cultural Enclave,151.07018,-33.97216,36,779,68.4,42.7,29.5,24.2
+Lakemba,2,Cultural Enclave,151.09982,-33.95145,39,633,70.6,53.4,37.4,28.1
+Lakemba,2,Cultural Enclave,151.04142,-33.8995,35,587,72.7,48.5,39.3,21.4
+Lakemba,2,Cultural Enclave,151.04201,-33.92984,36,691,78.0,41.5,54.8,23.9
+Lakemba,2,Cultural Enclave,151.10188,-33.92379,38,656,84.2,60.6,35.5,19.8
+Lakemba,2,Cultural Enclave,151.05571,-33.91168,40,560,82.7,64.5,14.0,16.1
+Lakemba,2,Cultural Enclave,151.06649,-33.91231,32,702,76.2,50.4,7.8,12.8
+Lakemba,2,Cultural Enclave,151.07703,-33.97331,40,566,100.0,73.1,22.8,21.3
+Lakemba,2,Cultural Enclave,151.09489,-33.87742,27,419,65.8,55.8,31.0,29.5
+Lakemba,2,Cultural Enclave,151.04001,-33.9779,39,505,51.8,51.5,34.5,21.1
+Lakemba,2,Cultural Enclave,151.05855,-33.92398,33,459,64.9,55.2,28.9,23.2
+Lakemba,2,Cultural Enclave,151.04512,-33.92454,24,596,86.3,35.3,18.0,24.3
+Lakemba,2,Cultural Enclave,151.10132,-33.93121,32,403,73.0,70.4,28.3,21.8
+Lakemba,2,Cultural Enclave,151.07805,-33.92028,31,654,74.3,50.2,13.3,31.1
+Lakemba,2,Cultural Enclave,151.08662,-33.93382,40,535,64.2,42.4,3.7,25.3
+Lakemba,2,Cultural Enclave,151.02422,-33.95071,25,572,70.5,46.7,12.5,13.8
+Lakemba,2,Cultural Enclave,151.08161,-33.93376,37,500,73.8,63.0,32.0,19.1
+Lakemba,2,Cultural Enclave,151.07643,-33.92602,35,551,70.4,52.1,13.1,14.9
+Lakemba,2,Cultural Enclave,151.03529,-33.96001,29,594,63.1,55.1,25.4,8.2
+Lakemba,2,Cultural Enclave,151.08637,-33.89973,30,618,63.4,51.0,9.8,9.4
+Lakemba,2,Cultural Enclave,151.06043,-33.92309,33,473,68.0,52.7,24.5,23.3
+Lakemba,2,Cultural Enclave,151.05325,-33.89071,29,624,83.8,54.8,22.6,18.3
+Lakemba,2,Cultural Enclave,151.0959,-33.95557,30,544,84.4,53.8,13.4,19.8
+Auburn,2,Cultural Enclave,151.01464,-33.86774,40,457,88.1,58.3,38.1,18.8
+Auburn,2,Cultural Enclave,151.02625,-33.88583,32,624,85.0,38.9,20.6,20.9
+Auburn,2,Cultural Enclave,150.99511,-33.83522,31,562,67.5,42.1,24.9,20.5
+Auburn,2,Cultural Enclave,151.0207,-33.86821,37,729,73.4,60.0,8.3,23.1
+Auburn,2,Cultural Enclave,151.00257,-33.88692,31,687,81.5,52.4,6.6,20.6
+Auburn,2,Cultural Enclave,151.03754,-33.84561,26,500,71.4,55.4,0.0,20.9
+Auburn,2,Cultural Enclave,151.03358,-33.82876,38,632,64.0,30.9,20.3,29.0
+Auburn,2,Cultural Enclave,151.06484,-33.83224,37,614,66.4,48.7,45.0,15.4
+Auburn,2,Cultural Enclave,151.07037,-33.85805,42,453,77.9,42.6,8.0,23.5
+Auburn,2,Cultural Enclave,151.05524,-33.87112,28,572,71.1,55.5,36.4,21.6
+Auburn,2,Cultural Enclave,151.07639,-33.84439,33,435,69.4,46.6,36.5,25.2
+Auburn,2,Cultural Enclave,151.00052,-33.84569,38,718,80.9,57.6,25.7,24.7
+Auburn,2,Cultural Enclave,151.06124,-33.88332,33,510,75.8,62.3,17.8,5.3
+Auburn,2,Cultural Enclave,151.01969,-33.82716,38,619,69.2,37.2,31.2,16.2
+Auburn,2,Cultural Enclave,151.0846,-33.83574,32,525,71.1,47.6,38.4,23.3
+Auburn,2,Cultural Enclave,151.01171,-33.80274,35,649,65.9,53.6,28.7,8.8
+Auburn,2,Cultural Enclave,151.08038,-33.81773,33,481,75.5,50.9,29.3,23.3
+Auburn,2,Cultural Enclave,151.04266,-33.81382,38,486,85.6,66.4,62.8,14.1
+Auburn,2,Cultural Enclave,151.03607,-33.90205,38,531,91.2,42.3,4.7,18.7
+Auburn,2,Cultural Enclave,150.98061,-33.83122,25,583,51.2,46.8,44.7,24.5
+Auburn,2,Cultural Enclave,151.00841,-33.85078,35,623,58.3,55.9,0.0,17.6
+Auburn,2,Cultural Enclave,151.01779,-33.83417,35,453,62.2,52.0,24.1,17.9
+Auburn,2,Cultural Enclave,151.01798,-33.8326,32,572,93.7,35.8,2.8,27.5
+Auburn,2,Cultural Enclave,151.01303,-33.85796,31,557,88.0,58.0,35.3,12.1
+Auburn,2,Cultural Enclave,151.00122,-33.92098,31,666,77.2,47.8,24.7,17.2
+Auburn,2,Cultural Enclave,151.03512,-33.83085,27,607,81.3,45.8,33.4,41.7
+Auburn,2,Cultural Enclave,151.02739,-33.84017,31,596,76.6,51.9,12.8,23.4
+Auburn,2,Cultural Enclave,151.06655,-33.83878,40,559,79.5,52.8,13.6,24.2
+Auburn,2,Cultural Enclave,151.00521,-33.86582,36,607,60.1,60.5,31.9,17.1
+Auburn,2,Cultural Enclave,150.99156,-33.85362,33,590,68.4,29.9,20.3,19.9
+Campsie,2,Cultural Enclave,151.11584,-33.92745,43,408,85.1,47.8,35.3,22.6
+Campsie,2,Cultural Enclave,151.12849,-33.91968,30,708,70.9,52.2,39.8,14.8
+Campsie,2,Cultural Enclave,151.11489,-33.92475,34,587,57.0,42.2,41.2,28.2
+Campsie,2,Cultural Enclave,151.09843,-33.90392,34,702,70.0,52.3,38.8,16.6
+Campsie,2,Cultural Enclave,151.13897,-33.94826,43,546,69.6,31.1,19.5,14.7
+Campsie,2,Cultural Enclave,151.08481,-33.91343,40,599,75.1,39.0,14.4,34.6
+Campsie,2,Cultural Enclave,151.08162,-33.86859,34,580,82.7,62.7,23.7,19.3
+Campsie,2,Cultural Enclave,151.0986,-33.90155,39,580,78.2,66.4,29.6,24.2
+Campsie,2,Cultural Enclave,151.06203,-33.97577,37,571,66.9,52.4,24.3,29.9
+Campsie,2,Cultural Enclave,151.10215,-33.92867,40,560,77.3,45.2,17.2,22.6
+Campsie,2,Cultural Enclave,151.10032,-33.898,34,415,67.7,57.9,21.4,20.3
+Campsie,2,Cultural Enclave,151.12466,-33.9278,27,566,67.2,40.3,22.9,25.4
+Campsie,2,Cultural Enclave,151.09977,-33.90233,44,549,74.8,44.9,14.8,17.9
+Campsie,2,Cultural Enclave,151.08803,-33.90101,47,516,67.8,49.4,29.7,23.8
+Campsie,2,Cultural Enclave,151.1321,-33.97066,23,535,83.0,34.3,0.0,26.0
+Campsie,2,Cultural Enclave,151.10609,-33.93726,30,493,73.1,43.7,30.9,2.0
+Campsie,2,Cultural Enclave,151.07858,-33.93815,34,532,80.0,31.4,25.5,25.9
+Campsie,2,Cultural Enclave,151.14642,-33.92204,37,418,48.1,58.4,24.9,30.2
+Campsie,2,Cultural Enclave,151.06566,-33.897,44,618,74.8,50.1,6.1,31.5
+Campsie,2,Cultural Enclave,151.08473,-33.89739,27,474,86.4,46.5,42.4,21.5
+Campsie,2,Cultural Enclave,151.05395,-33.8877,32,643,72.3,34.6,27.0,37.4
+Campsie,2,Cultural Enclave,151.11232,-33.91144,40,599,74.1,39.1,27.8,29.2
+Campsie,2,Cultural Enclave,151.0791,-33.87439,35,500,82.0,47.1,34.1,20.0
+Campsie,2,Cultural Enclave,151.0985,-33.89766,36,400,60.8,59.3,23.4,18.3
+Campsie,2,Cultural Enclave,151.06604,-33.93699,25,571,66.0,40.3,24.2,24.5
+Campsie,2,Cultural Enclave,151.15233,-33.9478,41,668,64.2,52.0,19.5,23.3
+Campsie,2,Cultural Enclave,151.13773,-33.89486,38,541,57.2,47.9,39.5,11.3
+Campsie,2,Cultural Enclave,151.07362,-33.90684,30,509,67.8,36.3,13.3,26.9
+Campsie,2,Cultural Enclave,151.06732,-33.94995,32,646,70.0,45.4,25.5,9.8
+Campsie,2,Cultural Enclave,151.11237,-33.90041,33,671,60.7,61.3,26.9,19.6
+Strathfield,2,Cultural Enclave,151.0895,-33.88268,41,483,64.4,60.4,17.9,28.3
+Strathfield,2,Cultural Enclave,151.13249,-33.89004,38,476,79.5,52.0,30.7,17.5
+Strathfield,2,Cultural Enclave,151.04847,-33.86742,25,551,81.4,51.9,48.4,29.2
+Strathfield,2,Cultural Enclave,151.07365,-33.87932,35,438,62.6,44.4,0.6,22.3
+Strathfield,2,Cultural Enclave,151.08377,-33.92182,37,644,74.3,46.8,32.1,26.8
+Strathfield,2,Cultural Enclave,151.09769,-33.90062,36,688,66.0,71.0,18.7,22.2
+Strathfield,2,Cultural Enclave,151.07319,-33.87442,26,531,61.1,51.4,36.9,26.5
+Strathfield,2,Cultural Enclave,151.03071,-33.82895,36,510,73.6,51.8,17.0,23.4
+Strathfield,2,Cultural Enclave,151.07481,-33.89011,32,451,73.5,55.9,31.2,27.7
+Strathfield,2,Cultural Enclave,151.09811,-33.89332,39,458,63.0,40.4,38.0,28.6
+Strathfield,2,Cultural Enclave,151.10218,-33.8532,31,611,70.7,58.5,23.6,19.3
+Strathfield,2,Cultural Enclave,151.10352,-33.8581,32,575,61.4,25.0,27.4,26.3
+Strathfield,2,Cultural Enclave,151.09655,-33.92874,33,380,85.7,39.1,40.1,28.6
+Strathfield,2,Cultural Enclave,151.06749,-33.90832,37,504,73.0,45.2,3.6,6.4
+Strathfield,2,Cultural Enclave,151.09567,-33.89404,32,643,83.7,47.3,20.9,25.5
+Strathfield,2,Cultural Enclave,151.05608,-33.87442,38,641,52.6,42.4,14.5,22.7
+Strathfield,2,Cultural Enclave,151.10202,-33.84258,33,535,83.5,53.0,40.2,24.0
+Strathfield,2,Cultural Enclave,151.06107,-33.91333,27,640,83.9,68.5,35.1,30.1
+Strathfield,2,Cultural Enclave,151.0755,-33.90891,39,618,73.1,53.9,28.9,31.0
+Strathfield,2,Cultural Enclave,151.12237,-33.86639,39,626,67.4,57.6,8.3,29.4
+Strathfield,2,Cultural Enclave,151.06014,-33.87285,31,630,71.7,34.1,30.0,18.0
+Strathfield,2,Cultural Enclave,151.11203,-33.87997,37,494,66.1,45.4,35.3,33.7
+Strathfield,2,Cultural Enclave,151.06987,-33.85308,24,473,62.4,36.5,6.0,24.9
+Strathfield,2,Cultural Enclave,151.08465,-33.87051,38,604,78.6,49.3,10.8,29.4
+Strathfield,2,Cultural Enclave,151.07527,-33.90339,34,498,67.8,53.4,29.2,15.7
+Strathfield,2,Cultural Enclave,151.07781,-33.85314,37,767,83.8,61.4,8.3,27.3
+Strathfield,2,Cultural Enclave,151.08867,-33.89377,36,665,77.0,41.2,33.9,17.5
+Strathfield,2,Cultural Enclave,151.09542,-33.88758,34,649,61.6,69.5,3.1,17.8
+Strathfield,2,Cultural Enclave,151.09926,-33.86539,34,575,76.1,47.7,41.7,27.9
+Strathfield,2,Cultural Enclave,151.11182,-33.90415,35,553,61.9,53.6,18.5,26.6
+Hurstville,2,Cultural Enclave,151.07325,-33.92702,31,600,79.9,44.3,35.2,13.4
+Hurstville,2,Cultural Enclave,151.1363,-33.96965,32,553,80.1,44.2,16.0,20.4
+Hurstville,2,Cultural Enclave,151.07058,-33.92449,32,655,74.1,40.2,24.9,27.5
+Hurstville,2,Cultural Enclave,151.09529,-33.94017,40,663,67.4,39.2,17.6,23.4
+Hurstville,2,Cultural Enclave,151.11364,-34.02429,35,594,69.2,62.9,30.1,31.2
+Hurstville,2,Cultural Enclave,151.0946,-33.94656,43,698,61.1,47.5,20.9,25.4
+Hurstville,2,Cultural Enclave,151.11716,-33.99097,35,398,86.4,44.9,25.7,19.8
+Hurstville,2,Cultural Enclave,151.12865,-34.04094,35,570,67.5,67.3,14.4,27.4
+Hurstville,2,Cultural Enclave,151.10891,-33.93846,32,514,83.0,54.3,6.5,18.2
+Hurstville,2,Cultural Enclave,151.10966,-33.94906,32,318,77.2,37.8,0.8,2.2
+Hurstville,2,Cultural Enclave,151.12035,-33.96678,34,705,78.4,66.2,8.3,21.8
+Hurstville,2,Cultural Enclave,151.05958,-33.97573,34,636,72.5,56.2,33.4,37.1
+Hurstville,2,Cultural Enclave,151.09212,-33.99353,36,508,86.8,47.2,18.2,18.7
+Hurstville,2,Cultural Enclave,151.11796,-33.97394,32,730,63.4,50.4,32.8,10.6
+Hurstville,2,Cultural Enclave,151.11201,-33.99638,39,493,78.9,61.1,35.3,23.8
+Hurstville,2,Cultural Enclave,151.09422,-33.98441,42,517,61.6,56.7,15.4,15.3
+Hurstville,2,Cultural Enclave,151.06391,-33.98207,35,602,81.5,55.3,22.7,20.6
+Hurstville,2,Cultural Enclave,151.11275,-33.93819,36,538,62.1,35.5,33.0,26.0
+Hurstville,2,Cultural Enclave,151.11443,-33.97322,42,536,81.6,49.6,17.7,26.1
+Hurstville,2,Cultural Enclave,151.11024,-33.96108,35,577,95.9,61.8,33.7,22.8
+Hurstville,2,Cultural Enclave,151.12518,-33.95705,35,553,71.2,18.3,27.5,18.6
+Hurstville,2,Cultural Enclave,151.13982,-33.96952,29,576,61.5,54.7,28.5,28.7
+Hurstville,2,Cultural Enclave,151.08023,-33.96915,28,643,77.2,55.0,25.0,24.9
+Hurstville,2,Cultural Enclave,151.14011,-33.97713,36,482,63.3,51.0,38.2,20.2
+Hurstville,2,Cultural Enclave,151.0941,-33.98017,32,607,57.0,62.8,17.0,27.1
+Hurstville,2,Cultural Enclave,151.06825,-33.95328,38,615,62.1,52.5,10.8,20.2
+Hurstville,2,Cultural Enclave,151.12574,-33.95008,35,492,78.5,50.2,0.0,27.5
+Hurstville,2,Cultural Enclave,151.09939,-33.93994,30,294,74.8,52.9,4.7,15.2
+Hurstville,2,Cultural Enclave,151.16888,-33.97764,39,521,51.1,48.3,21.8,19.2
+Hurstville,2,Cultural Enclave,151.09713,-33.96339,34,466,76.9,30.5,0.4,27.2
+Eastwood,2,Cultural Enclave,151.09268,-33.79143,28,516,69.4,34.0,16.1,26.6
+Eastwood,2,Cultural Enclave,151.11568,-33.80049,39,408,78.6,42.0,28.7,20.3
+Eastwood,2,Cultural Enclave,151.11301,-33.81186,38,555,70.4,48.2,14.9,21.9
+Eastwood,2,Cultural Enclave,151.07843,-33.78397,35,652,81.2,39.5,35.4,13.7
+Eastwood,2,Cultural Enclave,151.0947,-33.77451,25,588,67.3,42.4,41.2,17.4
+Eastwood,2,Cultural Enclave,151.05984,-33.78811,38,567,83.7,55.3,0.0,18.3
+Eastwood,2,Cultural Enclave,151.06595,-33.77802,22,809,77.3,51.5,39.2,38.4
+Eastwood,2,Cultural Enclave,151.10177,-33.76628,36,567,67.2,41.7,16.8,12.5
+Eastwood,2,Cultural Enclave,151.0781,-33.83212,36,577,73.5,44.8,61.9,31.5
+Eastwood,2,Cultural Enclave,151.04889,-33.78418,32,489,58.6,54.3,16.8,28.8
+Eastwood,2,Cultural Enclave,151.10484,-33.75565,31,623,78.3,45.3,15.7,33.3
+Eastwood,2,Cultural Enclave,151.08569,-33.7741,31,470,66.3,48.8,12.2,21.9
+Eastwood,2,Cultural Enclave,151.03779,-33.818,38,634,68.1,39.8,12.7,19.4
+Eastwood,2,Cultural Enclave,151.09611,-33.76679,33,476,74.7,41.8,18.8,31.3
+Eastwood,2,Cultural Enclave,151.10068,-33.78605,29,599,82.6,46.2,41.2,31.0
+Eastwood,2,Cultural Enclave,151.12159,-33.78237,38,707,76.5,45.0,19.6,23.7
+Eastwood,2,Cultural Enclave,151.04774,-33.79358,40,383,87.3,61.2,19.5,25.8
+Eastwood,2,Cultural Enclave,151.08008,-33.75925,40,454,77.9,47.9,26.0,16.9
+Eastwood,2,Cultural Enclave,151.1237,-33.764,31,460,68.1,54.3,27.9,30.8
+Eastwood,2,Cultural Enclave,151.09975,-33.76576,37,455,70.0,60.6,24.4,25.5
+Eastwood,2,Cultural Enclave,151.07203,-33.81575,34,608,65.4,47.6,13.7,29.8
+Eastwood,2,Cultural Enclave,151.07264,-33.75368,43,573,61.9,29.1,7.3,12.4
+Eastwood,2,Cultural Enclave,151.11446,-33.7871,37,380,60.0,58.9,28.4,21.0
+Eastwood,2,Cultural Enclave,151.09412,-33.74911,34,586,73.9,73.9,0.0,26.8
+Eastwood,2,Cultural Enclave,151.07713,-33.77583,32,576,79.1,81.1,34.7,16.1
+Eastwood,2,Cultural Enclave,151.06941,-33.80134,26,550,79.3,37.3,37.6,25.4
+Eastwood,2,Cultural Enclave,151.06164,-33.79354,43,646,72.1,47.6,25.9,18.4
+Eastwood,2,Cultural Enclave,151.02738,-33.73895,36,616,71.4,42.6,22.8,10.8
+Eastwood,2,Cultural Enclave,151.13693,-33.82086,30,540,84.9,50.1,10.2,30.8
+Eastwood,2,Cultural Enclave,151.09828,-33.77654,39,795,93.9,43.1,44.5,24.7
+Wetherill Park,2,Cultural Enclave,150.91248,-33.88231,34,507,80.3,60.7,0.1,21.8
+Wetherill Park,2,Cultural Enclave,150.92805,-33.84467,39,612,75.4,47.3,10.4,14.1
+Wetherill Park,2,Cultural Enclave,150.91773,-33.83951,34,542,68.9,60.5,21.0,12.6
+Wetherill Park,2,Cultural Enclave,150.91859,-33.84512,35,725,71.8,52.9,10.9,20.5
+Wetherill Park,2,Cultural Enclave,150.91524,-33.87888,36,589,72.4,60.4,29.0,32.3
+Wetherill Park,2,Cultural Enclave,150.87516,-33.8366,35,484,81.6,73.2,24.8,25.5
+Wetherill Park,2,Cultural Enclave,150.90211,-33.85784,26,516,58.1,67.0,23.6,19.6
+Wetherill Park,2,Cultural Enclave,150.92223,-33.86804,31,586,82.3,55.0,28.0,22.5
+Wetherill Park,2,Cultural Enclave,150.91001,-33.83496,30,584,61.3,50.8,19.2,39.8
+Wetherill Park,2,Cultural Enclave,150.899,-33.87511,34,627,88.7,44.1,6.0,27.7
+Wetherill Park,2,Cultural Enclave,150.86549,-33.8509,34,574,78.9,43.2,21.7,21.9
+Wetherill Park,2,Cultural Enclave,150.90374,-33.83755,37,656,75.9,54.5,6.0,22.4
+Wetherill Park,2,Cultural Enclave,150.91199,-33.82178,32,521,66.3,55.4,37.4,19.1
+Wetherill Park,2,Cultural Enclave,150.9227,-33.83691,34,561,79.5,53.3,52.3,16.0
+Wetherill Park,2,Cultural Enclave,150.91295,-33.85323,31,579,73.4,79.2,22.8,14.1
+Wetherill Park,2,Cultural Enclave,150.90683,-33.89187,35,581,79.9,59.7,19.0,20.9
+Wetherill Park,2,Cultural Enclave,150.88085,-33.8682,37,465,67.9,40.0,31.6,34.6
+Wetherill Park,2,Cultural Enclave,150.86746,-33.88633,34,581,74.2,45.5,22.6,24.6
+Wetherill Park,2,Cultural Enclave,150.92601,-33.88888,33,599,62.8,67.3,17.4,21.7
+Wetherill Park,2,Cultural Enclave,150.9139,-33.85478,26,541,82.3,46.6,14.8,28.5
+Wetherill Park,2,Cultural Enclave,150.89173,-33.85275,36,649,95.8,58.3,38.9,18.5
+Wetherill Park,2,Cultural Enclave,150.87435,-33.83844,36,483,70.2,54.0,29.3,25.5
+Wetherill Park,2,Cultural Enclave,150.90727,-33.85268,32,472,89.8,50.1,22.3,15.5
+Wetherill Park,2,Cultural Enclave,150.97339,-33.86683,33,617,78.0,59.6,46.7,25.5
+Wetherill Park,2,Cultural Enclave,150.8736,-33.84642,37,766,58.0,62.0,27.2,27.9
+Wetherill Park,2,Cultural Enclave,150.89745,-33.86106,39,639,81.7,49.9,17.8,11.1
+Wetherill Park,2,Cultural Enclave,150.92048,-33.8294,30,532,67.3,35.2,15.2,14.1
+Wetherill Park,2,Cultural Enclave,150.88969,-33.85847,27,762,84.5,42.2,28.3,24.9
+Wetherill Park,2,Cultural Enclave,150.92978,-33.86047,40,531,58.6,57.2,40.5,40.1
+Wetherill Park,2,Cultural Enclave,150.87001,-33.82253,33,651,57.3,37.4,15.7,22.6
+Bankstown,2,Cultural Enclave,151.01397,-33.90352,40,634,88.2,54.2,10.4,31.5
+Bankstown,2,Cultural Enclave,151.01487,-33.89724,43,621,57.0,40.8,40.9,20.8
+Bankstown,2,Cultural Enclave,151.03199,-33.90103,38,605,69.9,46.9,35.3,25.9
+Bankstown,2,Cultural Enclave,151.02357,-33.89295,34,503,64.4,40.2,21.7,30.6
+Bankstown,2,Cultural Enclave,151.00987,-33.91529,32,557,56.9,47.8,22.7,25.8
+Bankstown,2,Cultural Enclave,151.03558,-33.94996,40,599,74.0,49.9,18.8,23.5
+Bankstown,2,Cultural Enclave,151.04189,-33.96367,32,557,74.6,61.9,15.7,18.5
+Bankstown,2,Cultural Enclave,151.01719,-33.94004,33,649,61.5,54.3,4.6,18.1
+Bankstown,2,Cultural Enclave,151.02176,-33.87813,34,382,52.0,50.3,32.4,24.6
+Bankstown,2,Cultural Enclave,151.03419,-33.89094,32,661,55.7,41.0,3.3,20.1
+Bankstown,2,Cultural Enclave,151.02884,-33.91715,35,497,70.1,35.0,41.4,19.9
+Bankstown,2,Cultural Enclave,151.01778,-33.88028,29,479,61.0,49.3,30.2,27.2
+Bankstown,2,Cultural Enclave,151.0943,-33.97624,38,530,66.1,43.8,14.1,33.8
+Bankstown,2,Cultural Enclave,151.05106,-33.91942,42,444,58.7,28.2,16.6,23.1
+Bankstown,2,Cultural Enclave,151.03257,-33.91627,28,652,74.4,57.3,2.3,24.2
+Bankstown,2,Cultural Enclave,151.00031,-33.92993,38,588,63.5,50.1,6.6,30.1
+Bankstown,2,Cultural Enclave,151.02487,-33.89204,32,533,64.4,58.8,16.5,26.5
+Bankstown,2,Cultural Enclave,151.02044,-33.9694,32,474,72.3,38.1,36.1,21.4
+Bankstown,2,Cultural Enclave,151.02556,-33.9036,40,578,64.3,32.3,16.8,17.7
+Bankstown,2,Cultural Enclave,151.03268,-33.92863,38,525,71.4,61.8,29.1,21.6
+Bankstown,2,Cultural Enclave,151.01495,-33.93583,31,531,79.6,47.8,8.8,34.4
+Bankstown,2,Cultural Enclave,151.038,-33.95517,33,590,89.0,38.9,36.7,31.8
+Bankstown,2,Cultural Enclave,151.01428,-33.92694,30,562,71.6,56.6,38.1,16.8
+Bankstown,2,Cultural Enclave,150.98082,-33.92053,36,602,68.7,51.2,43.2,24.7
+Bankstown,2,Cultural Enclave,151.02067,-33.9325,34,727,70.2,49.8,19.2,29.7
+Bankstown,2,Cultural Enclave,151.079,-33.90873,35,583,48.2,57.5,26.6,25.0
+Bankstown,2,Cultural Enclave,151.01221,-33.92961,33,672,68.2,70.8,30.2,13.1
+Bankstown,2,Cultural Enclave,151.02679,-33.93629,24,724,79.0,55.3,27.0,12.3
+Bankstown,2,Cultural Enclave,151.01791,-33.89896,30,352,69.7,48.6,26.6,27.1
+Bankstown,2,Cultural Enclave,151.04594,-33.91353,41,443,77.0,56.3,10.1,11.5
+Rockdale,2,Cultural Enclave,151.12135,-33.97654,39,525,63.4,43.9,38.4,22.1
+Rockdale,2,Cultural Enclave,151.13552,-33.96275,41,513,85.2,52.1,23.1,39.5
+Rockdale,2,Cultural Enclave,151.11361,-33.96884,29,666,88.9,66.7,39.7,20.6
+Rockdale,2,Cultural Enclave,151.13087,-34.00178,45,622,67.1,63.3,13.3,24.8
+Rockdale,2,Cultural Enclave,151.13568,-33.94403,35,449,72.8,60.5,24.6,27.4
+Rockdale,2,Cultural Enclave,151.11386,-33.96066,32,647,72.3,56.9,38.1,26.8
+Rockdale,2,Cultural Enclave,151.14683,-33.98496,35,532,68.6,46.3,13.2,8.3
+Rockdale,2,Cultural Enclave,151.1233,-33.95517,28,581,91.0,60.2,44.7,24.7
+Rockdale,2,Cultural Enclave,151.16919,-33.9781,32,333,83.9,65.4,18.4,20.2
+Rockdale,2,Cultural Enclave,151.12115,-33.95043,41,423,76.1,47.2,26.4,25.2
+Rockdale,2,Cultural Enclave,151.13529,-33.96259,34,667,76.2,52.2,9.7,19.3
+Rockdale,2,Cultural Enclave,151.16247,-33.95906,38,739,82.4,50.9,18.9,4.1
+Rockdale,2,Cultural Enclave,151.13579,-33.96815,37,566,68.8,32.2,13.7,25.3
+Rockdale,2,Cultural Enclave,151.1829,-33.96244,37,666,63.9,53.7,16.1,28.1
+Rockdale,2,Cultural Enclave,151.14379,-33.95254,31,644,92.8,39.9,20.9,23.6
+Rockdale,2,Cultural Enclave,151.15966,-33.97399,21,702,79.6,32.6,17.7,33.0
+Rockdale,2,Cultural Enclave,151.17619,-33.93653,34,587,70.7,61.3,14.5,16.4
+Rockdale,2,Cultural Enclave,151.16526,-33.96111,42,520,71.5,40.8,25.1,11.7
+Rockdale,2,Cultural Enclave,151.12781,-33.99591,38,644,54.7,63.3,55.0,22.3
+Rockdale,2,Cultural Enclave,151.12397,-33.88939,28,582,73.8,63.5,29.3,18.5
+Rockdale,2,Cultural Enclave,151.11622,-33.96855,30,584,66.4,35.1,40.1,18.5
+Rockdale,2,Cultural Enclave,151.1083,-33.96421,35,423,75.3,39.5,45.5,25.7
+Rockdale,2,Cultural Enclave,151.13,-33.97863,34,635,71.7,47.8,25.7,17.8
+Rockdale,2,Cultural Enclave,151.13142,-34.01214,40,607,64.3,69.0,26.0,14.7
+Rockdale,2,Cultural Enclave,151.16142,-33.95005,37,542,76.5,47.4,31.7,8.7
+Rockdale,2,Cultural Enclave,151.12915,-33.91695,31,526,67.5,37.9,0.0,20.4
+Rockdale,2,Cultural Enclave,151.1434,-33.96131,34,584,82.2,48.1,18.1,20.0
+Rockdale,2,Cultural Enclave,151.15448,-33.9247,32,589,75.4,40.1,25.2,11.7
+Rockdale,2,Cultural Enclave,151.09577,-33.95083,33,598,71.8,40.2,24.5,13.4
+Rockdale,2,Cultural Enclave,151.17477,-33.9939,34,486,77.7,46.7,18.8,28.0
+Manly,3,Surf-Urbanite,151.28074,-33.78708,35,897,18.9,29.4,87.0,51.3
+Manly,3,Surf-Urbanite,151.28513,-33.84058,55,1120,23.6,25.3,84.5,40.3
+Manly,3,Surf-Urbanite,151.2913,-33.8089,42,1276,8.1,26.5,85.7,70.9
+Manly,3,Surf-Urbanite,151.27655,-33.78522,41,1500,4.0,32.8,69.0,29.4
+Manly,3,Surf-Urbanite,151.28744,-33.79651,40,1131,42.8,29.9,86.1,46.2
+Manly,3,Surf-Urbanite,151.28738,-33.80596,39,1477,27.4,33.1,63.6,48.8
+Manly,3,Surf-Urbanite,151.34758,-33.80577,50,1410,19.8,25.3,62.5,58.2
+Manly,3,Surf-Urbanite,151.25963,-33.7956,33,1102,18.3,34.1,73.1,62.8
+Manly,3,Surf-Urbanite,151.26508,-33.84186,41,1156,19.3,42.9,80.1,50.9
+Manly,3,Surf-Urbanite,151.25242,-33.77949,43,1074,2.8,43.6,72.2,46.7
+Manly,3,Surf-Urbanite,151.28896,-33.82991,32,768,23.8,27.6,100.0,43.1
+Manly,3,Surf-Urbanite,151.25696,-33.81413,44,1065,22.9,24.2,70.9,35.8
+Manly,3,Surf-Urbanite,151.22441,-33.81295,40,1036,27.9,41.8,79.3,35.9
+Manly,3,Surf-Urbanite,151.26583,-33.815,37,1024,12.8,28.9,76.9,53.9
+Manly,3,Surf-Urbanite,151.28901,-33.82277,51,974,5.1,35.0,75.5,54.9
+Manly,3,Surf-Urbanite,151.21991,-33.76519,47,880,6.2,45.4,76.1,44.5
+Manly,3,Surf-Urbanite,151.22335,-33.80877,40,1279,6.8,19.8,85.6,61.1
+Manly,3,Surf-Urbanite,151.24072,-33.77296,42,1347,17.4,11.8,80.8,61.5
+Manly,3,Surf-Urbanite,151.25766,-33.8097,41,628,31.4,24.8,86.0,51.2
+Manly,3,Surf-Urbanite,151.31144,-33.78985,40,989,24.4,17.0,87.2,42.1
+Manly,3,Surf-Urbanite,151.31131,-33.79597,47,1165,4.0,25.1,87.4,53.5
+Manly,3,Surf-Urbanite,151.30952,-33.78992,35,1007,18.8,13.5,95.4,56.0
+Manly,3,Surf-Urbanite,151.31068,-33.83952,51,1552,7.4,38.2,82.0,38.1
+Manly,3,Surf-Urbanite,151.29232,-33.77916,38,1360,4.7,20.0,83.1,52.2
+Manly,3,Surf-Urbanite,151.26209,-33.77976,46,1304,17.0,36.8,78.4,70.5
+Manly,3,Surf-Urbanite,151.25969,-33.74737,42,902,28.9,33.0,88.8,63.0
+Manly,3,Surf-Urbanite,151.28845,-33.81481,49,1150,23.5,14.8,85.6,46.3
+Manly,3,Surf-Urbanite,151.32133,-33.78442,44,1238,10.0,45.0,97.9,55.5
+Manly,3,Surf-Urbanite,151.31976,-33.81423,36,1157,21.5,28.8,86.3,54.8
+Manly,3,Surf-Urbanite,151.25504,-33.78703,48,1181,27.2,22.3,85.7,41.5
+Cronulla,3,Surf-Urbanite,151.12215,-34.06577,35,1051,16.3,38.7,79.4,37.7
+Cronulla,3,Surf-Urbanite,151.1785,-34.07093,42,1230,19.6,40.8,85.8,44.2
+Cronulla,3,Surf-Urbanite,151.20446,-34.04514,41,1324,20.0,35.2,100.0,49.5
+Cronulla,3,Surf-Urbanite,151.14206,-34.04709,50,879,2.3,27.3,68.9,48.2
+Cronulla,3,Surf-Urbanite,151.16256,-34.07227,32,1162,24.9,18.4,88.6,59.4
+Cronulla,3,Surf-Urbanite,151.17385,-34.01954,57,1086,18.9,28.7,82.0,65.8
+Cronulla,3,Surf-Urbanite,151.11637,-34.07153,52,1334,15.1,38.8,84.7,65.5
+Cronulla,3,Surf-Urbanite,151.15186,-34.02436,60,1258,18.4,37.8,79.1,73.5
+Cronulla,3,Surf-Urbanite,151.1545,-34.05682,36,1347,24.9,28.0,86.6,38.4
+Cronulla,3,Surf-Urbanite,151.15462,-34.03868,54,1011,7.8,24.8,71.3,64.0
+Cronulla,3,Surf-Urbanite,151.18872,-34.04199,51,1174,17.2,29.3,79.5,38.1
+Cronulla,3,Surf-Urbanite,151.15661,-34.05101,47,1167,16.7,25.0,82.6,58.6
+Cronulla,3,Surf-Urbanite,151.12142,-34.04781,44,1021,13.3,33.8,72.9,55.1
+Cronulla,3,Surf-Urbanite,151.12762,-34.02343,58,995,22.3,26.2,90.3,40.6
+Cronulla,3,Surf-Urbanite,151.16201,-34.07182,41,964,24.6,25.3,86.4,48.9
+Cronulla,3,Surf-Urbanite,151.14714,-34.04631,37,1188,30.2,25.8,91.4,65.5
+Cronulla,3,Surf-Urbanite,151.1296,-34.08638,44,1051,32.9,32.3,75.6,41.7
+Cronulla,3,Surf-Urbanite,151.17725,-34.06428,42,1322,14.1,31.6,81.9,58.1
+Cronulla,3,Surf-Urbanite,151.16477,-34.0555,42,1083,6.2,34.1,97.1,44.0
+Cronulla,3,Surf-Urbanite,151.13067,-34.07177,47,1231,16.7,24.7,82.7,37.9
+Cronulla,3,Surf-Urbanite,151.15359,-34.02821,33,874,30.6,27.1,91.1,50.6
+Cronulla,3,Surf-Urbanite,151.14595,-34.03904,36,1174,14.9,21.4,84.7,49.6
+Cronulla,3,Surf-Urbanite,151.14607,-34.08025,53,1308,25.7,29.6,68.2,69.6
+Cronulla,3,Surf-Urbanite,151.14847,-34.06872,45,1360,17.8,42.2,90.7,42.3
+Cronulla,3,Surf-Urbanite,151.13316,-34.02606,23,1123,6.6,28.2,79.6,48.8
+Cronulla,3,Surf-Urbanite,151.13619,-34.07743,58,1486,8.7,44.7,78.8,53.2
+Cronulla,3,Surf-Urbanite,151.14842,-34.06649,49,1173,14.2,21.6,74.9,37.2
+Cronulla,3,Surf-Urbanite,151.15031,-34.07992,40,1397,27.6,31.7,81.3,68.9
+Cronulla,3,Surf-Urbanite,151.16302,-34.0582,32,1221,24.6,26.9,84.3,48.7
+Cronulla,3,Surf-Urbanite,151.1454,-34.1122,40,1324,12.9,32.4,76.0,55.2
+Hornsby,3,Surf-Urbanite,151.09459,-33.72348,51,1317,13.2,36.0,86.3,57.8
+Hornsby,3,Surf-Urbanite,151.05764,-33.67483,38,1086,39.1,34.4,78.9,32.2
+Hornsby,3,Surf-Urbanite,151.13474,-33.73363,35,1090,29.3,38.2,80.7,54.8
+Hornsby,3,Surf-Urbanite,151.08499,-33.69651,43,1324,25.7,36.0,79.1,58.7
+Hornsby,3,Surf-Urbanite,151.0977,-33.72705,39,1165,25.3,30.5,72.3,52.5
+Hornsby,3,Surf-Urbanite,151.10284,-33.69535,48,1333,13.2,27.1,73.7,58.3
+Hornsby,3,Surf-Urbanite,151.13622,-33.70788,40,1414,22.0,35.5,72.5,58.1
+Hornsby,3,Surf-Urbanite,151.07677,-33.72835,40,1045,16.2,20.5,89.7,62.1
+Hornsby,3,Surf-Urbanite,151.05132,-33.67554,36,1304,17.5,32.2,80.5,62.9
+Hornsby,3,Surf-Urbanite,151.06901,-33.6848,50,1279,36.6,27.8,89.7,51.0
+Hornsby,3,Surf-Urbanite,151.13084,-33.70019,39,1385,14.1,20.7,77.9,57.6
+Hornsby,3,Surf-Urbanite,151.1348,-33.69722,51,906,14.5,29.7,81.1,52.8
+Hornsby,3,Surf-Urbanite,151.11727,-33.71112,43,1142,10.6,31.1,80.9,50.5
+Hornsby,3,Surf-Urbanite,151.10079,-33.69811,39,1379,8.6,26.2,100.0,42.7
+Hornsby,3,Surf-Urbanite,151.06616,-33.68164,27,1108,35.2,19.6,66.1,38.5
+Hornsby,3,Surf-Urbanite,151.12246,-33.67188,38,1273,29.1,46.3,80.0,31.3
+Hornsby,3,Surf-Urbanite,151.07948,-33.71067,40,1116,27.0,42.2,80.6,61.9
+Hornsby,3,Surf-Urbanite,151.10894,-33.69839,48,1163,34.5,20.5,77.9,50.9
+Hornsby,3,Surf-Urbanite,151.11099,-33.6683,42,894,24.7,38.0,66.5,52.0
+Hornsby,3,Surf-Urbanite,151.06025,-33.71662,36,1296,18.9,21.7,89.0,39.1
+Hornsby,3,Surf-Urbanite,151.10825,-33.72035,39,1241,22.2,42.7,81.3,54.8
+Hornsby,3,Surf-Urbanite,151.08906,-33.69545,45,1132,3.6,34.7,84.9,45.9
+Hornsby,3,Surf-Urbanite,151.06789,-33.6631,45,1109,8.9,25.4,92.4,53.2
+Hornsby,3,Surf-Urbanite,151.08624,-33.68726,36,1420,28.8,28.3,77.0,28.4
+Hornsby,3,Surf-Urbanite,151.06296,-33.73349,43,1091,7.2,29.8,86.0,56.8
+Hornsby,3,Surf-Urbanite,151.05251,-33.70321,32,1312,24.3,24.8,75.9,47.8
+Hornsby,3,Surf-Urbanite,151.04368,-33.6916,40,1325,9.2,27.0,69.9,43.0
+Hornsby,3,Surf-Urbanite,151.07045,-33.6751,37,1172,15.0,21.8,80.7,57.4
+Hornsby,3,Surf-Urbanite,151.06981,-33.67977,36,1063,22.2,26.7,82.3,49.2
+Hornsby,3,Surf-Urbanite,151.10323,-33.75952,29,1261,26.3,24.7,80.0,54.7
+Mona Vale,3,Surf-Urbanite,151.31733,-33.73069,36,1090,23.6,52.0,80.2,39.3
+Mona Vale,3,Surf-Urbanite,151.31006,-33.64698,43,987,25.7,37.3,73.8,55.4
+Mona Vale,3,Surf-Urbanite,151.32493,-33.65045,42,1086,27.8,22.3,85.5,39.7
+Mona Vale,3,Surf-Urbanite,151.32663,-33.68645,51,1238,8.2,43.4,94.4,59.9
+Mona Vale,3,Surf-Urbanite,151.28096,-33.68765,43,1023,31.5,33.2,60.4,55.1
+Mona Vale,3,Surf-Urbanite,151.2913,-33.68187,39,1295,27.0,34.3,79.3,51.6
+Mona Vale,3,Surf-Urbanite,151.30049,-33.70006,46,1233,30.3,42.0,76.5,59.4
+Mona Vale,3,Surf-Urbanite,151.27623,-33.6626,38,966,20.2,10.6,68.0,50.4
+Mona Vale,3,Surf-Urbanite,151.30206,-33.68923,31,1003,21.1,36.7,81.9,62.4
+Mona Vale,3,Surf-Urbanite,151.30993,-33.69869,40,897,17.1,40.9,87.5,64.6
+Mona Vale,3,Surf-Urbanite,151.29243,-33.64635,41,1415,17.8,37.7,93.8,50.3
+Mona Vale,3,Surf-Urbanite,151.30546,-33.64778,41,912,35.1,28.2,83.3,62.4
+Mona Vale,3,Surf-Urbanite,151.28479,-33.7052,44,827,15.7,34.0,79.8,38.1
+Mona Vale,3,Surf-Urbanite,151.33985,-33.67741,52,1103,11.0,34.2,80.3,41.4
+Mona Vale,3,Surf-Urbanite,151.33674,-33.69556,29,1389,14.0,27.1,67.9,67.7
+Mona Vale,3,Surf-Urbanite,151.26776,-33.67854,48,1226,17.5,18.4,75.5,53.7
+Mona Vale,3,Surf-Urbanite,151.28032,-33.67492,47,1323,8.2,49.6,88.1,52.0
+Mona Vale,3,Surf-Urbanite,151.32724,-33.62086,32,1109,0.0,33.5,84.9,51.6
+Mona Vale,3,Surf-Urbanite,151.28364,-33.73124,45,1412,13.3,35.5,69.5,56.1
+Mona Vale,3,Surf-Urbanite,151.29017,-33.69906,37,1079,21.1,21.5,78.8,51.6
+Mona Vale,3,Surf-Urbanite,151.27252,-33.63508,36,1030,10.2,46.4,86.4,43.6
+Mona Vale,3,Surf-Urbanite,151.32766,-33.67498,44,1088,12.0,34.7,77.6,68.4
+Mona Vale,3,Surf-Urbanite,151.26827,-33.6416,41,1204,24.7,27.0,88.9,27.6
+Mona Vale,3,Surf-Urbanite,151.282,-33.7031,33,1111,21.1,37.6,83.9,46.0
+Mona Vale,3,Surf-Urbanite,151.30923,-33.67689,49,1290,18.2,24.8,76.8,47.1
+Mona Vale,3,Surf-Urbanite,151.29212,-33.6733,47,1141,18.1,33.1,77.9,43.7
+Mona Vale,3,Surf-Urbanite,151.25611,-33.69738,45,1023,16.1,35.7,86.2,42.3
+Mona Vale,3,Surf-Urbanite,151.32493,-33.65182,34,1002,27.5,30.8,64.2,39.4
+Mona Vale,3,Surf-Urbanite,151.29377,-33.70908,39,1156,29.7,29.7,90.6,64.9
+Mona Vale,3,Surf-Urbanite,151.33586,-33.67288,28,1233,26.4,31.4,96.0,59.7
+Castle Hill,4,Diaspora Professional,151.01421,-33.70284,50,851,74.0,37.6,13.5,56.2
+Castle Hill,4,Diaspora Professional,150.97388,-33.6854,58,1173,79.2,22.6,24.9,62.1
+Castle Hill,4,Diaspora Professional,151.02029,-33.7217,66,1144,64.3,24.9,7.5,46.1
+Castle Hill,4,Diaspora Professional,150.97497,-33.75305,42,1454,74.0,26.6,27.2,51.9
+Castle Hill,4,Diaspora Professional,150.99339,-33.72086,36,873,80.8,31.9,36.5,59.3
+Castle Hill,4,Diaspora Professional,151.02049,-33.73489,50,1683,61.0,31.3,37.1,60.3
+Castle Hill,4,Diaspora Professional,151.04126,-33.74573,48,1357,60.3,18.7,11.2,64.6
+Castle Hill,4,Diaspora Professional,151.0218,-33.7219,53,1317,87.6,28.1,20.5,55.9
+Castle Hill,4,Diaspora Professional,151.01711,-33.74053,54,1124,69.2,33.5,19.3,54.4
+Castle Hill,4,Diaspora Professional,151.02225,-33.74518,47,1630,90.3,40.6,17.7,67.8
+Castle Hill,4,Diaspora Professional,150.97628,-33.75267,34,1685,71.1,27.0,12.7,63.6
+Castle Hill,4,Diaspora Professional,150.99061,-33.76262,51,1063,71.3,11.1,8.6,59.4
+Castle Hill,4,Diaspora Professional,150.95089,-33.76703,48,1241,93.9,42.7,13.1,62.5
+Castle Hill,4,Diaspora Professional,151.01873,-33.74494,39,1348,76.6,24.5,23.5,52.0
+Castle Hill,4,Diaspora Professional,150.9712,-33.72727,50,1115,85.4,13.8,15.4,55.9
+Castle Hill,4,Diaspora Professional,150.98409,-33.74413,59,1180,97.5,31.5,20.7,61.8
+Castle Hill,4,Diaspora Professional,151.06325,-33.75484,41,1199,78.3,14.2,20.2,71.5
+Castle Hill,4,Diaspora Professional,151.00379,-33.73732,44,1530,71.4,42.8,35.5,60.1
+Castle Hill,4,Diaspora Professional,150.99971,-33.70423,55,1189,73.8,17.4,23.3,63.3
+Castle Hill,4,Diaspora Professional,150.96625,-33.74138,40,1170,82.4,22.1,17.6,45.0
+Castle Hill,4,Diaspora Professional,151.00467,-33.73111,44,1312,79.4,21.5,8.2,72.4
+Castle Hill,4,Diaspora Professional,150.98417,-33.73242,54,2056,68.0,31.6,14.3,53.7
+Castle Hill,4,Diaspora Professional,150.98199,-33.75814,48,1055,85.6,28.4,23.4,54.3
+Castle Hill,4,Diaspora Professional,150.99082,-33.72281,41,1278,71.1,20.9,3.1,68.7
+Castle Hill,4,Diaspora Professional,150.98284,-33.70092,54,1093,69.3,48.5,34.0,57.7
+Castle Hill,4,Diaspora Professional,151.00643,-33.74577,51,1207,61.7,17.4,20.2,49.0
+Castle Hill,4,Diaspora Professional,150.99832,-33.75687,43,1521,80.0,27.9,27.0,61.8
+Castle Hill,4,Diaspora Professional,151.03616,-33.7415,45,1090,74.6,35.7,30.4,65.7
+Castle Hill,4,Diaspora Professional,150.95515,-33.70292,37,1530,75.1,33.6,9.3,67.4
+Castle Hill,4,Diaspora Professional,150.96338,-33.74671,42,999,78.8,42.4,41.3,58.8
+Kellyville,4,Diaspora Professional,150.99792,-33.6742,51,1282,79.6,32.3,15.4,57.4
+Kellyville,4,Diaspora Professional,150.96854,-33.65934,42,1340,93.3,37.3,30.8,58.2
+Kellyville,4,Diaspora Professional,150.97802,-33.65494,57,960,67.5,38.5,17.8,52.6
+Kellyville,4,Diaspora Professional,150.93865,-33.69388,40,1768,77.8,27.5,24.7,65.7
+Kellyville,4,Diaspora Professional,150.99365,-33.65316,44,1290,84.2,23.8,20.0,61.2
+Kellyville,4,Diaspora Professional,150.98963,-33.72444,52,1303,83.7,34.2,32.9,68.8
+Kellyville,4,Diaspora Professional,151.00366,-33.64391,50,1356,85.0,33.9,17.5,61.2
+Kellyville,4,Diaspora Professional,150.96912,-33.70135,56,1361,94.4,15.0,15.5,58.3
+Kellyville,4,Diaspora Professional,150.99843,-33.67001,50,1125,68.7,30.6,9.1,53.7
+Kellyville,4,Diaspora Professional,150.98252,-33.70456,58,1595,65.4,20.5,1.7,51.7
+Kellyville,4,Diaspora Professional,150.98916,-33.69035,51,1046,84.4,23.6,20.1,57.3
+Kellyville,4,Diaspora Professional,150.93821,-33.70883,54,1430,86.4,30.6,21.1,44.2
+Kellyville,4,Diaspora Professional,150.96324,-33.68068,60,1487,90.3,32.8,14.3,58.9
+Kellyville,4,Diaspora Professional,150.97591,-33.70348,46,1309,90.8,11.4,29.6,50.5
+Kellyville,4,Diaspora Professional,150.9357,-33.6505,52,1601,84.4,44.5,24.5,56.7
+Kellyville,4,Diaspora Professional,150.97857,-33.64891,43,1220,75.5,11.2,21.1,42.9
+Kellyville,4,Diaspora Professional,150.97133,-33.65837,45,1685,66.3,37.5,25.4,44.3
+Kellyville,4,Diaspora Professional,151.03777,-33.68159,43,1069,76.2,27.0,20.8,55.6
+Kellyville,4,Diaspora Professional,150.98583,-33.68969,36,1320,59.1,30.8,12.2,59.3
+Kellyville,4,Diaspora Professional,151.00285,-33.70372,54,1263,92.0,25.1,13.3,63.5
+Kellyville,4,Diaspora Professional,150.95911,-33.70104,45,1341,88.7,12.5,20.2,63.0
+Kellyville,4,Diaspora Professional,150.97484,-33.64725,48,1313,82.7,28.8,16.9,62.1
+Kellyville,4,Diaspora Professional,150.95369,-33.69528,45,1621,52.2,31.2,20.3,44.6
+Kellyville,4,Diaspora Professional,150.97774,-33.66811,52,820,88.9,22.1,25.5,63.9
+Kellyville,4,Diaspora Professional,150.94808,-33.66349,46,936,87.3,21.8,13.2,54.8
+Kellyville,4,Diaspora Professional,150.97681,-33.68143,51,1082,72.1,27.1,35.2,57.1
+Kellyville,4,Diaspora Professional,150.99713,-33.67904,45,1301,76.7,32.8,31.0,60.9
+Kellyville,4,Diaspora Professional,150.99968,-33.70412,46,1205,80.5,25.1,25.8,50.6
+Kellyville,4,Diaspora Professional,150.97108,-33.66283,36,1774,75.7,11.8,21.3,58.3
+Kellyville,4,Diaspora Professional,150.96795,-33.65522,52,1410,81.6,27.2,34.2,46.2
+Baulkham Hills,4,Diaspora Professional,150.98349,-33.75837,53,1181,64.1,29.3,22.2,69.9
+Baulkham Hills,4,Diaspora Professional,150.94824,-33.73113,62,1274,67.7,24.7,20.1,62.5
+Baulkham Hills,4,Diaspora Professional,150.96522,-33.72112,41,1002,86.9,9.8,18.4,82.9
+Baulkham Hills,4,Diaspora Professional,150.9797,-33.78802,48,1340,79.3,33.3,11.7,71.5
+Baulkham Hills,4,Diaspora Professional,150.98613,-33.74183,44,1607,75.9,30.2,12.5,50.0
+Baulkham Hills,4,Diaspora Professional,150.99721,-33.77109,43,1221,83.6,23.0,19.1,58.1
+Baulkham Hills,4,Diaspora Professional,150.93207,-33.79678,50,1203,86.5,35.7,25.8,72.6
+Baulkham Hills,4,Diaspora Professional,150.97792,-33.74378,44,1840,93.9,28.1,23.1,68.9
+Baulkham Hills,4,Diaspora Professional,150.97632,-33.77642,53,1366,79.5,21.3,6.3,59.9
+Baulkham Hills,4,Diaspora Professional,151.00262,-33.76565,57,1209,69.6,27.5,19.3,64.2
+Baulkham Hills,4,Diaspora Professional,150.96063,-33.7258,60,1342,88.0,19.5,28.6,66.4
+Baulkham Hills,4,Diaspora Professional,151.00159,-33.76039,30,1222,73.0,20.2,21.0,54.6
+Baulkham Hills,4,Diaspora Professional,150.95938,-33.78647,44,1574,72.7,23.9,16.3,60.7
+Baulkham Hills,4,Diaspora Professional,150.99141,-33.83612,54,1637,69.6,20.2,16.4,52.0
+Baulkham Hills,4,Diaspora Professional,150.9856,-33.80866,41,1658,70.6,37.9,22.8,43.5
+Baulkham Hills,4,Diaspora Professional,150.99588,-33.76294,45,1399,81.8,33.7,29.4,61.3
+Baulkham Hills,4,Diaspora Professional,150.94561,-33.77184,66,1495,97.0,39.2,21.9,60.4
+Baulkham Hills,4,Diaspora Professional,150.97909,-33.80345,48,1592,73.2,31.3,26.8,50.7
+Baulkham Hills,4,Diaspora Professional,150.96872,-33.78545,43,1092,70.8,39.4,12.7,59.0
+Baulkham Hills,4,Diaspora Professional,150.96743,-33.73053,56,1523,80.4,26.2,10.5,73.5
+Baulkham Hills,4,Diaspora Professional,150.96101,-33.74341,54,1239,86.3,34.1,33.8,54.2
+Baulkham Hills,4,Diaspora Professional,150.94785,-33.77264,49,1362,74.9,12.7,23.8,73.8
+Baulkham Hills,4,Diaspora Professional,150.99161,-33.74477,51,1429,85.5,31.2,17.5,51.6
+Baulkham Hills,4,Diaspora Professional,150.97378,-33.75215,46,1413,81.5,34.7,30.3,58.6
+Baulkham Hills,4,Diaspora Professional,150.94731,-33.76863,48,983,89.1,29.1,23.1,68.9
+Baulkham Hills,4,Diaspora Professional,150.96425,-33.74565,47,1313,71.8,41.3,17.0,63.6
+Baulkham Hills,4,Diaspora Professional,150.93312,-33.7305,54,1369,76.2,31.2,38.3,43.9
+Baulkham Hills,4,Diaspora Professional,150.99955,-33.78279,48,1300,74.6,27.9,10.9,66.2
+Baulkham Hills,4,Diaspora Professional,150.93515,-33.74651,46,1116,79.6,15.5,20.3,46.6
+Baulkham Hills,4,Diaspora Professional,150.99153,-33.78311,45,1409,71.8,27.5,7.9,63.0
+Chatswood,4,Diaspora Professional,151.22412,-33.73019,49,1508,63.8,40.0,26.2,54.1
+Chatswood,4,Diaspora Professional,151.21093,-33.80636,45,1445,69.5,36.2,11.6,49.6
+Chatswood,4,Diaspora Professional,151.15726,-33.78101,44,1080,73.2,27.7,10.6,48.8
+Chatswood,4,Diaspora Professional,151.23278,-33.82151,46,1277,74.6,33.0,27.6,55.6
+Chatswood,4,Diaspora Professional,151.14909,-33.76814,47,1696,60.0,29.6,35.3,55.2
+Chatswood,4,Diaspora Professional,151.17436,-33.79261,45,1288,75.3,23.0,29.8,61.7
+Chatswood,4,Diaspora Professional,151.18627,-33.77979,46,1195,73.2,28.0,11.5,54.0
+Chatswood,4,Diaspora Professional,151.1671,-33.74689,31,1314,91.8,29.0,26.0,58.8
+Chatswood,4,Diaspora Professional,151.16332,-33.85605,49,1195,71.6,24.0,34.0,77.2
+Chatswood,4,Diaspora Professional,151.18543,-33.81162,41,1444,92.3,26.0,1.0,63.4
+Chatswood,4,Diaspora Professional,151.20463,-33.83965,49,1440,77.4,21.7,28.1,54.8
+Chatswood,4,Diaspora Professional,151.14287,-33.85124,56,1473,78.7,24.5,15.8,49.4
+Chatswood,4,Diaspora Professional,151.16921,-33.853,44,1288,82.9,27.7,26.4,68.8
+Chatswood,4,Diaspora Professional,151.20645,-33.78824,48,1154,83.9,41.4,22.7,73.3
+Chatswood,4,Diaspora Professional,151.14186,-33.82885,53,1403,88.5,27.9,13.1,56.3
+Chatswood,4,Diaspora Professional,151.14168,-33.82821,54,1525,80.9,14.2,17.1,48.2
+Chatswood,4,Diaspora Professional,151.20941,-33.81459,41,1356,72.9,39.9,14.1,46.8
+Chatswood,4,Diaspora Professional,151.12618,-33.80077,45,1064,87.5,33.3,19.8,68.9
+Chatswood,4,Diaspora Professional,151.19656,-33.82057,42,1514,81.2,29.4,13.2,62.9
+Chatswood,4,Diaspora Professional,151.16111,-33.80255,57,1218,65.4,19.6,28.0,60.0
+Chatswood,4,Diaspora Professional,151.17678,-33.81273,51,1180,80.4,22.1,12.8,52.9
+Chatswood,4,Diaspora Professional,151.17061,-33.80122,49,612,71.5,24.9,32.0,49.4
+Chatswood,4,Diaspora Professional,151.18407,-33.76262,40,1429,71.6,24.0,13.6,52.1
+Chatswood,4,Diaspora Professional,151.24805,-33.77889,55,1448,65.1,31.2,28.6,51.2
+Chatswood,4,Diaspora Professional,151.20413,-33.78239,59,1266,69.2,25.1,31.5,43.4
+Chatswood,4,Diaspora Professional,151.12829,-33.79777,45,1352,85.6,23.6,5.0,74.4
+Chatswood,4,Diaspora Professional,151.15507,-33.82648,55,1273,77.5,31.9,28.7,55.3
+Chatswood,4,Diaspora Professional,151.218,-33.85339,53,1182,89.0,29.1,14.6,63.3
+Chatswood,4,Diaspora Professional,151.20233,-33.78395,42,1253,78.0,27.7,26.0,41.9
+Chatswood,4,Diaspora Professional,151.18836,-33.80725,43,1202,76.3,0.0,14.4,51.0
+Ryde,4,Diaspora Professional,151.11332,-33.84014,47,1658,86.0,35.2,16.0,62.3
+Ryde,4,Diaspora Professional,151.09415,-33.8249,50,1231,89.9,26.7,24.9,69.6
+Ryde,4,Diaspora Professional,151.12579,-33.85522,51,1520,85.1,19.1,14.7,66.0
+Ryde,4,Diaspora Professional,151.08096,-33.82749,57,1340,72.2,21.0,22.7,47.3
+Ryde,4,Diaspora Professional,151.09382,-33.81167,56,1484,72.3,37.4,17.6,48.1
+Ryde,4,Diaspora Professional,151.0957,-33.78405,49,1353,91.1,16.5,9.7,45.1
+Ryde,4,Diaspora Professional,151.10932,-33.81584,57,1399,74.8,28.0,20.9,44.6
+Ryde,4,Diaspora Professional,151.16776,-33.807,49,1473,83.7,26.9,15.0,62.8
+Ryde,4,Diaspora Professional,151.10964,-33.84025,57,1409,83.8,39.1,20.2,60.5
+Ryde,4,Diaspora Professional,151.12025,-33.83812,48,1375,70.4,46.5,8.7,47.6
+Ryde,4,Diaspora Professional,151.13286,-33.80217,42,1471,89.7,27.8,40.8,44.2
+Ryde,4,Diaspora Professional,151.11735,-33.79084,53,1309,75.7,31.6,26.5,62.8
+Ryde,4,Diaspora Professional,151.126,-33.84547,47,1162,74.9,36.1,20.9,78.9
+Ryde,4,Diaspora Professional,151.10484,-33.81851,49,1222,77.5,37.0,20.9,51.7
+Ryde,4,Diaspora Professional,151.07687,-33.83126,48,1589,67.3,25.4,21.2,43.3
+Ryde,4,Diaspora Professional,151.07916,-33.837,43,1388,76.7,23.6,23.4,71.8
+Ryde,4,Diaspora Professional,151.14098,-33.86807,51,1314,79.2,24.8,20.9,59.2
+Ryde,4,Diaspora Professional,151.08553,-33.84241,45,1397,82.8,34.8,16.0,60.3
+Ryde,4,Diaspora Professional,151.12406,-33.79086,48,1306,79.5,18.8,18.5,64.0
+Ryde,4,Diaspora Professional,151.11605,-33.82676,49,1185,83.6,27.4,17.8,55.1
+Ryde,4,Diaspora Professional,151.09843,-33.8312,52,1271,90.7,39.7,12.9,58.6
+Ryde,4,Diaspora Professional,151.08373,-33.82817,60,1288,80.9,32.3,12.0,51.2
+Ryde,4,Diaspora Professional,151.06985,-33.84215,31,1459,94.4,29.2,8.7,52.9
+Ryde,4,Diaspora Professional,151.08853,-33.84544,53,1512,68.8,33.8,32.2,73.2
+Ryde,4,Diaspora Professional,151.17163,-33.84255,65,1279,73.3,30.6,15.3,61.2
+Ryde,4,Diaspora Professional,151.067,-33.82597,56,1339,79.1,31.8,29.4,44.8
+Ryde,4,Diaspora Professional,151.11461,-33.8267,49,1562,68.4,19.9,4.5,53.6
+Ryde,4,Diaspora Professional,151.13326,-33.82301,40,1253,66.1,19.0,23.1,48.6
+Ryde,4,Diaspora Professional,151.12782,-33.82178,49,1294,84.2,34.3,22.7,62.5
+Ryde,4,Diaspora Professional,151.0947,-33.80644,46,1350,75.8,24.3,14.5,61.7
+Epping,4,Diaspora Professional,151.11277,-33.74072,40,1608,75.5,32.8,12.8,59.1
+Epping,4,Diaspora Professional,151.08784,-33.80712,52,1619,76.6,38.9,18.5,64.8
+Epping,4,Diaspora Professional,151.02454,-33.70953,57,1293,62.2,30.3,8.4,61.6
+Epping,4,Diaspora Professional,151.09029,-33.79354,55,1511,85.8,28.1,8.7,65.8
+Epping,4,Diaspora Professional,151.07324,-33.80474,56,1770,77.7,45.3,20.7,55.0
+Epping,4,Diaspora Professional,151.06424,-33.72907,43,1497,73.5,24.3,28.2,55.0
+Epping,4,Diaspora Professional,151.06988,-33.74168,58,1479,72.8,23.9,20.6,60.6
+Epping,4,Diaspora Professional,151.0553,-33.75192,49,1007,70.6,24.0,19.4,73.1
+Epping,4,Diaspora Professional,151.08595,-33.79102,49,1280,80.6,32.6,29.7,57.8
+Epping,4,Diaspora Professional,151.12097,-33.7473,44,1792,80.6,21.3,33.2,74.6
+Epping,4,Diaspora Professional,151.07917,-33.78259,47,1493,88.2,32.6,20.8,70.0
+Epping,4,Diaspora Professional,151.07218,-33.74423,46,1436,77.1,27.6,17.0,68.8
+Epping,4,Diaspora Professional,151.06168,-33.78851,61,1546,58.9,23.5,5.5,50.4
+Epping,4,Diaspora Professional,151.00154,-33.77342,41,1362,65.0,28.7,16.7,70.0
+Epping,4,Diaspora Professional,151.11528,-33.75037,46,1747,65.6,16.8,19.3,76.0
+Epping,4,Diaspora Professional,151.07494,-33.77458,39,1539,85.6,34.3,15.0,52.3
+Epping,4,Diaspora Professional,151.04767,-33.7679,42,1115,74.6,24.1,15.7,61.7
+Epping,4,Diaspora Professional,151.08198,-33.7772,49,1152,78.8,29.2,8.0,66.0
+Epping,4,Diaspora Professional,151.05796,-33.76774,55,1535,78.3,25.1,27.6,63.4
+Epping,4,Diaspora Professional,151.06454,-33.78987,36,1381,77.3,37.1,22.9,68.7
+Epping,4,Diaspora Professional,151.06257,-33.74155,45,1506,66.3,29.9,4.1,55.9
+Epping,4,Diaspora Professional,151.09101,-33.78302,42,1519,77.2,24.1,20.3,79.1
+Epping,4,Diaspora Professional,151.10884,-33.74094,51,1383,58.8,22.6,16.2,43.0
+Epping,4,Diaspora Professional,151.05106,-33.81952,48,1514,86.9,31.3,12.3,42.5
+Epping,4,Diaspora Professional,151.03608,-33.80172,43,1318,69.9,30.7,18.1,58.1
+Epping,4,Diaspora Professional,151.10851,-33.79951,51,1347,75.3,35.1,27.0,50.4
+Epping,4,Diaspora Professional,151.07545,-33.76297,46,1467,80.2,42.7,7.8,57.0
+Epping,4,Diaspora Professional,151.05729,-33.7549,38,1419,73.0,22.1,8.4,54.3
+Epping,4,Diaspora Professional,151.10711,-33.77063,52,1683,80.1,23.5,23.7,53.6
+Epping,4,Diaspora Professional,151.06739,-33.808,54,1273,79.5,19.7,23.5,51.9
+Vaucluse,5,Harbor Elite,151.27646,-33.83805,55,3489,10.9,36.0,86.0,73.8
+Vaucluse,5,Harbor Elite,151.26117,-33.86284,47,4132,27.1,13.3,68.2,77.0
+Vaucluse,5,Harbor Elite,151.32,-33.82179,55,3374,0.0,19.8,72.0,69.1
+Vaucluse,5,Harbor Elite,151.28135,-33.89316,53,3816,30.5,23.7,76.8,64.7
+Vaucluse,5,Harbor Elite,151.27823,-33.85772,51,3999,30.1,30.5,89.7,68.6
+Vaucluse,5,Harbor Elite,151.18408,-33.82908,47,3099,21.8,15.3,76.9,55.5
+Vaucluse,5,Harbor Elite,151.25306,-33.85142,54,3821,18.7,12.1,67.9,69.9
+Vaucluse,5,Harbor Elite,151.31714,-33.91119,49,2834,11.8,23.8,76.4,71.6
+Vaucluse,5,Harbor Elite,151.30303,-33.87199,47,4593,23.0,22.4,72.1,53.2
+Vaucluse,5,Harbor Elite,151.22888,-33.87447,56,3894,32.3,12.1,84.9,60.3
+Vaucluse,5,Harbor Elite,151.28532,-33.86026,49,4169,19.4,9.9,72.2,64.8
+Vaucluse,5,Harbor Elite,151.36443,-33.84309,48,2972,10.0,11.8,72.9,79.4
+Vaucluse,5,Harbor Elite,151.30804,-33.85427,48,3634,20.9,28.3,70.5,67.3
+Vaucluse,5,Harbor Elite,151.2246,-33.86489,55,2966,19.0,22.8,60.2,76.5
+Vaucluse,5,Harbor Elite,151.2667,-33.86971,43,3689,44.7,22.7,65.1,77.1
+Vaucluse,5,Harbor Elite,151.27208,-33.82564,55,2028,17.0,23.7,73.2,59.8
+Vaucluse,5,Harbor Elite,151.26416,-33.90766,49,4605,31.4,31.1,79.1,76.2
+Vaucluse,5,Harbor Elite,151.32935,-33.85057,49,4016,36.6,15.1,66.2,69.1
+Vaucluse,5,Harbor Elite,151.30079,-33.84005,41,4456,19.9,16.4,64.8,89.6
+Vaucluse,5,Harbor Elite,151.28605,-33.88127,55,3885,23.5,23.0,65.4,64.1
+Vaucluse,5,Harbor Elite,151.22974,-33.8931,61,4321,25.5,28.0,70.7,66.1
+Vaucluse,5,Harbor Elite,151.28141,-33.86312,49,4072,26.2,22.3,80.3,71.1
+Vaucluse,5,Harbor Elite,151.25574,-33.89382,51,3414,25.7,17.9,92.7,57.4
+Vaucluse,5,Harbor Elite,151.23025,-33.85169,48,3658,29.7,25.7,59.9,63.5
+Vaucluse,5,Harbor Elite,151.29072,-33.84074,63,3978,24.5,12.7,67.5,63.3
+Vaucluse,5,Harbor Elite,151.29638,-33.85358,42,3282,32.0,20.1,76.5,71.1
+Vaucluse,5,Harbor Elite,151.32066,-33.8541,48,3042,27.0,3.4,70.5,66.4
+Vaucluse,5,Harbor Elite,151.24589,-33.88321,55,3615,25.8,19.8,72.7,77.9
+Vaucluse,5,Harbor Elite,151.28309,-33.89646,60,3685,20.3,10.5,75.2,67.1
+Vaucluse,5,Harbor Elite,151.31935,-33.86865,45,3948,32.4,19.0,77.4,67.7
+Bellevue Hill,5,Harbor Elite,151.26585,-33.85088,54,3415,35.8,3.8,88.4,54.4
+Bellevue Hill,5,Harbor Elite,151.24432,-33.88102,49,4003,16.5,19.6,67.4,70.4
+Bellevue Hill,5,Harbor Elite,151.25838,-33.87768,47,3245,27.3,23.7,67.2,61.0
+Bellevue Hill,5,Harbor Elite,151.27534,-33.88081,55,3047,10.8,14.8,65.9,67.4
+Bellevue Hill,5,Harbor Elite,151.24408,-33.86147,48,3575,26.3,19.2,71.8,72.1
+Bellevue Hill,5,Harbor Elite,151.24011,-33.84501,49,2844,26.5,12.9,77.3,85.7
+Bellevue Hill,5,Harbor Elite,151.24034,-33.87169,39,3727,17.9,14.3,63.2,73.9
+Bellevue Hill,5,Harbor Elite,151.28518,-33.87942,45,4295,19.0,5.0,75.7,59.2
+Bellevue Hill,5,Harbor Elite,151.28472,-33.88953,54,4201,15.3,14.6,71.4,80.3
+Bellevue Hill,5,Harbor Elite,151.24354,-33.89486,53,3211,26.2,8.7,89.7,57.2
+Bellevue Hill,5,Harbor Elite,151.25196,-33.88081,61,2838,40.9,22.5,75.3,60.1
+Bellevue Hill,5,Harbor Elite,151.27428,-33.89809,58,3014,24.1,14.7,64.1,73.9
+Bellevue Hill,5,Harbor Elite,151.27339,-33.84977,39,4032,45.0,15.3,87.2,65.9
+Bellevue Hill,5,Harbor Elite,151.22569,-33.88764,56,3081,20.2,21.6,72.0,72.7
+Bellevue Hill,5,Harbor Elite,151.26595,-33.86801,47,3616,17.6,25.7,66.9,77.0
+Bellevue Hill,5,Harbor Elite,151.25416,-33.87495,47,2992,11.0,11.7,69.4,69.7
+Bellevue Hill,5,Harbor Elite,151.28526,-33.89114,45,2779,28.8,26.3,82.1,73.7
+Bellevue Hill,5,Harbor Elite,151.27596,-33.83756,52,3823,22.4,9.8,66.5,67.9
+Bellevue Hill,5,Harbor Elite,151.26152,-33.83184,50,4089,21.5,16.1,61.4,62.1
+Bellevue Hill,5,Harbor Elite,151.27317,-33.87981,56,3591,22.2,30.9,71.2,77.3
+Bellevue Hill,5,Harbor Elite,151.24997,-33.86226,56,3604,6.2,18.1,81.8,72.2
+Bellevue Hill,5,Harbor Elite,151.27115,-33.92306,46,3706,28.3,25.3,70.8,71.2
+Bellevue Hill,5,Harbor Elite,151.26041,-33.90467,36,3716,26.4,14.3,59.0,73.0
+Bellevue Hill,5,Harbor Elite,151.25335,-33.86608,61,2429,19.4,16.7,83.6,54.9
+Bellevue Hill,5,Harbor Elite,151.3084,-33.8766,49,3401,21.5,24.3,63.5,70.8
+Bellevue Hill,5,Harbor Elite,151.2504,-33.89905,66,3710,29.9,24.8,60.6,82.0
+Bellevue Hill,5,Harbor Elite,151.19728,-33.89922,47,3791,26.7,17.0,71.9,60.2
+Bellevue Hill,5,Harbor Elite,151.22257,-33.86184,54,4292,18.7,22.2,69.7,77.5
+Bellevue Hill,5,Harbor Elite,151.28555,-33.87472,48,3980,30.2,13.9,61.4,65.7
+Bellevue Hill,5,Harbor Elite,151.29789,-33.85134,43,2916,35.2,11.2,76.1,63.1
+Mosman,5,Harbor Elite,151.28043,-33.84926,57,3592,27.0,6.2,54.4,66.2
+Mosman,5,Harbor Elite,151.24617,-33.85813,43,3781,29.5,17.2,78.2,58.6
+Mosman,5,Harbor Elite,151.2311,-33.7888,50,3563,43.4,9.6,78.4,81.3
+Mosman,5,Harbor Elite,151.23188,-33.80851,44,3157,28.1,22.8,81.0,80.6
+Mosman,5,Harbor Elite,151.23831,-33.80016,48,3951,26.7,20.7,75.4,55.2
+Mosman,5,Harbor Elite,151.2119,-33.82744,40,3916,32.0,20.0,63.0,79.0
+Mosman,5,Harbor Elite,151.29093,-33.82632,53,3601,29.2,17.3,71.7,75.2
+Mosman,5,Harbor Elite,151.29864,-33.865,49,2910,37.7,14.5,60.5,73.1
+Mosman,5,Harbor Elite,151.28361,-33.81341,51,3705,36.3,12.8,71.1,64.4
+Mosman,5,Harbor Elite,151.2108,-33.83821,57,3783,30.2,18.9,76.2,61.6
+Mosman,5,Harbor Elite,151.23226,-33.8252,52,3660,23.9,15.7,97.3,75.3
+Mosman,5,Harbor Elite,151.25033,-33.83583,47,3435,27.3,6.7,59.4,62.9
+Mosman,5,Harbor Elite,151.24518,-33.83598,59,2759,19.0,27.1,73.0,75.1
+Mosman,5,Harbor Elite,151.29128,-33.84735,49,3364,9.4,16.1,79.0,72.3
+Mosman,5,Harbor Elite,151.25548,-33.83939,46,4135,21.0,19.8,73.3,79.7
+Mosman,5,Harbor Elite,151.26429,-33.86238,43,3789,24.5,15.3,80.1,69.5
+Mosman,5,Harbor Elite,151.24131,-33.8105,48,4284,18.7,21.9,83.5,57.0
+Mosman,5,Harbor Elite,151.23142,-33.80144,57,3414,19.1,23.7,81.5,58.7
+Mosman,5,Harbor Elite,151.2099,-33.82437,54,3350,30.4,13.7,55.1,64.6
+Mosman,5,Harbor Elite,151.24158,-33.8369,43,2592,20.9,23.4,82.0,77.5
+Mosman,5,Harbor Elite,151.2196,-33.85884,53,3818,28.2,5.9,65.1,67.8
+Mosman,5,Harbor Elite,151.25218,-33.81082,51,3665,25.7,22.1,74.5,68.5
+Mosman,5,Harbor Elite,151.23329,-33.82797,53,3634,28.0,26.1,74.1,62.8
+Mosman,5,Harbor Elite,151.26209,-33.86415,44,3668,29.1,10.5,68.9,63.2
+Mosman,5,Harbor Elite,151.22783,-33.80641,54,3490,20.6,9.9,83.4,72.7
+Mosman,5,Harbor Elite,151.22233,-33.81201,50,3356,28.5,13.6,69.2,69.0
+Mosman,5,Harbor Elite,151.22751,-33.81327,61,3123,11.7,6.0,70.8,62.7
+Mosman,5,Harbor Elite,151.2452,-33.82669,40,2593,27.4,18.8,68.6,54.7
+Mosman,5,Harbor Elite,151.25178,-33.7982,52,3076,25.4,9.8,80.5,68.7
+Mosman,5,Harbor Elite,151.1958,-33.83752,53,3333,22.8,10.7,76.5,62.8
+Double Bay,5,Harbor Elite,151.19609,-33.88928,56,3307,38.9,20.6,74.7,67.0
+Double Bay,5,Harbor Elite,151.24829,-33.88659,48,3765,17.5,11.5,63.0,84.4
+Double Bay,5,Harbor Elite,151.26326,-33.87239,44,3812,24.1,19.3,64.2,69.3
+Double Bay,5,Harbor Elite,151.2394,-33.89914,54,2731,29.5,22.1,65.0,61.4
+Double Bay,5,Harbor Elite,151.24442,-33.87295,49,3717,39.1,15.0,58.3,74.6
+Double Bay,5,Harbor Elite,151.29208,-33.87018,43,3438,16.1,21.9,61.2,65.6
+Double Bay,5,Harbor Elite,151.22489,-33.87683,48,3588,25.2,12.1,77.0,67.6
+Double Bay,5,Harbor Elite,151.22529,-33.82398,53,3423,36.3,29.1,70.8,70.8
+Double Bay,5,Harbor Elite,151.2253,-33.88368,49,3592,27.7,21.4,73.9,58.3
+Double Bay,5,Harbor Elite,151.22654,-33.89366,48,4025,15.7,15.9,79.6,65.6
+Double Bay,5,Harbor Elite,151.26151,-33.88349,52,3386,30.3,8.7,69.1,70.4
+Double Bay,5,Harbor Elite,151.26334,-33.84268,48,4240,19.7,26.0,78.5,60.7
+Double Bay,5,Harbor Elite,151.25768,-33.88128,54,3388,22.5,26.2,71.2,74.6
+Double Bay,5,Harbor Elite,151.24437,-33.83833,46,3193,37.2,15.3,84.8,75.1
+Double Bay,5,Harbor Elite,151.24613,-33.92533,50,3551,34.3,27.5,66.5,74.4
+Double Bay,5,Harbor Elite,151.26914,-33.85316,53,2529,23.8,11.1,70.4,75.8
+Double Bay,5,Harbor Elite,151.25763,-33.8513,52,2851,4.8,18.9,70.3,60.2
+Double Bay,5,Harbor Elite,151.20748,-33.89837,49,3833,26.5,27.6,63.7,75.0
+Double Bay,5,Harbor Elite,151.25118,-33.86263,47,4036,27.4,13.9,71.9,66.1
+Double Bay,5,Harbor Elite,151.26223,-33.90949,50,3698,25.3,26.1,78.2,67.9
+Double Bay,5,Harbor Elite,151.25542,-33.87261,52,2587,22.6,9.1,82.2,67.5
+Double Bay,5,Harbor Elite,151.24517,-33.85758,53,2936,24.4,16.0,58.0,62.5
+Double Bay,5,Harbor Elite,151.24541,-33.88287,41,4076,24.2,18.2,75.2,61.7
+Double Bay,5,Harbor Elite,151.26141,-33.88918,45,3787,36.9,22.3,79.4,63.8
+Double Bay,5,Harbor Elite,151.21006,-33.84275,62,4271,22.3,11.1,63.5,54.5
+Double Bay,5,Harbor Elite,151.24732,-33.83986,49,3651,36.0,15.6,88.3,83.9
+Double Bay,5,Harbor Elite,151.24672,-33.89444,54,3326,15.7,25.7,81.7,69.2
+Double Bay,5,Harbor Elite,151.21843,-33.91074,51,3250,22.3,24.1,77.9,79.0
+Double Bay,5,Harbor Elite,151.22523,-33.88858,55,3724,37.3,20.5,86.8,72.3
+Double Bay,5,Harbor Elite,151.27655,-33.88809,50,3955,37.9,22.4,71.3,79.0
+Rhodes,6,Vertical Cosmopolitan,151.0352,-33.86556,34,952,66.1,65.5,22.6,58.5
+Rhodes,6,Vertical Cosmopolitan,151.10426,-33.80514,36,1212,62.4,67.2,5.8,60.7
+Rhodes,6,Vertical Cosmopolitan,151.08517,-33.80374,29,1054,60.0,63.6,20.0,61.9
+Rhodes,6,Vertical Cosmopolitan,151.07927,-33.87262,30,888,54.8,68.3,23.3,66.9
+Rhodes,6,Vertical Cosmopolitan,151.11489,-33.81561,30,890,63.1,69.6,29.2,74.5
+Rhodes,6,Vertical Cosmopolitan,151.07646,-33.83255,34,1089,69.4,64.5,8.0,57.0
+Rhodes,6,Vertical Cosmopolitan,151.09682,-33.82144,27,956,66.3,55.8,26.8,62.0
+Rhodes,6,Vertical Cosmopolitan,151.12144,-33.84334,27,890,59.0,61.9,16.3,67.7
+Rhodes,6,Vertical Cosmopolitan,151.08572,-33.83165,24,1001,59.1,77.9,10.5,50.5
+Rhodes,6,Vertical Cosmopolitan,151.10545,-33.82134,27,751,75.4,76.3,0.0,61.3
+Rhodes,6,Vertical Cosmopolitan,151.1316,-33.8419,29,913,48.8,51.4,26.4,50.3
+Rhodes,6,Vertical Cosmopolitan,151.09618,-33.80784,25,830,72.1,69.3,13.1,74.6
+Rhodes,6,Vertical Cosmopolitan,151.12016,-33.82327,27,896,62.9,63.5,25.5,52.8
+Rhodes,6,Vertical Cosmopolitan,151.05264,-33.82548,29,868,42.3,65.2,17.6,70.2
+Rhodes,6,Vertical Cosmopolitan,151.09172,-33.83332,36,779,65.4,51.6,11.3,55.3
+Rhodes,6,Vertical Cosmopolitan,151.10955,-33.83164,31,806,57.0,58.9,21.1,57.1
+Rhodes,6,Vertical Cosmopolitan,151.12324,-33.87189,28,1168,55.6,54.5,19.8,61.2
+Rhodes,6,Vertical Cosmopolitan,151.0691,-33.8574,42,917,40.7,76.9,22.9,58.9
+Rhodes,6,Vertical Cosmopolitan,151.06667,-33.81316,30,700,77.9,61.5,30.0,75.2
+Rhodes,6,Vertical Cosmopolitan,151.06497,-33.80417,28,707,55.8,68.2,14.3,62.5
+Rhodes,6,Vertical Cosmopolitan,151.11859,-33.82734,28,1041,62.0,44.8,21.4,68.1
+Rhodes,6,Vertical Cosmopolitan,151.0905,-33.80771,28,994,44.3,68.3,33.6,57.0
+Rhodes,6,Vertical Cosmopolitan,151.071,-33.84775,32,812,64.2,71.8,22.3,50.9
+Rhodes,6,Vertical Cosmopolitan,151.11488,-33.80657,34,998,62.2,73.3,33.4,57.4
+Rhodes,6,Vertical Cosmopolitan,151.11695,-33.83216,30,750,57.2,57.0,14.3,56.2
+Rhodes,6,Vertical Cosmopolitan,151.07878,-33.84015,31,740,45.5,67.9,11.6,73.6
+Rhodes,6,Vertical Cosmopolitan,151.09563,-33.81483,37,910,54.3,72.0,22.1,63.5
+Rhodes,6,Vertical Cosmopolitan,151.12479,-33.83531,31,953,50.7,65.6,29.2,68.6
+Rhodes,6,Vertical Cosmopolitan,151.09078,-33.83404,32,1047,66.1,62.3,20.6,68.8
+Rhodes,6,Vertical Cosmopolitan,151.06482,-33.82579,22,1013,66.6,71.0,14.8,67.5
+Zetland,6,Vertical Cosmopolitan,151.2456,-33.87466,31,968,71.1,53.0,15.4,75.7
+Zetland,6,Vertical Cosmopolitan,151.23438,-33.90077,25,944,54.1,67.6,11.5,56.8
+Zetland,6,Vertical Cosmopolitan,151.15838,-33.87945,29,970,60.0,56.5,7.9,57.0
+Zetland,6,Vertical Cosmopolitan,151.19192,-33.90083,28,1177,70.3,71.5,17.0,77.1
+Zetland,6,Vertical Cosmopolitan,151.20455,-33.91078,32,1041,66.4,61.2,13.7,70.1
+Zetland,6,Vertical Cosmopolitan,151.22788,-33.91983,25,923,66.2,79.4,8.4,61.6
+Zetland,6,Vertical Cosmopolitan,151.20026,-33.8761,31,832,65.6,61.8,8.2,57.9
+Zetland,6,Vertical Cosmopolitan,151.25335,-33.90039,31,918,62.9,67.2,20.3,65.9
+Zetland,6,Vertical Cosmopolitan,151.23172,-33.90942,27,870,40.2,81.2,24.9,58.4
+Zetland,6,Vertical Cosmopolitan,151.20295,-33.92592,37,765,61.1,64.1,24.6,64.2
+Zetland,6,Vertical Cosmopolitan,151.16604,-33.91628,27,960,74.3,51.1,11.6,60.6
+Zetland,6,Vertical Cosmopolitan,151.20046,-33.8915,30,1004,53.7,66.8,24.2,59.1
+Zetland,6,Vertical Cosmopolitan,151.22953,-33.90869,35,924,63.8,64.7,17.2,67.1
+Zetland,6,Vertical Cosmopolitan,151.22342,-33.94124,37,708,53.2,64.2,21.3,77.6
+Zetland,6,Vertical Cosmopolitan,151.16354,-33.92269,22,954,62.7,77.7,19.0,73.4
+Zetland,6,Vertical Cosmopolitan,151.2246,-33.92088,25,986,45.1,75.4,16.7,74.6
+Zetland,6,Vertical Cosmopolitan,151.19799,-33.90328,32,944,55.7,68.1,10.6,55.3
+Zetland,6,Vertical Cosmopolitan,151.24107,-33.89182,31,1166,57.3,75.6,19.4,56.8
+Zetland,6,Vertical Cosmopolitan,151.2562,-33.88523,31,1045,56.0,71.6,0.0,56.8
+Zetland,6,Vertical Cosmopolitan,151.23448,-33.91624,32,775,78.5,74.5,16.4,61.8
+Zetland,6,Vertical Cosmopolitan,151.23574,-33.86044,35,1232,50.8,58.4,8.5,68.5
+Zetland,6,Vertical Cosmopolitan,151.21439,-33.9138,34,1110,44.7,60.2,24.6,61.3
+Zetland,6,Vertical Cosmopolitan,151.19004,-33.88454,26,911,63.3,60.4,24.3,60.4
+Zetland,6,Vertical Cosmopolitan,151.24522,-33.91314,34,1047,53.7,48.6,20.9,65.6
+Zetland,6,Vertical Cosmopolitan,151.2239,-33.91566,29,1211,45.3,70.9,13.4,62.3
+Zetland,6,Vertical Cosmopolitan,151.20207,-33.93009,33,1131,64.7,65.8,10.1,69.1
+Zetland,6,Vertical Cosmopolitan,151.26391,-33.91952,29,877,55.1,43.0,21.2,58.2
+Zetland,6,Vertical Cosmopolitan,151.16974,-33.89117,27,906,74.7,53.7,5.7,67.2
+Zetland,6,Vertical Cosmopolitan,151.23874,-33.94936,33,1026,39.4,71.4,25.0,62.5
+Zetland,6,Vertical Cosmopolitan,151.24131,-33.88159,31,891,50.3,64.7,22.6,62.4
+Wolli Creek,6,Vertical Cosmopolitan,151.09506,-33.91828,32,901,68.6,77.2,0.0,68.5
+Wolli Creek,6,Vertical Cosmopolitan,151.11433,-33.93752,32,1033,55.0,50.0,14.4,68.3
+Wolli Creek,6,Vertical Cosmopolitan,151.17538,-33.9793,35,866,63.6,60.9,19.5,72.1
+Wolli Creek,6,Vertical Cosmopolitan,151.11932,-33.967,32,1262,51.4,81.3,34.0,64.2
+Wolli Creek,6,Vertical Cosmopolitan,151.14255,-33.9673,31,767,59.2,77.0,13.1,63.1
+Wolli Creek,6,Vertical Cosmopolitan,151.10747,-33.94065,32,958,57.8,62.7,22.0,64.8
+Wolli Creek,6,Vertical Cosmopolitan,151.15787,-33.94463,35,1038,61.9,77.1,21.4,75.4
+Wolli Creek,6,Vertical Cosmopolitan,151.16517,-33.99605,36,968,59.5,67.3,15.2,66.8
+Wolli Creek,6,Vertical Cosmopolitan,151.1352,-33.91814,31,900,50.8,67.2,19.5,68.1
+Wolli Creek,6,Vertical Cosmopolitan,151.12432,-33.99003,34,1143,49.7,77.7,20.3,64.9
+Wolli Creek,6,Vertical Cosmopolitan,151.14006,-33.98461,35,849,52.2,72.9,2.9,52.8
+Wolli Creek,6,Vertical Cosmopolitan,151.14955,-33.94267,33,911,85.3,63.2,16.2,58.6
+Wolli Creek,6,Vertical Cosmopolitan,151.1531,-33.93463,36,756,57.5,68.6,22.7,65.1
+Wolli Creek,6,Vertical Cosmopolitan,151.16356,-33.97022,37,1079,46.6,56.4,9.6,70.4
+Wolli Creek,6,Vertical Cosmopolitan,151.11788,-33.95828,33,941,62.6,56.5,22.8,60.1
+Wolli Creek,6,Vertical Cosmopolitan,151.14188,-33.94406,31,953,52.5,62.6,18.0,54.0
+Wolli Creek,6,Vertical Cosmopolitan,151.13844,-33.94031,26,1100,72.7,55.0,28.9,63.9
+Wolli Creek,6,Vertical Cosmopolitan,151.16046,-33.96242,35,1003,51.9,55.7,6.3,66.5
+Wolli Creek,6,Vertical Cosmopolitan,151.16431,-33.93373,31,800,53.2,74.2,14.1,66.1
+Wolli Creek,6,Vertical Cosmopolitan,151.12311,-33.94159,29,1086,67.7,61.0,17.0,60.6
+Wolli Creek,6,Vertical Cosmopolitan,151.11451,-33.97144,32,992,61.5,62.6,25.5,65.5
+Wolli Creek,6,Vertical Cosmopolitan,151.16758,-33.99434,15,987,45.8,63.3,15.6,77.7
+Wolli Creek,6,Vertical Cosmopolitan,151.16,-33.94585,34,998,55.4,73.6,9.1,67.6
+Wolli Creek,6,Vertical Cosmopolitan,151.11131,-33.9449,32,1168,44.4,60.2,24.6,67.7
+Wolli Creek,6,Vertical Cosmopolitan,151.15451,-33.9739,29,1112,59.5,68.0,17.1,55.5
+Wolli Creek,6,Vertical Cosmopolitan,151.17335,-33.93742,40,818,68.2,54.5,19.3,72.8
+Wolli Creek,6,Vertical Cosmopolitan,151.0982,-33.95512,29,859,63.9,74.0,16.9,66.6
+Wolli Creek,6,Vertical Cosmopolitan,151.15286,-33.94995,27,1094,63.0,68.2,11.5,61.3
+Wolli Creek,6,Vertical Cosmopolitan,151.1456,-33.98835,24,872,65.2,59.8,9.8,58.5
+Wolli Creek,6,Vertical Cosmopolitan,151.13862,-33.95885,40,1087,70.2,74.3,10.0,55.2
+Wentworth Point,6,Vertical Cosmopolitan,151.04233,-33.79664,29,787,55.7,63.1,20.1,67.0
+Wentworth Point,6,Vertical Cosmopolitan,151.0493,-33.81286,28,930,66.9,59.9,13.4,69.7
+Wentworth Point,6,Vertical Cosmopolitan,151.04856,-33.83962,33,1217,66.1,68.8,22.2,56.4
+Wentworth Point,6,Vertical Cosmopolitan,151.07289,-33.83074,32,965,63.8,62.5,18.5,55.2
+Wentworth Point,6,Vertical Cosmopolitan,151.062,-33.79523,32,947,79.0,54.1,9.1,78.7
+Wentworth Point,6,Vertical Cosmopolitan,151.07115,-33.83606,26,1008,65.4,56.2,16.9,62.3
+Wentworth Point,6,Vertical Cosmopolitan,151.0764,-33.85798,36,1069,56.4,63.3,16.9,58.8
+Wentworth Point,6,Vertical Cosmopolitan,151.05891,-33.83676,37,1073,69.3,68.0,9.1,64.7
+Wentworth Point,6,Vertical Cosmopolitan,151.09426,-33.86146,34,1252,70.6,76.3,19.7,72.7
+Wentworth Point,6,Vertical Cosmopolitan,151.05205,-33.8101,34,988,73.2,60.7,16.5,65.8
+Wentworth Point,6,Vertical Cosmopolitan,151.04426,-33.82433,24,1086,60.5,60.8,11.3,63.1
+Wentworth Point,6,Vertical Cosmopolitan,151.08721,-33.81631,28,840,66.6,59.2,18.5,66.0
+Wentworth Point,6,Vertical Cosmopolitan,151.0778,-33.80854,26,702,54.3,79.4,34.2,79.6
+Wentworth Point,6,Vertical Cosmopolitan,151.06518,-33.87455,22,870,58.0,75.4,24.9,66.8
+Wentworth Point,6,Vertical Cosmopolitan,151.04775,-33.85402,32,1041,63.9,56.7,23.2,68.4
+Wentworth Point,6,Vertical Cosmopolitan,151.04323,-33.84961,34,920,75.9,69.0,14.1,64.9
+Wentworth Point,6,Vertical Cosmopolitan,151.07158,-33.84821,27,1041,68.5,69.8,30.1,60.7
+Wentworth Point,6,Vertical Cosmopolitan,151.11186,-33.85252,27,721,55.5,61.0,22.2,67.0
+Wentworth Point,6,Vertical Cosmopolitan,151.04018,-33.83982,30,719,50.2,58.8,29.5,66.5
+Wentworth Point,6,Vertical Cosmopolitan,151.08655,-33.86747,36,1119,40.0,59.4,22.0,70.2
+Wentworth Point,6,Vertical Cosmopolitan,151.05304,-33.83764,29,964,72.0,58.8,26.0,58.7
+Wentworth Point,6,Vertical Cosmopolitan,151.04881,-33.80954,35,1061,46.8,61.3,24.6,65.3
+Wentworth Point,6,Vertical Cosmopolitan,151.04316,-33.81854,28,1183,75.4,69.8,28.9,65.5
+Wentworth Point,6,Vertical Cosmopolitan,151.08914,-33.79306,32,917,43.0,64.3,24.6,72.6
+Wentworth Point,6,Vertical Cosmopolitan,151.08261,-33.84353,23,886,57.0,62.5,22.9,80.9
+Wentworth Point,6,Vertical Cosmopolitan,151.07309,-33.83542,30,966,51.7,66.0,21.6,66.7
+Wentworth Point,6,Vertical Cosmopolitan,151.08144,-33.81916,24,1033,53.3,56.2,9.2,68.5
+Wentworth Point,6,Vertical Cosmopolitan,151.06444,-33.87205,33,763,61.4,66.9,25.1,79.3
+Wentworth Point,6,Vertical Cosmopolitan,151.03588,-33.83131,30,1006,62.2,62.2,14.5,56.1
+Wentworth Point,6,Vertical Cosmopolitan,151.0947,-33.81852,35,910,53.4,56.4,20.9,56.7
+Dural,7,Semi-Rural Lifestyle Dweller,151.07622,-33.72269,47,1792,22.8,16.1,70.3,12.3
+Dural,7,Semi-Rural Lifestyle Dweller,151.04925,-33.65235,42,1115,0.0,9.1,77.1,33.2
+Dural,7,Semi-Rural Lifestyle Dweller,151.04683,-33.68237,42,1254,29.2,16.2,61.2,17.3
+Dural,7,Semi-Rural Lifestyle Dweller,151.00854,-33.70366,49,1373,17.4,22.9,72.4,35.0
+Dural,7,Semi-Rural Lifestyle Dweller,151.01322,-33.68777,43,1431,21.6,17.6,72.0,14.1
+Dural,7,Semi-Rural Lifestyle Dweller,151.09258,-33.7021,50,998,15.8,14.2,81.8,2.9
+Dural,7,Semi-Rural Lifestyle Dweller,151.03415,-33.71874,47,1141,11.2,13.4,69.6,18.7
+Dural,7,Semi-Rural Lifestyle Dweller,151.00017,-33.73583,52,1076,16.6,19.5,73.1,16.2
+Dural,7,Semi-Rural Lifestyle Dweller,151.03566,-33.66205,37,1362,4.1,12.6,78.3,16.0
+Dural,7,Semi-Rural Lifestyle Dweller,151.01858,-33.72521,46,1664,9.2,11.3,82.0,30.5
+Dural,7,Semi-Rural Lifestyle Dweller,150.99267,-33.69422,47,1374,0.0,18.0,90.2,22.8
+Dural,7,Semi-Rural Lifestyle Dweller,151.00422,-33.70283,57,1627,23.1,17.1,72.7,20.6
+Dural,7,Semi-Rural Lifestyle Dweller,151.02805,-33.67626,56,1680,6.6,16.3,83.9,26.3
+Dural,7,Semi-Rural Lifestyle Dweller,151.01427,-33.61715,36,1129,19.9,27.7,71.3,20.1
+Dural,7,Semi-Rural Lifestyle Dweller,151.05693,-33.69045,43,1541,20.2,21.2,88.3,24.1
+Dural,7,Semi-Rural Lifestyle Dweller,151.03729,-33.68465,48,1414,18.0,22.2,90.1,11.4
+Dural,7,Semi-Rural Lifestyle Dweller,151.03025,-33.70722,43,1501,23.4,14.3,62.7,15.2
+Dural,7,Semi-Rural Lifestyle Dweller,151.05241,-33.75851,53,1530,28.5,13.8,61.5,25.0
+Dural,7,Semi-Rural Lifestyle Dweller,151.06187,-33.66688,40,1422,13.7,10.1,85.6,13.6
+Dural,7,Semi-Rural Lifestyle Dweller,151.00765,-33.7176,35,1437,27.3,13.9,66.0,27.9
+Dural,7,Semi-Rural Lifestyle Dweller,151.07214,-33.70616,42,1529,31.0,11.9,67.3,26.4
+Dural,7,Semi-Rural Lifestyle Dweller,151.04998,-33.68985,41,1649,22.2,10.4,78.4,12.5
+Dural,7,Semi-Rural Lifestyle Dweller,151.04715,-33.69656,42,1392,18.3,20.4,82.7,20.9
+Dural,7,Semi-Rural Lifestyle Dweller,151.04909,-33.67998,42,1369,16.8,18.0,75.1,19.3
+Dural,7,Semi-Rural Lifestyle Dweller,151.07922,-33.66651,40,1543,18.9,17.3,79.1,30.3
+Dural,7,Semi-Rural Lifestyle Dweller,151.03864,-33.69155,52,1458,19.0,16.9,77.3,22.1
+Dural,7,Semi-Rural Lifestyle Dweller,151.01533,-33.70878,38,1052,11.0,14.0,78.8,20.1
+Dural,7,Semi-Rural Lifestyle Dweller,150.97111,-33.65064,53,1511,33.3,9.1,93.1,15.2
+Dural,7,Semi-Rural Lifestyle Dweller,151.03597,-33.72185,45,1497,16.8,19.3,78.8,18.3
+Dural,7,Semi-Rural Lifestyle Dweller,151.01583,-33.66973,40,1629,27.8,5.0,87.1,36.4
+Galston,7,Semi-Rural Lifestyle Dweller,151.0263,-33.65502,52,1331,19.5,7.1,79.1,25.5
+Galston,7,Semi-Rural Lifestyle Dweller,151.0329,-33.64336,40,1267,33.2,14.1,79.6,21.5
+Galston,7,Semi-Rural Lifestyle Dweller,150.99946,-33.62941,41,1118,14.4,3.0,72.8,15.2
+Galston,7,Semi-Rural Lifestyle Dweller,151.03544,-33.68684,51,1750,24.2,13.7,79.1,11.3
+Galston,7,Semi-Rural Lifestyle Dweller,151.01666,-33.69151,50,2043,22.0,3.1,75.1,22.9
+Galston,7,Semi-Rural Lifestyle Dweller,151.02218,-33.68827,47,1089,10.4,18.9,69.9,25.8
+Galston,7,Semi-Rural Lifestyle Dweller,150.98576,-33.62588,40,1344,20.6,11.6,79.1,26.0
+Galston,7,Semi-Rural Lifestyle Dweller,151.04402,-33.65021,44,1363,36.8,20.7,70.6,22.7
+Galston,7,Semi-Rural Lifestyle Dweller,151.01162,-33.67338,36,1297,32.5,18.5,58.1,30.5
+Galston,7,Semi-Rural Lifestyle Dweller,151.04724,-33.67898,50,1185,14.2,24.0,75.8,8.9
+Galston,7,Semi-Rural Lifestyle Dweller,151.01842,-33.67196,53,1404,14.6,21.3,79.0,16.7
+Galston,7,Semi-Rural Lifestyle Dweller,151.04887,-33.66516,45,1444,9.4,11.8,78.0,20.6
+Galston,7,Semi-Rural Lifestyle Dweller,151.05181,-33.66456,51,1402,26.5,17.4,78.1,21.9
+Galston,7,Semi-Rural Lifestyle Dweller,150.99614,-33.65733,45,1275,26.9,7.5,74.6,29.2
+Galston,7,Semi-Rural Lifestyle Dweller,151.02789,-33.6712,47,1445,5.9,12.9,90.9,17.4
+Galston,7,Semi-Rural Lifestyle Dweller,151.01204,-33.68354,44,1254,21.9,16.2,84.2,14.6
+Galston,7,Semi-Rural Lifestyle Dweller,151.01149,-33.67564,48,1202,25.3,22.1,70.1,18.6
+Galston,7,Semi-Rural Lifestyle Dweller,151.0067,-33.60419,42,1819,7.9,9.1,72.5,16.1
+Galston,7,Semi-Rural Lifestyle Dweller,151.0133,-33.68772,39,1690,27.8,20.7,82.2,22.6
+Galston,7,Semi-Rural Lifestyle Dweller,151.00757,-33.69383,48,1107,10.0,21.9,93.2,24.8
+Galston,7,Semi-Rural Lifestyle Dweller,151.04766,-33.67615,36,1553,22.6,15.4,76.1,28.7
+Galston,7,Semi-Rural Lifestyle Dweller,150.99536,-33.68934,38,1421,9.3,10.9,72.4,20.2
+Galston,7,Semi-Rural Lifestyle Dweller,150.98282,-33.66782,54,1434,30.3,23.0,84.2,22.5
+Galston,7,Semi-Rural Lifestyle Dweller,151.02056,-33.65091,42,929,21.9,8.2,70.3,22.0
+Galston,7,Semi-Rural Lifestyle Dweller,151.01762,-33.7053,46,1642,9.0,22.6,65.5,36.8
+Galston,7,Semi-Rural Lifestyle Dweller,151.00972,-33.66636,32,1384,19.8,14.5,73.5,15.4
+Galston,7,Semi-Rural Lifestyle Dweller,151.04826,-33.66923,56,1268,14.5,19.9,65.0,13.5
+Galston,7,Semi-Rural Lifestyle Dweller,151.04744,-33.6993,32,1867,6.8,16.1,78.6,2.3
+Galston,7,Semi-Rural Lifestyle Dweller,151.01332,-33.65879,47,1626,14.9,19.3,72.5,12.1
+Galston,7,Semi-Rural Lifestyle Dweller,150.98756,-33.70655,52,1021,20.2,13.4,77.2,31.5
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.68904,-33.98471,45,1362,36.4,6.4,88.3,26.6
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.68801,-33.95927,32,1270,8.3,17.5,69.1,25.0
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.69534,-34.01198,48,1333,9.3,31.8,74.1,6.5
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.67895,-34.03168,51,1480,21.2,12.8,75.8,19.4
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.69797,-33.97912,47,1525,22.0,20.3,80.3,24.5
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.72972,-34.01663,39,1104,19.5,3.9,81.7,21.2
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.72837,-34.0168,44,1681,29.1,10.9,79.5,24.1
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.70934,-34.00656,54,928,14.6,17.7,81.7,31.5
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.72996,-34.00714,54,1221,25.4,25.9,87.7,22.7
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.69171,-34.03821,47,1121,11.7,7.9,74.3,21.8
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.70684,-34.01501,52,1348,11.7,16.4,93.7,24.3
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.69093,-34.03819,43,1459,14.9,5.0,71.2,32.2
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.73585,-34.02217,50,1105,29.2,16.5,85.6,10.0
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.71694,-34.00019,51,1629,18.5,11.4,84.2,21.6
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.67818,-34.023,35,1272,26.8,16.1,73.8,27.6
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.67919,-33.99762,44,1595,5.4,9.9,64.9,20.2
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.73029,-34.01264,41,1618,26.5,14.5,83.5,14.5
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.73445,-33.94628,49,879,13.5,18.7,74.6,30.9
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.7147,-34.01766,45,1177,16.5,11.7,87.4,36.8
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.66422,-34.04808,43,1020,18.4,19.5,90.0,23.4
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.69517,-34.04946,45,1418,23.1,10.7,74.5,11.7
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.64272,-34.02771,34,1484,13.9,11.8,70.1,0.0
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.73771,-34.02501,42,1036,25.8,15.9,71.4,19.3
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.74195,-34.00182,44,1165,2.8,14.0,80.6,29.7
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.64379,-34.02813,41,1399,16.8,14.3,81.3,15.7
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.72335,-33.98916,43,1800,30.5,20.6,53.9,33.1
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.71987,-33.94984,54,1795,25.0,23.1,94.0,23.5
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.66069,-34.00769,48,1419,8.0,5.2,72.1,27.7
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.73951,-33.97709,52,1380,4.1,12.3,75.9,18.5
+Cobbitty,7,Semi-Rural Lifestyle Dweller,150.70137,-33.98896,51,1330,2.8,12.1,78.3,30.6
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.7058,-33.86719,47,1411,25.4,11.0,73.4,21.9
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.704,-33.8673,40,1457,17.2,16.3,74.3,19.6
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.7224,-33.87495,45,1826,10.1,14.6,65.4,24.6
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.69212,-33.88696,42,1470,13.6,11.4,89.5,24.0
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.70597,-33.88627,57,1341,12.5,10.9,73.6,17.8
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.68801,-33.90811,39,1548,15.0,13.8,88.2,31.1
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.71295,-33.89577,39,1573,16.4,12.7,71.5,16.6
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.728,-33.91289,52,1267,16.8,7.0,77.9,19.7
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.71875,-33.84321,46,1201,12.3,18.6,88.4,24.0
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.73722,-33.86476,55,913,23.3,20.9,67.3,15.8
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.69873,-33.89822,42,1461,24.9,21.5,71.3,16.1
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.7529,-33.86383,46,1518,17.8,18.1,75.3,23.9
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.68224,-33.89719,40,1306,10.6,11.8,65.9,25.8
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.71794,-33.92263,39,1484,13.7,10.8,77.4,24.4
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.68409,-33.86625,39,1396,17.7,11.8,69.8,20.0
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.76063,-33.91404,57,1335,18.3,8.5,71.8,18.5
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.69386,-33.88522,42,1863,8.7,15.6,80.0,14.5
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.73717,-33.88996,28,1565,9.1,8.7,83.5,19.6
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.74294,-33.84975,40,1598,12.0,28.4,72.5,29.2
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.74109,-33.8721,40,1362,0.8,16.3,80.8,22.9
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.64567,-33.91164,40,1473,20.3,14.0,83.1,14.8
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.73526,-33.86813,48,1354,32.6,18.0,70.3,23.7
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.73881,-33.8947,53,1496,0.0,16.8,74.8,25.8
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.74361,-33.87512,57,1355,23.0,19.8,77.2,27.5
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.70513,-33.89056,36,1460,20.6,22.1,84.3,20.0
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.69055,-33.86918,53,1589,26.7,13.7,74.3,16.8
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.7186,-33.88196,46,1368,16.9,10.3,85.5,22.5
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.71564,-33.89869,36,1727,22.4,5.3,84.1,28.5
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.72311,-33.84005,47,1046,20.9,16.5,73.2,26.0
+Kemps Creek,7,Semi-Rural Lifestyle Dweller,150.67831,-33.85524,39,1154,17.1,17.6,79.3,16.8

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sydney Subculture Classifier</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="gov-bar"><div class="container">New South Wales Government &nbsp;·&nbsp; Year 12 Software Engineering — Digital Research Tool</div></div>
+
+<header class="site-header">
+    <div class="container">
+        <div>
+            <a href="index.html" class="site-title">Sydney Subculture Classifier</a>
+            <div class="site-subtitle">K-Nearest Neighbours Machine Learning Model &nbsp;·&nbsp; Synthetic Census Data</div>
+        </div>
+    </div>
+</header>
+
+<nav class="main-nav">
+    <div class="container">
+        <a href="index.html" class="nav-link active">Home</a>
+        <a href="quiz.html" class="nav-link">Take the Quiz</a>
+        <a href="how-it-works.html" class="nav-link">How It Works</a>
+    </div>
+</nav>
+
+<div class="hero">
+    <h1>Which Sydney subculture are you?</h1>
+    <p>Answer 7 questions about yourself. Our KNN model will match you to one of four distinct Sydney demographic groups — and explain exactly why.</p>
+    <a href="quiz.html" role="button" class="lg">Start the Quiz &rarr;</a>
+</div>
+
+<main>
+    <div class="container">
+
+        <div style="margin-top: 48px;">
+            <p class="section-title">The Four Subcultures</p>
+            <p style="font-size:.9rem; color:var(--text-muted); margin-bottom:4px;">The model classifies residents into one of these four groups based on 8 socio-economic features derived from synthetic ABS census data.</p>
+            <div class="subculture-grid">
+
+                <div class="subculture-card creative">
+                    <h3>Inner-City Creative</h3>
+                    <p>Young renters in creative, academic and hospitality industries. High university education, diverse but predominantly English-speaking. High rental density.</p>
+                    <div class="suburbs-tag"><strong>Suburbs:</strong> Newtown, Surry Hills, Marrickville</div>
+                </div>
+
+                <div class="subculture-card westie">
+                    <h3>Aspirational Westie</h3>
+                    <p>Working and middle-class families in the outer west. Multicultural, moderate income, mix of renters and owner-occupiers, striving for home ownership.</p>
+                    <div class="suburbs-tag"><strong>Suburbs:</strong> Blacktown, Penrith, Liverpool, Parramatta</div>
+                </div>
+
+                <div class="subculture-card enclave">
+                    <h3>Cultural Enclave</h3>
+                    <p>Communities with high overseas-born populations and non-English home language. Strong ethnic identity, lower income, moderate renting rates.</p>
+                    <div class="suburbs-tag"><strong>Suburbs:</strong> Cabramatta, Auburn, Lakemba, Eastwood</div>
+                </div>
+
+                <div class="subculture-card surf">
+                    <h3>Surf-Urbanite</h3>
+                    <p>Older, high-income owner-occupiers in coastal and upper-northern suburbs. Predominantly Anglo-Australian, high English-only, strong property wealth.</p>
+                    <div class="suburbs-tag"><strong>Suburbs:</strong> Manly, Cronulla, Hornsby, Mona Vale</div>
+                </div>
+
+            </div>
+        </div>
+
+        <div style="margin-top: 44px; padding-top: 40px; border-top: 1px solid var(--border); display:flex; gap:12px; flex-wrap:wrap; align-items:center;">
+            <a href="quiz.html" role="button" class="lg">Take the Quiz &rarr;</a>
+            <a href="how-it-works.html" role="button" class="outline">How does this work?</a>
+            <span style="font-size:.82rem; color:var(--text-muted); margin-left:8px;">Takes about 1 minute &nbsp;·&nbsp; 7 questions</span>
+        </div>
+
+    </div>
+</main>
+
+<footer class="site-footer">
+    <div class="container">
+        <span>Sydney Subculture Classifier &nbsp;·&nbsp; Year 12 Software Engineering &nbsp;·&nbsp; Synthetic data — not real ABS records.</span>
+        <span><a href="how-it-works.html">About this model</a></span>
+    </div>
+</footer>
+
+</body>
+</html>
