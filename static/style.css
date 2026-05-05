@@ -35,8 +35,10 @@
 }
 
 /* ── Layout ─────────────────────────────────────────────────────── */
+html, body { overflow-x: hidden; max-width: 100%; }
 .container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
 main { padding: 40px 0 72px; }
+article { overflow-wrap: break-word; word-break: break-word; }
 .form-card { max-width: 680px; }
 .page-heading { margin-bottom: 32px; }
 .page-heading h1 { color: var(--navy); margin-bottom: 8px; }
@@ -192,4 +194,6 @@ nav.main-nav .container { display: flex; padding: 0 24px; }
     .form-card { padding: 20px 16px; }
     .page-heading { padding: 28px 0 16px; }
     .page-heading h1 { font-size: 1.6rem; }
+    .container { padding: 0 14px; }
+    main { padding: 24px 0 48px; }
 }
