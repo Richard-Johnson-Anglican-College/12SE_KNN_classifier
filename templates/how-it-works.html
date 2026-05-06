@@ -89,11 +89,11 @@
                             <div>
                                 <h3>The 5 nearest neighbours vote</h3>
                                 <p>The 5 residents with the smallest distance to you are identified. Each casts one vote for their subculture. The subculture with the most votes (majority) becomes your prediction.</p>
-                                <p style="margin-top:10px;">The value <em>k</em> is a choice you make when building the model. Here is how it affects results:</p>
+                                <p style="margin-top:10px;">The value <em>k</em> is a choice you make when building the model. A common misconception is that a higher k is always better because "more data = more accurate." In KNN this is backwards — a higher k means you are consulting neighbours that are <em>further away</em>, which dilutes the signal from the people who are actually most like you:</p>
                                 <ul style="font-size:.84rem; color:var(--pico-muted-color); margin-top:8px; padding-left:20px;">
-                                    <li><strong style="color:var(--pico-color)">k = 1</strong> — the single nearest neighbour wins outright. Very sensitive: one unusual data point can flip the prediction entirely.</li>
-                                    <li><strong style="color:var(--pico-color)">k = 5</strong> — five neighbours vote. A single outlier is outvoted 4-to-1. More stable, still local enough to be precise. <em>This is what this model uses.</em></li>
-                                    <li><strong style="color:var(--pico-color)">k = 50</strong> — fifty neighbours vote. The prediction becomes an average of a large region and starts ignoring fine-grained local differences. Smoother, but blurrier — like judging a suburb by the whole city rather than the street.</li>
+                                    <li><strong style="color:var(--pico-color)">k = 1</strong> — only the single closest person decides. Very responsive to your exact profile, but one unusual data point can flip the result entirely.</li>
+                                    <li><strong style="color:var(--pico-color)">k = 5</strong> — five closest people vote. A single outlier is outvoted 4-to-1, which is more stable. Still close enough to your profile to be meaningful. <em>This is what this model uses.</em></li>
+                                    <li><strong style="color:var(--pico-color)">k = 50</strong> — the 50 closest people vote, but the 50th person may actually be quite far from you in demographic space. You are now averaging over a much wider region and the result reflects the <em>general area</em> rather than <em>your specific profile</em>. It is like asking 50 people spread across all of Western Sydney what suburb you belong in, instead of asking the 5 people standing right next to you.</li>
                                 </ul>
                             </div>
                         </div>
