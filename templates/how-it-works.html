@@ -62,7 +62,7 @@
                             <div class="step-number">2</div>
                             <div>
                                 <h3>Features are standardised</h3>
-                                <p>Income ($850/wk) and a percentage (62%) are on very different scales. If left raw, income would dominate every distance calculation just because it is a bigger number. <code>StandardScaler</code> rescales all 8 features to the same range first.</p>
+                                <p>Income ($850/wk) and a percentage (62%) are on very different scales. If left raw, income would dominate every distance calculation just because it is a bigger number — not because it is more important. <code>StandardScaler</code> rescales all 8 features to the same range (mean = 0, roughly ±1–2) so every feature competes fairly in the distance formula.</p>
                             </div>
                         </div>
 
@@ -70,7 +70,13 @@
                             <div class="step-number">3</div>
                             <div>
                                 <h3>Distance to all 1,470 residents is calculated</h3>
-                                <p>The model computes the straight-line (Euclidean) distance between your 8-number profile and every resident's 8-number profile. Think of it as measuring how far apart two points are — just in 8 dimensions instead of 2.</p>
+                                <p>The model computes the straight-line (Euclidean) distance between your 8-number profile and every resident's 8-number profile — the same formula as Pythagoras, extended to 8 dimensions. Because all features have been scaled, the result is a <strong>dimensionless number</strong> — not kilometres, dollars, or years. A distance of roughly 1.0 means the two profiles are about one standard deviation apart across all features combined. As a rough guide:</p>
+                                <ul style="font-size:.84rem; color:var(--pico-muted-color); margin-top:8px; padding-left:20px;">
+                                    <li><strong style="color:var(--pico-color)">&lt; 1.0</strong> — very close match, nearly identical profile</li>
+                                    <li><strong style="color:var(--pico-color)">1–2</strong> — reasonable match, a few features differ noticeably</li>
+                                    <li><strong style="color:var(--pico-color)">2–3</strong> — weaker match, meaningful differences across several features</li>
+                                    <li><strong style="color:var(--pico-color)">&gt; 3</strong> — poor match, crossing into different demographic territory</li>
+                                </ul>
                             </div>
                         </div>
 
