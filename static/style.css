@@ -157,7 +157,9 @@ nav.main-nav .container { display: flex; padding: 0 24px; }
 .step p { font-size: .84rem; color: var(--pico-muted-color); margin-bottom: 0; }
 
 /* Proxy table header */
-.proxy-table th { background: var(--navy); color: white; }
+.proxy-table { min-width: 480px; }
+.proxy-table th { background: var(--navy); color: white; white-space: nowrap; }
+.proxy-table code { white-space: nowrap; }
 
 /* How It Works two-column layout */
 .hiw-grid { display: grid; grid-template-columns: 2fr 1fr; gap: 24px; align-items: start; }
