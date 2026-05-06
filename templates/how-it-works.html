@@ -88,7 +88,13 @@
                             <div class="step-number">4</div>
                             <div>
                                 <h3>The 5 nearest neighbours vote</h3>
-                                <p>The 5 residents with the smallest distance to you are identified. Each casts one vote for their subculture. The subculture with the most votes (majority) becomes your prediction. The value <em>k = 5</em> is the number of neighbours — using more neighbours makes the model smoother but less precise.</p>
+                                <p>The 5 residents with the smallest distance to you are identified. Each casts one vote for their subculture. The subculture with the most votes (majority) becomes your prediction.</p>
+                                <p style="margin-top:10px;">The value <em>k</em> is a choice you make when building the model. Here is how it affects results:</p>
+                                <ul style="font-size:.84rem; color:var(--pico-muted-color); margin-top:8px; padding-left:20px;">
+                                    <li><strong style="color:var(--pico-color)">k = 1</strong> — the single nearest neighbour wins outright. Very sensitive: one unusual data point can flip the prediction entirely.</li>
+                                    <li><strong style="color:var(--pico-color)">k = 5</strong> — five neighbours vote. A single outlier is outvoted 4-to-1. More stable, still local enough to be precise. <em>This is what this model uses.</em></li>
+                                    <li><strong style="color:var(--pico-color)">k = 50</strong> — fifty neighbours vote. The prediction becomes an average of a large region and starts ignoring fine-grained local differences. Smoother, but blurrier — like judging a suburb by the whole city rather than the street.</li>
+                                </ul>
                             </div>
                         </div>
 
